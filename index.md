@@ -15,6 +15,7 @@ const people = {
     { name: "Yohnny", role: "Překlad"},
     { name: "Atoschi", role: "Překlad"},
     { name: "Manz_z", role: "Překlad"},
+    { name: "", role: ""},
     { name: "UwU-master", role: "Korektura"},
     { name: "Manz_z", role: "Korektura"},
     { name: "SeymoreClavage", role: "Korektura"},
