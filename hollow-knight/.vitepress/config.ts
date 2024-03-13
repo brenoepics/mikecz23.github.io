@@ -18,9 +18,9 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 export default defineConfig({
   title: "Hollow Knight – Čeština",
   description: "Stránka fanouškovského překladu hry Hollow Knight.",
-  base: "/test/hollow-knight/",
+  base: "/hollow-knight/",
   head: [
-    ["link", { rel: "icon", href: "/test/hollow-knight/favicon.ico" }],
+    ["link", { rel: "icon", href: "/hollow-knight/favicon.ico" }],
   ],
   themeConfig: {
     docFooter: {
