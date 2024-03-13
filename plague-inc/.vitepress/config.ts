@@ -16,11 +16,11 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Hollow Knight – Čeština",
-  description: "Stránka fanouškovského překladu hry Hollow Knight.",
-  base: "/test/",
+  title: "Plague Inc – Čeština",
+  description: "Stránka fanouškovského překladu hry Plague Inc.",
+  base: "/test/plague-inc/",
   head: [
-    ["link", { rel: "icon", href: "/test/favicon.ico" }],
+    ["link", { rel: "icon", href: "/test/plague-inc/favicon.ico" }],
   ],
   themeConfig: {
     docFooter: {
