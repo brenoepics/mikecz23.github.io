@@ -8,41 +8,30 @@ const people = {
     { name: "MikeCZ", role: "Vedení projektu"}
   ],
   l10n: [
-    { name: "Toasat165", role: "Překlad"},
-    { name: "DesoloSVK", role: "Překlad"},
-    { name: "UwU-master", role: "Překlad"},
-    { name: "LucianoLukin", role: "Překlad"},
-    { name: "Yohnny", role: "Překlad"},
-    { name: "Atoschi", role: "Překlad"},
-    { name: "Manz_z", role: "Překlad"},
-    { name: "", role: ""},
-    { name: "UwU-master", role: "Korektura"},
-    { name: "Manz_z", role: "Korektura"},
-    { name: "SeymoreClavage", role: "Korektura"},
-    { name: "Bendalf21", role: "Korektura"},
+    { name: "Papu", role: "Překlad"},
+    { name: "Rescue", role: "Překlad"},
+    { name: "Tedus", role: "Překlad"},
+    { name: "Janonas", role: "Překlad"},
+    { name: "Papu", role: "Korektura"},
+    { name: "null", role: "Korektura"},
   ],
  support: [
-    { name: "-", role: "Technika, fonty"},
-    { name: "-", role: "Grafika"},
-  ],
-  partners: [
-    { name: "HaiseT", role: "Mediální partner"},
-    { name: "PatrikTuri", role: "Mediální partner"}
+    { name: "Martin3D", role: "Technika, fonty"},
   ]
 };
 </script>
 
 <div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
-  <img src="https://i.imgur.com/k3FwNSO.jpg">
+  <img src="https://i.imgur.com/aVVGCna.jpg">
 </div>
 
-# Hollow Knight – Čeština
+# Plague Inc – Čeština
 
-![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) 
-![Stav překladu](https://img.shields.io/badge/korektura-99%25-gold?style=for-the-badge) 
-![Stav překladu](https://img.shields.io/badge/testování-100%25-blue?style=for-the-badge)
+![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge) 
+![](https://img.shields.io/badge/verze%20hry-aktualni-grey?style=for-the-badge) 
+![](https://img.shields.io/badge/verze%20překladu-0.7.2-grey?style=for-the-badge)
 
-Vítej na profilu fanouškovského překladu hry Hollow Knight.
+Vítej na profilu fanouškovského překladu hry Plague Inc.
 
 
 ## Členové týmu
