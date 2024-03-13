@@ -16,11 +16,11 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Starfield – Čeština",
-  description: "Stránka fanouškovského překladu hry Starfield.",
-  base: "/starfield-cestina/",
+  title: "Hollow Knight – Čeština",
+  description: "Stránka fanouškovského překladu hry Hollow Knight.",
+  base: "/test/",
   head: [
-    ["link", { rel: "icon", href: "/starfield-cestina/favicon.ico" }],
+    ["link", { rel: "icon", href: "/test/favicon.ico" }],
   ],
   themeConfig: {
     docFooter: {
@@ -44,9 +44,9 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "facebook", link: "https://www.facebook.com/profile.php?id=61556872838453" },
-      { icon: "instagram", link: "https://www.instagram.com/starfield.cestina/" },
-      { icon: "github", link: "https://github.com/prekladyher/starfield-preklad" }
+      { icon: "facebook", link: "#" },
+      { icon: "instagram", link: "#" },
+      { icon: "github", link: "#" }
     ]
   }
 });
