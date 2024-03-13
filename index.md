@@ -38,14 +38,11 @@ const people = {
 
 # Hollow Knight – Čeština
 
-![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) ![](https://img.shields.io/badge/korektura-99%25-gold?style=for-the-badge) ![](https://img.shields.io/badge/testování-100%25-blue?style=for-the-badge)
-<!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
+![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) 
+![Stav překladu](https://img.shields.io/badge/korektura-99%25-gold?style=for-the-badge) 
+![Stav překladu](https://img.shields.io/badge/testování-100%25-blue?style=for-the-badge)
 
 Vítej na profilu fanouškovského překladu hry Hollow Knight.
-
-Na překladu stále pracujeme a věříme, že se nám podaří přinést kvalitní českou lokalizaci. Pokud máš zájem se na překladu podílet, podívej se na sekci [Přidej se k nám](#pridej-se-k-nam).
-
-Chceteš-li dostávat informace o průběhu překladu, můžeš nás sledovat na [Facebooku](https://www.facebook.com/profile.php?id=61556872838453) nebo na [Instagramu](https://www.instagram.com/starfield.cestina/). Pokud máš jakýkoliv dotaz, návrh nebo připomínku, neváhej nás kontaktovat na některé ze zmíněných sociálních sítí.
 
 
 ## Členové týmu
