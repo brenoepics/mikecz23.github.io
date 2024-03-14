@@ -17,7 +17,7 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 
 export default {
   resolve: {
-    alias: { '@': fileURLToPath(new URL('../src', import.meta.url)) }
+    alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) }
   }
 }
 // https://vitepress.dev/reference/site-config
