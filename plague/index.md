@@ -27,7 +27,7 @@ const people = {
 
 # Plague Inc – Čeština
 
-![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen) ![Stav překladu](https://img.shields.io/badge/korektura-1%25-gold) ![Stav překladu](https://img.shields.io/badge/testování-99%25-blue)
+![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) ![Stav překladu](https://img.shields.io/badge/korektura-1%25-gold?style=for-the-badge) ![Stav překladu](https://img.shields.io/badge/testování-99%25-blue?style=for-the-badge)
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 
 Vítej na profilu fanouškovského překladu hry Plague Inc.
