@@ -36,8 +36,7 @@ export default defineConfig({
       { text: 'readme', items: [
       { text: 'Voices of the Void', link: '/readme/VotV'},
       { text: 'Progressbar95', link: '/readme/progressbar95'},
-      { text: 'test', link: 'http://tn.cz'}]},
-      
+      // end dropdown
       { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/"},
       { text: "Hollow Knight", link: "/hollow/", activeMatch: "/hollow/" },
       { text: "Plague Inc", link: "/plague/", activeMatch: "/plague/" },
