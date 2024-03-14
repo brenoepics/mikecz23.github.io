@@ -32,14 +32,6 @@ export default defineConfig({
 
     nav: [
       { text: "Úvod", link: "/" },
-      {
-        text: 'Dropdown Menu',
-        items: [
-          { text: 'Item A', link: '/item-1' },
-          { text: 'Item B', link: '/item-2' },
-          { text: 'Item C', link: '/item-3' }
-        ]
-      }
       { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/" },
       { text: "Hollow Knight", link: "/hollow/", activeMatch: "/hollow/" },
       { text: "Plague Inc", link: "/plague/", activeMatch: "/plague/" },
