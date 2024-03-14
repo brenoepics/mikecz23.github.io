@@ -8,9 +8,5 @@ Oznámení záměru překladu
 </PBlogHeader>
 
 ::: warning POZOR
-Odkazy v popisku videa již nejsou platné. Správné odkazy najdete na [hlavní stráce](/) projektu.
+Odkazy tu zatím nejsou. Sleduj [hlavní stránku](/) projektu.
 :::
-
-<div style="display: flex; justify-content: space-around;">
-  
-</div>
