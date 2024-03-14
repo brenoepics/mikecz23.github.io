@@ -33,7 +33,9 @@ const people = {
 
 # Hollow Knight – Čeština
 
-![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) ![](https://img.shields.io/badge/korektura-99%25-gold?style=for-the-badge) ![](https://img.shields.io/badge/testování-100%25-blue?style=for-the-badge)
+![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) <br> ![](https://img.shields.io/badge/korektura-99%25-gold?style=for-the-badge) <br> ![](https://img.shields.io/badge/testování-100%25-blue?style=for-the-badge)
+<!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
+<!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 
 Vítej na profilu fanouškovského překladu hry Hollow Knight.
