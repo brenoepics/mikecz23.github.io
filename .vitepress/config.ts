@@ -34,9 +34,9 @@ export default defineConfig({
       { text: "Úvod", link: "/" },
       
       { text: 'TestDropMenu', items: [
-      { text: 'Pol1', link: '/pol1'},
-      { text: 'Pol2', link: '/nic/pol2'},
-      { text: 'Pol3', link: '/nic/pol3'}
+      { text: 'Pol1', link: '/readme/VotV'},
+      { text: 'Pol2', link: '/readme/progressbar95'},
+      { text: 'Pol3', link: '/readme/pol3'}
       ]
       },
       
