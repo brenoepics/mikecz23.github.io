@@ -32,7 +32,12 @@ export default defineConfig({
 
     nav: [
       { text: "Úvod", link: "/" },
-      { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/" },
+      { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/", items: [
+        { text: 'Tool1', link: '/tools/tool1.md' },
+        { text: 'Tool2', link: '/tools/tool2.md' },
+        { text: 'Tool3', link: '/tools/tool3.md' },
+      ],
+    },
       { text: "Hollow Knight", link: "/hollow/", activeMatch: "/hollow/" },
       { text: "Plague Inc", link: "/plague/", activeMatch: "/plague/" },
     ],
