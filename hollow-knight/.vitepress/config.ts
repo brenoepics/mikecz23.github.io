@@ -15,6 +15,9 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 }
 
 // https://vitepress.dev/reference/site-config
+export default {
+  srcDir: './src'
+}
 export default defineConfig({
   title: "Hollow Knight – Čeština",
   description: "Stránka fanouškovského překladu hry Hollow Knight.",
