@@ -33,10 +33,10 @@ export default defineConfig({
     nav: [
       { text: "Úvod", link: "/" },
       
-      { text: 'DropMenu', items: [
-      { text: 'Writing', link: '/foo'},
-      { text: 'Markdown Extensions', link: '/guide/markdown'},
-      { text: 'Asset Handling', link: '/guide/asset-handling'}
+      { text: 'TestDropMenu', items: [
+      { text: 'Pol1', link: '/pol1'},
+      { text: 'Pol2', link: '/nic/pol2'},
+      { text: 'Pol3', link: '/nic/pol3'}
       ]
       },
       
