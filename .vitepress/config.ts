@@ -42,7 +42,7 @@ export default defineConfig({
     },
 
     sidebar: {
-      "/novinky/": posts,
+      "/novinky/": posts
       "/hollow-knight/": posts
     },
 
