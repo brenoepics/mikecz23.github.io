@@ -33,10 +33,9 @@ export default defineConfig({
     nav: [
       { text: "Úvod", link: "/" },
       
-      { text: 'TestDropMenu', items: [
-      { text: 'Pol1', link: '/readme/VotV'},
-      { text: 'Pol2', link: '/readme/progressbar95'},
-      { text: 'Pol3', link: '/readme/pol3'}
+      { text: 'readme', items: [
+      { text: 'Voices of the Void', link: '/readme/VotV'},
+      { text: 'Progressbar95', link: '/readme/progressbar95'}
       ]
       },
       
