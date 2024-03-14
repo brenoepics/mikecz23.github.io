@@ -1,5 +1,5 @@
 ---
-title: Hollow Knight – Čeština
+title: Plague Inc – Čeština
 sidebar: false
 ---
 <script setup lang="ts">

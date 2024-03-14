@@ -1,5 +1,5 @@
 ---
-title: Hollow Knight – Čeština
+title: Češtiny
 sidebar: false
 ---
 <script setup lang="ts">

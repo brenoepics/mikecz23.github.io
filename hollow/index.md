@@ -1,5 +1,5 @@
 ---
-title: test – Čeština
+title: Hollow Knight – Čeština
 sidebar: false
 ---
 <script setup lang="ts">
@@ -19,11 +19,6 @@ const people = {
     { name: "Manz_z", role: "Korektura"},
     { name: "SeymoreClavage", role: "Korektura"},
     { name: "Bendalf21", role: "Korektura"},
-  ],
- support: [
-    { name: "Flu", role: "Technika, fonty"},
-    { name: "Luc2as", role: "Grafika"},
-    { name: "Paras", role: "PR"},
   ],
   partners: [
     { name: "HaiseT", role: "Mediální partner"},
