@@ -3,6 +3,7 @@ import FastGlob from "fast-glob";
 import grayMatter from "gray-matter";
 import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
+import { fileURLToPath, URL } from 'url'
 
 const posts: any[] = [];
 for (const source of await FastGlob("novinky/*-*.md")) {
@@ -14,6 +15,11 @@ for (const source of await FastGlob("novinky/*-*.md")) {
   });
 }
 
+export default {
+  resolve: {
+    alias: { '@': fileURLToPath(new URL('../src', import.meta.url)) }
+  }
+}
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Hollow Knight – Čeština",
