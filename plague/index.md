@@ -44,3 +44,5 @@ Na překladu se podílejí následující lidé:
 <PTeamMembers :members="people.support" />
 
 <PTeamMembers :members="people.partners" />
+
+## Ke stažení
