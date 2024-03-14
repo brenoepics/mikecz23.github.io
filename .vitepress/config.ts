@@ -11,7 +11,6 @@ for (const source of await FastGlob("novinky/*-*.md")) {
   posts.push({
     text: matter.data.title,
     link: `/novinky/${basename(source, ".md")}.html`
-    link: `/hollow-knight/${basename(source, ".md")}.html`
   });
 }
 
