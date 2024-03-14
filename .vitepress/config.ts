@@ -33,7 +33,6 @@ export default defineConfig({
     nav: [
       { text: "Úvod", link: "/" },
       { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/" },
-      { text: "Hollow Knight", link: "/hollow-knight/", activeMatch: "/hollow-knight/" },
     ],
 
     outline: {
@@ -42,7 +41,6 @@ export default defineConfig({
 
     sidebar: {
       "/novinky/": posts
-      "/hollow-knight/": posts
     },
 
     socialLinks: [
