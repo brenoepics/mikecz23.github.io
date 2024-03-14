@@ -2,7 +2,6 @@
 title: Češtiny
 sidebar: false
 ---
-<script setup lang="ts">
 
 # Češtiny
 
