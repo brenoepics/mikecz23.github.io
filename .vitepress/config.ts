@@ -10,7 +10,7 @@ for (const source of await FastGlob("novinky/*-*.md")) {
   const matter = grayMatter(content);
   posts.push({
     text: matter.data.title,
-    link: `/novinky/${basename(source, ".md")}.html`,
+    link: `/novinky/${basename(source, ".md")}.html`
     link: `/hollow-knight/${basename(source, ".md")}.html`
   });
 }
