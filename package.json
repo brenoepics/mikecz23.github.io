@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "hollow-knight",
   "version": "0.0.0",
-  "description": "Stránka fanouškovského překladu.",
+  "description": "Stránka fanouškovského překladu hry Hollow Knight.",
   "type": "module",
   "devDependencies": {
     "@types/node": "^20.11.25",
