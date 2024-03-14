@@ -10,14 +10,15 @@ for (const source of await FastGlob("novinky/*-*.md")) {
   const matter = grayMatter(content);
   posts.push({
     text: matter.data.title,
-    link: `/novinky/${basename(source, ".md")}.html`
+    link: `/novinky/${basename(source, ".md")}.html`,
+    link: `/hollow-knight/${basename(source, ".md")}.html`
   });
 }
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Hollow Knight – Čeština",
-  description: "Stránka fanouškovského překladu hry Hollow Knight.",
+  title: "test – Čeština",
+  description: "Stránka fanouškovského překladu.",
   base: "/test/",
   head: [
     ["link", { rel: "icon", href: "/test/favicon.ico" }],
@@ -33,6 +34,7 @@ export default defineConfig({
     nav: [
       { text: "Úvod", link: "/" },
       { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/" },
+      { text: "Hollow Knight", link: "/hollow-knight/", activeMatch: "/hollow-knight/" },
     ],
 
     outline: {
@@ -40,7 +42,8 @@ export default defineConfig({
     },
 
     sidebar: {
-      "/novinky/": posts
+      "/novinky/": posts,
+      "/hollow-knight/": posts
     },
 
     socialLinks: [
