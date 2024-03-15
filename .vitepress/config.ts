@@ -16,7 +16,7 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Češtiny",
+  title: "Češtiny - WIP",
   description: "Stránka fanouškovského překladu hry.",
   base: "/test/",
   head: [
