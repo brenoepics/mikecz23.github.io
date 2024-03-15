@@ -15,7 +15,7 @@ Odkazy tu zatím nejsou. Sleduj [hlavní stránku](/) projektu.
   <iframe
     width="560"
     height="315"
-    src="https://www.youtube.com/watch?v=GuyENhn1jMM" title="YouTube video player"
+    src="https://www.youtube.com/live/GuyENhn1jMM?si=PAjoNHsee7xWFcuQ" title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
