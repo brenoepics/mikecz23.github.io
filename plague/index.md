@@ -30,7 +30,9 @@ const people = {
 ![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 
-Vítej na profilu fanouškovského překladu hry Plague Inc.
+Plague Inc: Evolved je jedinečná kombinace vysoké strategie a děsivě realistické simulace. Váš patogen právě nakazil „Patient Zero“ - nyní musíte dosáhnout konce lidské historie vyvinutím smrtícího, globálního moru a zároveň se přizpůsobit všem, co lidstvo může udělat, aby se bránilo.
+<br><br>
+Plague Inc: The Cure byla vytvořena za pomoci světových odborníků na zdraví a infekční choroby z celého světa, včetně Koalice pro připravenost na epidemii (CEPI), Světové zdravotnické organizace (WHO) a Globální sítě pro vypuknutí a reakci na ohniska (GOARN). Vaším úkolem je vyvážit sociální, ekonomické a globální zdravotní faktory s cílem udržet nemoc pod kontrolou a zároveň zachovat důvěru veřejnosti.
 
 
 ## Členové týmu
