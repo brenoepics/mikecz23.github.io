@@ -29,7 +29,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 20124-present Evan You'
+      copyright: 'Copyright © 2024-present MikeCZ'
     },
 
     darkModeSwitchLabel: "Vzhled",
