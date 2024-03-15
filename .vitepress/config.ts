@@ -34,8 +34,7 @@ export default defineConfig({
  //   },
 
     sitemap: {
-    hostname: 'https://mikecz23.github.io/test/',
-    lastmodDateOnly: false
+    hostname: 'https://mikecz23.github.io/test/'
     },
     
     darkModeSwitchLabel: "Vzhled",
