@@ -13,16 +13,35 @@
 Pracujete jako vědec v izolované výzkumné laboratoři ve Švýcarských horách. Vaším úkolem je shromažďovat signály z vesmíru, analyzovat je, zpracovávat a prodávat, abyste získali body. Můžete získávat běžné signály a objekty, jako jsou trpasličí planety a hvězdy, nebo můžete získat něco "neobvyklého" či "podivného". Hra obsahuje více než 40 dní a událostí, více než 150 možných signálů, několik easter eggů a tajemství.<br /><br />
 
 ## Info:
-Překlad: MikeCZ, Hopes <br />
-Technika a Fonty: termit <br />
+<PTeamMembers :members="people.lead" />
+
+<PTeamMembers :members="people.l10n" />
+
+<PTeamMembers :members="people.support" />
+
+<PTeamMembers :members="people.partners" />
 
 ## Hlášení:
 **CHYBY V PŘEKLADU NAHLAŠUJTE NA JEHO DISCORDU V [TÉTO ROOMCE](https://discord.com/channels/512287844258021376/1213827086708379688) VE FORMĚ SCREENU, A JÁ TI TO DO DRUHÉHO DNE POŠLU**
 
 
-
-
-
+<script setup lang="ts">
+const people = {
+  lead: [
+    { name: "MikeCZ", role: "Vedení projektu"}
+  ],
+  l10n: [
+    { name: "Hopes", role: "Překlad"},
+    { name: "Hopes", role: "Korektura"},
+  ],
+  support: [
+    { name: "termit", role: "Technika, fonty"},
+  ],
+  partners: [
+    { name: "RTHWLDN", role: "Mediální partner"}
+  ]
+};
+</script>
 
 
 
