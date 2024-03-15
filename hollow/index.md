@@ -41,6 +41,13 @@ const people = {
 
 Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružství v rozlehlém zničeném království hmyzu a hrdinů. Prozkoumejte kroutící se jeskyně, bojujte s poskvrněnými tvory a spřátelte se s bizarními brouky, to vše v klasickém, ručně kresleném 2D stylu.
 
+## Požadavky
+[Scarab](https://github.com/fifty-six/Scarab/releases)`github` <br />
+└ Po prvnim spuštění se tě to zeptá kde máš hru nainstalovanou <br />
+└ V horní části appky je vyhledávání. Najdi a zapni **SFCore** a **Vasi** <br />
+[LangSupport](https://github.com/SFGrenade/LanguageSupport/releases)`github` <br />
+└ vložit sem: *\hollow_knight_Data\Managed\Mods <br />
+<img src="https://i.imgur.com/uAUAHpw.png"  width="35%" height="30%"> <br />
 
 ## Členové týmu
 
