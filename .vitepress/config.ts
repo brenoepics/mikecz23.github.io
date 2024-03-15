@@ -27,6 +27,10 @@ export default defineConfig({
       prev: 'Předchozí stránka',
       next: 'Následující stránka'
     },
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 20124-present Evan You'
+    },
 
     darkModeSwitchLabel: "Vzhled",
     lightModeSwitchTitle: "Přepnout do světlého režimu",
