@@ -52,8 +52,6 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "facebook", link: "#" },
-      { icon: "instagram", link: "#" },
       { icon: "github", link: "#" }
     ]
   }
