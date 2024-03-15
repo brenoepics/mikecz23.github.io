@@ -48,3 +48,4 @@ Na překladu se podílejí následující lidé:
 <PTeamMembers :members="people.partners" />
 
 ## Ke stažení
+[Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
