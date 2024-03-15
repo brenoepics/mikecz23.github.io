@@ -28,10 +28,10 @@ export default defineConfig({
       next: 'Následující stránka'
     },
     
-  //  footer: {
-  //  message: '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)',
-  //  copyright: 'Copyright © 2024-present'
-  //  },
+    footer: {
+    message: '<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>.',
+    copyright: 'Copyright © 2024-present'
+    },
     
     darkModeSwitchLabel: "Vzhled",
     lightModeSwitchTitle: "Přepnout do světlého režimu",
