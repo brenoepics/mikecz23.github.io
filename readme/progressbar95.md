@@ -1,6 +1,22 @@
-# Progressbar95 - čeština
+---
+title: Progressbar95 - čeština
+sidebar: false
+---
+<script setup lang="ts">
+const people = {
+  lead: [
+    { name: "MikeCZ", role: "Vedení projektu"}
+  ],
+  l10n: [
+    { name: "Hopes", role: "Překlad"},
+    { name: "Hopes", role: "Korektura"},
+  ]
+};
+</script>
 
 ![](https://i.imgur.com/E3xDiHU.pn)
+
+# Progressbar95 - Čeština
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen) ![](https://img.shields.io/badge/testování-100%25-blue)
 
@@ -12,8 +28,17 @@
 ------------
 Progressbar95 je jedinečná indie hra se silnou nostalgickou atmosférou. Promění vintage prvky GUI, jako jsou panely, tlačítka a ikony, na herní prvky! Jednoduchá a návyková hra založená na desítkách mini-her a hádanek. Hra vás rozesměje!
 
-## Info:
-Překlad: MikeCZ<br />
+## Členové týmu
+
+Na překladu se podílejí následující lidé:
+
+<PTeamMembers :members="people.lead" />
+
+<PTeamMembers :members="people.l10n" />
+
+<PTeamMembers :members="people.support" />
+
+<PTeamMembers :members="people.partners" />
 
 ### Instalace:
 cesta: Progressbar95\Resources\international\en <br />
