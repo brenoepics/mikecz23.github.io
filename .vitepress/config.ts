@@ -28,7 +28,7 @@ export default defineConfig({
       next: 'Následující stránka'
     },
  //   footer: {
- //     message: 'Released under the MIT License.',
+ //     message: '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)',
  //     copyright: 'Copyright © 2024-present MikeCZ'
  //   },
     
