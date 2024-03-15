@@ -36,7 +36,10 @@ const people = {
 ------------
 Pracujete jako vědec v izolované výzkumné laboratoři ve Švýcarských horách. Vaším úkolem je shromažďovat signály z vesmíru, analyzovat je, zpracovávat a prodávat, abyste získali body. Můžete získávat běžné signály a objekty, jako jsou trpasličí planety a hvězdy, nebo můžete získat něco "neobvyklého" či "podivného". Hra obsahuje více než 40 dní a událostí, více než 150 možných signálů, několik easter eggů a tajemství.<br /><br />
 
-## Info:
+## Členové týmu
+
+Na překladu se podílejí následující lidé:
+
 <PTeamMembers :members="people.lead" />
 
 <PTeamMembers :members="people.l10n" />
