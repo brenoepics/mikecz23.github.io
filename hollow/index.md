@@ -47,7 +47,7 @@ Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružstv�
 └ V horní části appky je vyhledávání. Najdi a zapni **SFCore** a **Vasi** <br />
 [LangSupport](https://github.com/SFGrenade/LanguageSupport/releases)`github` <br />
 └ vložit sem: *\hollow_knight_Data\Managed\Mods <br />
-<img src="https://i.imgur.com/uAUAHpw.png"  width="45%" height="40%"> <br />
+<img src="https://i.imgur.com/uAUAHpw.png"  width="55%" height="50%"> <br />
 
 ## Členové týmu
 
