@@ -29,6 +29,8 @@ export default defineConfig({
     },
 
     darkModeSwitchLabel: "Vzhled",
+    lightModeSwitchTitle: "Přepnout do světlého režimu",
+    darkModeSwitchTitle: "Přepnout do tmavého režimu",
 
     nav: [
       { text: "Úvod", link: "/" },
