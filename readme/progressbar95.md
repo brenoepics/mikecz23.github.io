@@ -6,10 +6,6 @@ sidebar: false
 const people = {
   lead: [
     { name: "MikeCZ", role: "Vedení projektu"}
-  ],
-  l10n: [
-    { name: "Hopes", role: "Překlad"},
-    { name: "Hopes", role: "Korektura"},
   ]
 };
 </script>
