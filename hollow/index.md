@@ -39,7 +39,7 @@ const people = {
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 
-Vítej na profilu fanouškovského překladu hry Hollow Knight.
+Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružství v rozlehlém zničeném království hmyzu a hrdinů. Prozkoumejte kroutící se jeskyně, bojujte s poskvrněnými tvory a spřátelte se s bizarními brouky, to vše v klasickém, ručně kresleném 2D stylu.
 
 
 ## Členové týmu
