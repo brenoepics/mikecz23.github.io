@@ -1,10 +1,10 @@
 ---
-title: 00. Oznámení záměru
+title: 00. Spuštění webu
 date: 2024-03-14
 ---
 
 <PBlogHeader>
-Oznámení záměru překladu
+Spustil jsem tento web
 </PBlogHeader>
 
 ::: warning POZOR
