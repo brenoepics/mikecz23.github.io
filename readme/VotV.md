@@ -1,4 +1,24 @@
-# Voices of the Void - čeština
+---
+title: Voices of the Void - čeština
+sidebar: false
+---
+<script setup lang="ts">
+const people = {
+  lead: [
+    { name: "MikeCZ", role: "Vedení projektu"}
+  ],
+  l10n: [
+    { name: "Hopes", role: "Překlad"},
+    { name: "Hopes", role: "Korektura"},
+  ],
+  support: [
+    { name: "termit", role: "Technika, fonty"},
+  ],
+  partners: [
+    { name: "RTHWLDN", role: "Mediální partner"}
+  ]
+};
+</script>
 
 ![](https://i.imgur.com/E3xDiHU.png)
 
@@ -23,26 +43,6 @@ Pracujete jako vědec v izolované výzkumné laboratoři ve Švýcarských hor�
 
 ## Hlášení:
 **CHYBY V PŘEKLADU NAHLAŠUJTE NA JEHO DISCORDU V [TÉTO ROOMCE](https://discord.com/channels/512287844258021376/1213827086708379688) VE FORMĚ SCREENU, A JÁ TI TO DO DRUHÉHO DNE POŠLU**
-
-
-<script setup lang="ts">
-const people = {
-  lead: [
-    { name: "MikeCZ", role: "Vedení projektu"}
-  ],
-  l10n: [
-    { name: "Hopes", role: "Překlad"},
-    { name: "Hopes", role: "Korektura"},
-  ],
-  support: [
-    { name: "termit", role: "Technika, fonty"},
-  ],
-  partners: [
-    { name: "RTHWLDN", role: "Mediální partner"}
-  ]
-};
-</script>
-
 
 
 
