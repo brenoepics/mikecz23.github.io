@@ -14,7 +14,7 @@ const people = {
 
 # Progressbar95 - Čeština
 
-![](https://img.shields.io/badge/přeloženo-100%25-darkgreen) ![](https://img.shields.io/badge/testování-100%25-blue)
+![](https://img.shields.io/badge/přeloženo-100%25-darkgreen)
 
 ![](https://img.shields.io/badge/herní%20klient-Steam-grey?style=for-the-badge
 ) ![](https://img.shields.io/badge/verze%20hry-aktuální-grey?style=for-the-badge
