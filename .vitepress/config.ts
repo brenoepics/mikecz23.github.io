@@ -3,6 +3,10 @@ import FastGlob from "fast-glob";
 import grayMatter from "gray-matter";
 import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
+// .vitepress/theme/index.js
+import DefaultTheme from 'vitepress/theme'
+import vitepressBackToTop from 'vitepress-plugin-back-to-top'
+import 'vitepress-plugin-back-to-top/dist/style.css'
 
 const posts: any[] = [];
 for (const source of await FastGlob("novinky/*-*.md")) {
@@ -31,7 +35,15 @@ export default defineConfig({
  //     message: 'Released under the MIT License.',
  //     copyright: 'Copyright © 2024-present MikeCZ'
  //   },
-
+    
+  DefaultTheme,
+  enhanceApp({ app }) {
+    vitepressBackToTop({
+      // default
+      threshold:300
+    })
+  },
+    
     darkModeSwitchLabel: "Vzhled",
     lightModeSwitchTitle: "Přepnout do světlého režimu",
     darkModeSwitchTitle: "Přepnout do tmavého režimu",
