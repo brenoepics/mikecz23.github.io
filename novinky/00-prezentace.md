@@ -7,6 +7,10 @@ date: 2024-03-14
 RTHWLDN hrál hru s mou češtinou
 </PBlogHeader>
 
+::: warning POZOR
+Sleduj [hlavní stránku](/) projektu.
+:::
+
 <div style="display: flex; justify-content: space-around;">
  <iframe
     width="560"
