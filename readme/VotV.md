@@ -51,6 +51,10 @@ Na překladu se podílejí následující lidé:
 ## Hlášení:
 **CHYBY V PŘEKLADU NAHLAŠUJTE NA JEHO DISCORDU V [TÉTO ROOMCE](https://discord.com/channels/512287844258021376/1213827086708379688) VE FORMĚ SCREENU, A JÁ TI TO DO DRUHÉHO DNE POŠLU**
 
+### Instalace:
+cesta: ..\VotV\Content\Paks <br />
+nahradí to Polštinu
+
 ## Ke stažení
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
 
