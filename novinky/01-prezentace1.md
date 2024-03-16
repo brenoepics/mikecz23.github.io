@@ -17,6 +17,6 @@ RTHWLDN hrál hru s mou češtinou
     allowfullscreen>
   </iframe>
 </div>
----
+<hr>
 Fixnul jsem nekolik řádků.
-<PBlogVideo src="https://www.youtube.com/embed/QZnkwc-Tabk?si=XsjqlKzAmQ2UhYDh" title="Ukázka" />
+<PBlogVideo src="https://www.youtube.com/watch?v=QZnkwc-Tabk" title="Ukázka" />
