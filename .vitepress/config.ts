@@ -31,7 +31,7 @@ export default defineConfig({
   //  footer: {
   //  message: '<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>',
   //  copyright: 'Copyright © 2024-present'
- //   },
+  //  },
 
     sitemap: {
     hostname: 'https://mikecz23.github.io/test/'
@@ -48,8 +48,8 @@ export default defineConfig({
       { text: 'Češtiny', items: [
       { text: "Hollow Knight", link: "/readme/hollow", activeMatch: "/hollow/"},
       { text: "Plague Inc", link: "/readme/plague", activeMatch: "/plague/" },
-      { text: 'Voices of the Void', link: '/readme/VotV' activeMatch: "/VotV/"},
-      { text: 'Progressbar95', link: '/readme/progressbar95' activeMatch: "/progressbar95/"}]},
+      { text: 'Voices of the Void', link: '/readme/VotV', activeMatch: "/VotV/"},
+      { text: 'Progressbar95', link: '/readme/progressbar95', activeMatch: "/progressbar95/"}]},
     ],
 
     outline: {
