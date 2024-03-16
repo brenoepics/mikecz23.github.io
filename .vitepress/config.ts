@@ -46,10 +46,10 @@ export default defineConfig({
       { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/"},
       // dropdown
       { text: 'Češtiny', items: [
-      { text: "Hollow Knight", link: "/hollow/", activeMatch: "/hollow/"},
-      { text: "Plague Inc", link: "/plague/", activeMatch: "/plague/" },
-      { text: 'Voices of the Void', link: '/readme/VotV'},
-      { text: 'Progressbar95', link: '/readme/progressbar95'}]},
+      { text: "Hollow Knight", link: "/readme/hollow", activeMatch: "/hollow/"},
+      { text: "Plague Inc", link: "/readme/plague", activeMatch: "/plague/" },
+      { text: 'Voices of the Void', link: '/readme/VotV' activeMatch: "/VotV/"},
+      { text: 'Progressbar95', link: '/readme/progressbar95' activeMatch: "/progressbar95/"}]},
     ],
 
     outline: {
