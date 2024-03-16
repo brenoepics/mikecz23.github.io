@@ -18,5 +18,4 @@ RTHWLDN hrál hru s mou češtinou
   </iframe>
 </div>
 <hr>
-Fixnul jsem nekolik řádků.
-<PBlogVideo href="https://www.youtube.com/watch?v=QZnkwc-Tabk" title="Ukázka" />
+Fixnul jsem překlad u několika řádků.
