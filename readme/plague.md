@@ -28,6 +28,7 @@ const people = {
 # Plague Inc – Čeština
 
 ![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
+![Stav překladu](https://img.shields.io/badge/korektura-1%25-gold?style=for-the-badge)
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 
 Plague Inc: Evolved je jedinečná kombinace vysoké strategie a děsivě realistické simulace. Váš patogen právě nakazil „Patient Zero“ - nyní musíte dosáhnout konce lidské historie vyvinutím smrtícího, globálního moru a zároveň se přizpůsobit všem, co lidstvo může udělat, aby se bránilo.
