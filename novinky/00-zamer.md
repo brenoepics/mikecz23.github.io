@@ -12,24 +12,7 @@ Sleduj [hlavní stránku](/) projektu.
 :::
 
 <div style="display: flex; justify-content: space-around;">
-  <!-- <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/GuyENhn1jMM?si=GuXqWow6O1pvNn1L" title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-  <hr>.<br>
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/QZnkwc-Tabk?si=XsjqlKzAmQ2UhYDh" title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-    </iframe> -->
-    <iframe id="f1" ref="frame1" :src="'https://www.youtube.com/embed/GuyENhn1jMM?si=GuXqWow6O1pvNn1L'" title="YouTube video player"
+    <iframe id="" ref="" :src="'https://www.youtube.com/embed/GuyENhn1jMM?si=GuXqWow6O1pvNn1L'" title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen></iframe><br>
