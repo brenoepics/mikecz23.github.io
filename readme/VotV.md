@@ -56,7 +56,7 @@ Na překladu se podílejí následující lidé:
 cesta: ..\VotV\Content\Paks <br />
 nahradí to Polštinu
 
-## Ke stažení
+## Ke stažení (fix)
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
 
 
