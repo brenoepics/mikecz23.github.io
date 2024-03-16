@@ -20,7 +20,7 @@ Sleduj [hlavní stránku](/) projektu.
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
-  <hr><br>
+  <hr>.<br>
   <iframe 
     width="560" 
     height="315" 
