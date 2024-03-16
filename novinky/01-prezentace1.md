@@ -19,4 +19,4 @@ RTHWLDN hrál hru s mou češtinou
 </div>
 <hr>
 Fixnul jsem nekolik řádků.
-<PBlogVideo src="https://www.youtube.com/watch?v=QZnkwc-Tabk" title="Ukázka" />
+<PBlogVideo href="https://www.youtube.com/watch?v=QZnkwc-Tabk" title="Ukázka" />
