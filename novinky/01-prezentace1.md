@@ -17,3 +17,6 @@ RTHWLDN hrál hru s mou češtinou
     allowfullscreen>
   </iframe>
 </div>
+---
+Fixnul jsem nekolik řádků.
+<PBlogVideo src="https://www.youtube.com/embed/QZnkwc-Tabk?si=XsjqlKzAmQ2UhYDh" title="Ukázka" />
