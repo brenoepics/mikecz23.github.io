@@ -49,6 +49,10 @@ Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružstv�
 └ vložit sem: *\hollow_knight_Data\Managed\Mods <br />
 <img src="https://i.imgur.com/uAUAHpw.png"  width="55%" height="50%"> <br />
 
+## Známé chyby:
+Skloňování může být trochu nesmyslné <br />
+Hra si nepamatuje zvolený jazyk. Při každém spuštění hry budete muset jazyk znovu zvolit <br />
+
 ## Členové týmu
 
 Na překladu se podílejí následující lidé:
