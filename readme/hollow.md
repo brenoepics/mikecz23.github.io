@@ -32,7 +32,7 @@ const people = {
   <img src="https://i.imgur.com/k3FwNSO.jpg">
 </div>
 
-# Hollow Knight – Čeština
+# Hollow Knight – Čeština <Badge type="info" text="dokončeno" />
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) 
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
