@@ -32,10 +32,6 @@ export default defineConfig({
   //  message: '<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>',
   //  copyright: 'Copyright © 2024-present'
   //  },
-
-    sitemap: {
-    hostname: 'https://mikecz23.github.io/test/'
-    },
     
     darkModeSwitchLabel: "Vzhled",
     lightModeSwitchTitle: "Přepnout do světlého režimu",
