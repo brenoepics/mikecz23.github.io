@@ -8,7 +8,7 @@ RTHWLDN hrál hru s mou češtinou
 </PBlogHeader>
 
 ::: warning POZOR
-Odkazy tu zatím nejsou. Sleduj [hlavní stránku](/) projektu.
+Sleduj [hlavní stránku](/) projektu.
 :::
 
 <div style="display: flex; justify-content: space-around;">
@@ -20,4 +20,12 @@ Odkazy tu zatím nejsou. Sleduj [hlavní stránku](/) projektu.
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/QZnkwc-Tabk?si=XsjqlKzAmQ2UhYDh" title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+    </iframe>
 </div>
