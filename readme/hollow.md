@@ -65,7 +65,7 @@ Na překladu se podílejí následující lidé:
 
 <PTeamMembers :members="people.partners" />
 ---
-<iframe width="" height="" src="https://www.youtube.com/embed/YZUCBOlzML0?si=uJNMdXRVA_lG3lMY" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="550" height="305" src="https://www.youtube.com/embed/YZUCBOlzML0?si=uJNMdXRVA_lG3lMY" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Ke stažení
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
