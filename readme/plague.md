@@ -25,7 +25,7 @@ const people = {
   <img src="https://i.imgur.com/aVVGCna.jpg">
 </div>
 
-# Plague Inc – Čeština
+# Plague Inc – Čeština <Badge type="warning" text="early early access" />
 
 ![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 ![Stav překladu](https://img.shields.io/badge/korektura-1%25-gold?style=for-the-badge)
