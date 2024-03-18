@@ -17,6 +17,9 @@ const people = {
   ],
   support: [
     { name: "Martin3D", role: "Technika, fonty"},
+  ],
+  partners: [
+    { name: "FlyGunCZ", role: "Promo"}
   ]
 };
 </script>
