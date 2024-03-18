@@ -56,8 +56,8 @@ Na překladu se podílejí následující lidé:
 cesta: ..\VotV\Content\Paks <br />
 nahradí to Češtinu
 
-## Ke stažení (fix) [2024/03/18]
-[Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
+## Ke stažení
+fix [2024/03/18] [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
 
 
 
