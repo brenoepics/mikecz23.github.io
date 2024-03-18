@@ -1,10 +1,10 @@
 ---
-title: 01. Další prezentace CZ do VotV
+title: 02. Další prezentace CZ do VotV
 date: 2024-03-18
 ---
 
 <PBlogHeader>
-RTHWLDN hrál hru s mou češtinou
+Sterakdary hrál hru s mou češtinou
 </PBlogHeader>
 
 <div style="display: flex; justify-content: space-around;">
