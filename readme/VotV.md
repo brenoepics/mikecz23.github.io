@@ -29,7 +29,6 @@ const people = {
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/korektura-80%25-gold?style=for-the-badge)
 ![](https://img.shields.io/badge/testování-80%25-blue?style=for-the-badge)
-
 ![](https://img.shields.io/badge/herní%20klient-itch.io-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20hry-0.7-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20překladu-0.7-grey?style=for-the-badge)
