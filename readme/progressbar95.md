@@ -10,7 +10,7 @@ const people = {
 };
 </script>
 
-![](https://i.imgur.com/E3xDiHU.pn)
+![](https://i.imgur.com/3vJLwQs.jpg)
 
 # Progressbar95 - Čeština
 
