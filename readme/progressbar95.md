@@ -11,7 +11,7 @@ const people = {
 </script>
 
 <div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
-  <img src="https://i.imgur.com/ORpHQbf.png">
+  <img src="https://i.imgur.com/3vJLwQs.jpg">
 </div>
 
 # Progressbar95 - Čeština
