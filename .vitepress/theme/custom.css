@@ -4,6 +4,9 @@
     padding-top: 35px;
     height: 0;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .video-container iframe {
