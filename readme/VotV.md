@@ -54,7 +54,7 @@ Na překladu se podílejí následující lidé:
 ---
 ### Instalace:
 cesta: ..\VotV\Content\Paks <br />
-nahradí to Polštinu
+nahradí to Češtinu
 
 ## Ke stažení (fix)
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
