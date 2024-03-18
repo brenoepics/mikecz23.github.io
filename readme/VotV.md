@@ -15,7 +15,8 @@ const people = {
     { name: "termit", role: "Technika, fonty"},
   ],
   partners: [
-    { name: "RTHWLDN", role: "Mediální partner"}
+    { name: "RTHWLDN", role: "Mediální partner"},
+    { name: "Sterakdary", role: "Promo"}
   ]
 };
 </script>
