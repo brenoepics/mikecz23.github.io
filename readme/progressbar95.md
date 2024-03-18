@@ -10,7 +10,9 @@ const people = {
 };
 </script>
 
+<div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
 ![](https://i.imgur.com/ORpHQbf.png)
+</div>
 
 # Progressbar95 - Čeština
 
