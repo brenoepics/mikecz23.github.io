@@ -38,14 +38,14 @@ export default defineConfig({
     darkModeSwitchTitle: "Přepnout do tmavého režimu",
 
     nav: [
-      { text: "Úvod", link: "/" },
-      { text: "Novinky", link: "/novinky/", activeMatch: "/novinky/"},
+      { text: "🏠 Úvod", link: "/" },
+      { text: "📰 Novinky", link: "/novinky/", activeMatch: "/novinky/"},
       // dropdown
-      { text: 'Češtiny', items: [
-      { text: "Hollow Knight", link: "/readme/hollow", activeMatch: "/hollow/"},
-      { text: "Plague Inc", link: "/readme/plague", activeMatch: "/plague/" },
-      { text: 'Voices of the Void', link: '/readme/VotV', activeMatch: "/VotV/"},
-      { text: 'Progressbar95', link: '/readme/progressbar95', activeMatch: "/progressbar95/"}]},
+      { text: '🇨🇿 Češtiny', items: [
+      { text: "⚔️ Hollow Knight", link: "/readme/hollow", activeMatch: "/hollow/"},
+      { text: "🧫 Plague Inc", link: "/readme/plague", activeMatch: "/plague/" },
+      { text: '📡 Voices of the Void', link: '/readme/VotV', activeMatch: "/VotV/"},
+      { text: '🖥️ Progressbar95', link: '/readme/progressbar95', activeMatch: "/progressbar95/"}]},
     ],
 
     outline: {
