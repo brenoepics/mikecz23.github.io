@@ -48,10 +48,10 @@ export default defineConfig({
           { text: 'Voices of the Void', link: '/readme/VotV', activeMatch: "/VotV/"},
           { text: 'Progressbar95', link: '/readme/progressbar95', activeMatch: "/progressbar95/"}]},
         { text: 'Pertim (WIP)', items: [
-          { text: "Summer of 58", link: "/public/Summer_of_58_CZ.rar", activeMatch: "/summer/"},
-          { text: "Silver Chains", link: "/public/Silver_Chains_CZ.rar", activeMatch: "/silcha/" },
-          { text: 'Im counting to 6', link: '/public/Im_counting_to_6_CZ.rar', activeMatch: "/count6/"},
-          { text: 'Alone in the Dark Prologue', link: '/public/Alone_in_the_Dark_Prologue-Grace_CZ.rar', activeMatch: "/alodar/"}]}
+          { text: "Summer of 58", link: "/public/summer", activeMatch: "/summer/"},
+          { text: "Silver Chains", link: "/public/silcha", activeMatch: "/silcha/" },
+          { text: 'Im counting to 6', link: '/public/count6', activeMatch: "/count6/"},
+          { text: 'Alone in the Dark Prologue', link: '/public/alodar', activeMatch: "/alodar/"}]}
         ]},
     ],
 
