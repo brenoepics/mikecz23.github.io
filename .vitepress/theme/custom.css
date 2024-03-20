@@ -21,3 +21,10 @@ img{
     display: inline-block;
     margin-right: 5px;
 }
+
+.status img{
+    display: inline-block;
+    margin-right: 5px;
+    background: green;
+    width: 24%;
+}
