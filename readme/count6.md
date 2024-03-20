@@ -13,9 +13,6 @@ const people = {
   ],
   support: [
     { name: "savlozubaveverka, Tom Bombadil", role: "Technika, fonty"},
-  ],
-  partners: [
-    { name: "RTHWLDN", role: "Mediální partner"}
   ]
 };
 </script>
