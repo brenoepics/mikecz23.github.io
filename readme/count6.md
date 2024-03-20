@@ -28,10 +28,9 @@ const people = {
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 
-![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge
-) ![](https://img.shields.io/badge/verze%20hry-aktuální-grey?style=for-the-badge
-) ![](https://img.shields.io/badge/verze%20překladu-1.0-grey?style=for-the-badge
-)
+![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge) 
+![](https://img.shields.io/badge/verze%20hry-aktuální-grey?style=for-the-badge) 
+![](https://img.shields.io/badge/verze%20překladu-1.0-grey?style=for-the-badge)
 
 ------------
 Při odbočování na starou silnici se hlavní hrdina kvůli husté mlze dostane do dopravní nehody. Nyní se snaží najít někoho, kdo by mu mohl pomoci. Přinucen vstoupit do starého domu se hlavní hrdina ocitá v pasti, ze které není tak snadné se dostat ven.<br /><br />
