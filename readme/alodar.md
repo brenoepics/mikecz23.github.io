@@ -23,8 +23,7 @@ const people = {
 
 # Summer of 58´ – Čeština
 
-![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
-
+![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)<br>
 ![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20hry-aktuální-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20překladu-1.0-grey?style=for-the-badge)
