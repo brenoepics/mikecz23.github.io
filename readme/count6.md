@@ -18,7 +18,7 @@ const people = {
 </script>
 
 <div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
-  <img src="https://imgur.com/sMYajmF">
+  <img src="https://i.imgur.com/sMYajmF.jpeg">
 </div> 
 
 # Im counting to 6 – Čeština
