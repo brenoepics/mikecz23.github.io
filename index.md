@@ -15,7 +15,7 @@ Vítej na profilu fanouškovského překladu her.
 [![Foo](./public/voice.png)](readme/VotV.md)
 
 ## Pertim (WIP)
-[![Foo](./public/summer.jpg)](./public/Summer_of_58_CZ.rar)
+[![Foo](./public/summer.jpg)](#)
 [![Foo](./public/silver.jpg)](#)
 [![Foo](./public/count.jpg)](#)
 [![Foo](./public/alone.jpg)](#)
