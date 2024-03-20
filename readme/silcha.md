@@ -28,10 +28,9 @@ const people = {
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 
-![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge
-) ![](https://img.shields.io/badge/verze%20hry-aktuální-grey?style=for-the-badge
-) ![](https://img.shields.io/badge/verze%20překladu-1.0-grey?style=for-the-badge
-)
+![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge) 
+![](https://img.shields.io/badge/verze%20hry-aktuální-grey?style=for-the-badge) 
+![](https://img.shields.io/badge/verze%20překladu-1.0-grey?style=for-the-badge)
 
 ------------
 Poté, co jeho auto v bouřlivé noci narazí do stromu, se Peter probudí ve starém opuštěném sídle kdesi v Anglii. Nemůže si vzpomenout, proč a jak se sem dostal, ale brzy zjistí, že dům není tak opuštěný, jak se zdá. Zatímco se snaží najít cestu ven z domu, musí Peter odhalit temné tajemství toho, co se na tomto místě stalo.<br /><br />
