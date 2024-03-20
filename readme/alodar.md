@@ -21,7 +21,7 @@ const people = {
   <img src="https://i.imgur.com/g4RsRYV.jpeg">
 </div> 
 
-# Summer of 58´ – Čeština
+# Alone in the Dark Prologue-Grace – Čeština
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)<br>
 ![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge) 
