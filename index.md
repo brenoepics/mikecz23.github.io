@@ -15,8 +15,8 @@ Vítej na profilu fanouškovského překladu her.
 [![Foo](./public/voice.png)](readme/VotV.md)
 
 ## Pertim (WIP)
-[![Foo](./public/summer.jpg)](#)
-[![Foo](./public/silver.jpg)](#)
-[![Foo](./public/count.jpg)](#)
-[![Foo](./public/alone.jpg)](#)
+[![Foo](./public/summer.jpg)](readme/summer.md)
+[![Foo](./public/silver.jpg)](readme/silcha.md)
+[![Foo](./public/count.jpg)](readme/count6.md)
+[![Foo](./public/alone.jpg)](readme/alodar.md)
 </div>
