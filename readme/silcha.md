@@ -18,7 +18,7 @@ const people = {
 </script>
 
 <div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
-  <img src="https://imgur.com/NUjBLNt">
+  <img src="https://i.imgur.com/NUjBLNt.png">
 </div> 
 
 # Summer of 58´ – Čeština
