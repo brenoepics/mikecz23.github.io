@@ -14,7 +14,7 @@ Vítej na profilu fanouškovského překladu her.
 [![Foo](./public/progress.jpg)](readme/progressbar95.md)
 [![Foo](./public/voice.png)](readme/VotV.md)
 
-## Pertim (WIP)
+## Pertim
 [![Foo](./public/summer.jpg)](readme/summer.md)
 [![Foo](./public/silver.jpg)](readme/silcha.md)
 [![Foo](./public/count.jpg)](readme/count6.md)
