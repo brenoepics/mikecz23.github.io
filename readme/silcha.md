@@ -21,7 +21,7 @@ const people = {
   <img src="https://i.imgur.com/NUjBLNt.png">
 </div> 
 
-# Summer of 58´ – Čeština
+# Silver Chains – Čeština
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)<br>
 ![](https://img.shields.io/badge/herní%20klient-steam-grey?style=for-the-badge) 
