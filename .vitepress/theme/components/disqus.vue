@@ -1,11 +1,15 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
 
-const { title } = useData()
+//const { title } = useData()
 const { frontmatter, title } = useData()
 </script>
 
 <template>
+   <div v-if="frontmatter.comments !== false" :key="title" class="giscus">
+    <component ...... ...... />
+  </div>
+  
   <div :key="title" class="giscus">
     <component
       :is="'script'"
