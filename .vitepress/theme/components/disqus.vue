@@ -9,17 +9,17 @@ const { title } = useData()
     <component
       :is="'script'"
       src="https://giscus.app/client.js"
-      data-repo=" .......... "
-      data-repo-id=" .......... "
-      data-category=" .......... "
-      data-category-id=" .......... "
+      data-repo="MikeCZ23/test"
+      data-repo-id="R_kgDOLf7Wgg"
+      data-category="General"
+      data-category-id="DIC_kwDOLf7Wgs4CeLpZ"
       data-mapping="pathname"
       data-strict="0"
       data-reactions-enabled="1"
       data-emit-metadata="0"
-      data-input-position="top"
+      data-input-position="bottom"
       data-lang="en"
-      data-theme="transparent_dark"
+      data-theme="dark"
       data-loading="lazy"
       async
     />
