@@ -19,7 +19,7 @@ const { title } = useData()
       data-emit-metadata="0"
       data-input-position="bottom"
       data-lang="en"
-      data-theme="dark"
+      data-theme="transparent_dark"
       data-loading="lazy"
       async
     />
