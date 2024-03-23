@@ -43,7 +43,7 @@ cesta: Progressbar95\Resources\international\en <br />
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
 
 
-<disqus/>
+<!-- <disqus/> -->
 
 
 
