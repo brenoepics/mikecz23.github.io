@@ -27,7 +27,7 @@ const { frontmatter, title } = useData()
       data-emit-metadata="0"
       data-input-position="top"
       data-lang="en"
-      data-theme="transparent_dark"
+      data-theme="dark"
       data-loading="lazy"
       async
     />
