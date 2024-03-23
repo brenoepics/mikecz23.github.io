@@ -1,7 +1,6 @@
 ---
 title: Progressbar95 - čeština
 sidebar: false
-comment: true
 ---
 <script setup lang="ts">
 const people = {
