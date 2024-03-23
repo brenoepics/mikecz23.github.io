@@ -64,7 +64,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "github", link: "#" }
+      { icon: "github", link: "https://github.com/MikeCZ23/test" }
     ]
   }
 });
