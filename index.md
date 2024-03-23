@@ -1,6 +1,7 @@
 ---
 title: Češtiny
 sidebar: false
+comments: false
 ---
 
 # Češtiny
