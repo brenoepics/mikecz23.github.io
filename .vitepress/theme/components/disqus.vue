@@ -10,7 +10,7 @@
       };
       (function() {
         var d = window.document, s = d.createElement('script');
-        s.src = 'https://YOURHANDLE.disqus.com/embed.js';
+        s.src = 'https://mikecestiny.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
       })();
