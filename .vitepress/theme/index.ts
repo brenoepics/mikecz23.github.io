@@ -10,7 +10,7 @@ import PTeamMembers from "./components/PTeamMembers.vue";
 import Layout from "./components/disqus.vue";
 
 export default {
-//  Layout,
+  Layout,
   extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component("PBlogFigure", PBlogFigure);
