@@ -1,19 +1,27 @@
-<template>
-  <div id="disqus_thread"></div>
-</template>
-<script>
-  export default {
-    mounted() {
-      var disqus_config = function () {
-        this.page.url = window.location.origin;  
-        this.page.identifier = window.location.pathname; 
-      };
-      (function() {
-        var d = window.document, s = d.createElement('script');
-        s.src = 'https://mikecestiny.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-      })();
-    }
-  }
+<script setup lang="ts">
+import { useData } from 'vitepress'
+
+const { title } = useData()
 </script>
+
+<template>
+  <div :key="title" class="giscus">
+    <component
+      :is="'script'"
+      src="https://giscus.app/client.js"
+      data-repo=" .......... "
+      data-repo-id=" .......... "
+      data-category=" .......... "
+      data-category-id=" .......... "
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-lang="en"
+      data-theme="transparent_dark"
+      data-loading="lazy"
+      async
+    />
+  </div>
+</template>
