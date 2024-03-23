@@ -2,6 +2,7 @@
 import { useData } from 'vitepress'
 
 const { title } = useData()
+const { frontmatter, title } = useData()
 </script>
 
 <template>
