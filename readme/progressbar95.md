@@ -1,6 +1,7 @@
 ---
 title: Progressbar95 - čeština
 sidebar: false
+comment: true
 ---
 <script setup lang="ts">
 const people = {
@@ -44,12 +45,6 @@ cesta: Progressbar95\Resources\international\en <br />
 
 
 <div class="giscus" />
-  
----
-comment: true
----
-
-
 
 
 
