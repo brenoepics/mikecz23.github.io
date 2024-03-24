@@ -7,7 +7,7 @@ lastUpdated: false
 layout: home
 hero:
   name: MikeCZ - Češtiny
-  text: Vítej na profilu fanouškovského překladu her.
+  text: Vítej na profilu fanouškovských překladů her.
   tagline:
   # image:
   #   src:
