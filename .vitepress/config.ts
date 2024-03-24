@@ -33,7 +33,7 @@ export default defineConfig({
     lastUpdated: {
       text: 'Updated at',
       formatOptions: {
-        dateStyle: 'full',
+        dateStyle: 'medium', // full
         timeStyle: 'medium'
       }
     },
