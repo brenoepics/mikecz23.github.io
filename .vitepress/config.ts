@@ -3,7 +3,6 @@ import FastGlob from "fast-glob";
 import grayMatter from "gray-matter";
 import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
-import { hopeTheme } from "vitepress-theme-hope";
 
 const posts: any[] = [];
 for (const source of await FastGlob("novinky/*-*.md")) {
@@ -18,9 +17,6 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
  // lastUpdated: true,
-  theme: hopeTheme({
-    darkmode: "enable",
-  }),
   
   title: "MikeCZ - Češtiny",
   description: "Stránka fanouškovského překladu hry.",
