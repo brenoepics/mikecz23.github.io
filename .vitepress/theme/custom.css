@@ -46,6 +46,7 @@ img{
 
 :root { /* hyper-barva */
     --vp-c-brand-1: #ff5151;
+    --vp-c-brand-2: #c91111;
 }
 
 .dark { /* <hr> barva */
