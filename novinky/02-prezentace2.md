@@ -2,6 +2,7 @@
 title: 02. Další prezentace CZ do VotV
 date: 2024-03-18
 comments: false
+lastUpdated: false
 ---
 
 <PBlogHeader>
