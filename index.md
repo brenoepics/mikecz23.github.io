@@ -3,6 +3,15 @@ title: Češtiny
 sidebar: false
 comments: false
 lastUpdated: false
+
+layout: home
+hero:
+  name: MikeCZ - Češtiny
+  text: Vítej na profilu fanouškovského překladu her.
+  tagline:
+  # image:
+  #   src:
+  #   alt:
 ---
 
 # Češtiny
