@@ -28,3 +28,8 @@ img{
     background: green;
     width: 24%;
 }
+
+.last-updated{
+    position: absolute;
+    right: 0;
+}
