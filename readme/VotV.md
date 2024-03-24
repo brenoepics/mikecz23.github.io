@@ -25,7 +25,7 @@ const people = {
   <img src="https://i.imgur.com/E3xDiHU.png">
 </div> 
 
-# Voices of the Void – Čeština <Badge type="warning" text="Official" /> <Badge type="tip" text="Demo" /> <Badge type="tip" text="Alpha" />
+# Voices of the Void – Čeština <Badge type="warning" text="Official" /> <Badge type="info" text="Demo" /> <Badge type="info" text="Alpha" />
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/korektura-80%25-gold?style=for-the-badge)
