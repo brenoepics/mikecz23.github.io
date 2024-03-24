@@ -14,9 +14,6 @@ hero:
   #   alt:
 ---
 
-# Češtiny
-Vítej na profilu fanouškovského překladu her.
-
 <div class="status">
 
 ## MikeCZ
