@@ -33,3 +33,21 @@ img{
     position: absolute;
     right: 0;
 }
+
+:root{ /* hlavní text */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(
+      190deg,
+      #e60737,
+      #ffd6d6,
+      #dcd5fd,
+      #003cff)
+} 
+
+:root { /* hyper-barva */
+    --vp-c-brand-1: #ff5151;
+}
+
+.dark { /* <hr> barva */
+    --vp-c-divider: #2e2e32;
+  }
