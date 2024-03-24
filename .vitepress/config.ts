@@ -17,6 +17,9 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
  // lastUpdated: true,
+  theme: hopeTheme({
+    darkmode: "enable",
+  }),
   
   title: "MikeCZ - Češtiny",
   description: "Stránka fanouškovského překladu hry.",
