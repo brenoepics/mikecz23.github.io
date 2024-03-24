@@ -30,13 +30,13 @@ export default defineConfig({
       next: 'Následující stránka'
     },
 
-    lastUpdated: {
-      text: 'Updated at',
-      formatOptions: {
-        dateStyle: 'short'
+   // lastUpdated: {
+   //   text: 'Updated at',
+   //   formatOptions: {
+   //     dateStyle: 'short'
        // timeStyle: 'none'
-      }
-    },
+  //    }
+  //  },
     
   //  footer: {
   //  message: '<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>',
