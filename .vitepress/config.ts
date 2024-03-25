@@ -73,7 +73,7 @@ export default defineConfig({
       "/novinky/": posts,
 
       "/novinky/": [
-      { text: "Guide", items: ["/1-Guide/README.md", "/1-Guide/Getting Started.md"],},],
+      { text: "Novinky", items: ["/novinky/00-prezentace.md", "/novinky/01-prezentace.md"],},],
     "/2-Account/": [
       { text: "Account", items: ["/2-Account/01 Sign Up.md", "/2-Account/02 Sign In.md"],},],
     },
