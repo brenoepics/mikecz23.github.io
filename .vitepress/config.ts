@@ -70,10 +70,10 @@ export default defineConfig({
     },
 
     sidebar: {
-      "/novinky/": posts,
+      // "/novinky/": posts
 
       "/novinky/": [
-      { text: "Novinky", items: ["/novinky/00-prezentace.md", "/novinky/01-prezentace.md"],},],
+      { text: "Novinky", items: ["./novinky/00-prezentace.md", "./novinky/01-prezentace.md"],},],
     "/2-Account/": [
       { text: "Account", items: ["/2-Account/01 Sign Up.md", "/2-Account/02 Sign In.md"],},],
     },
