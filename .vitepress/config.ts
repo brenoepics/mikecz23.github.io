@@ -70,7 +70,12 @@ export default defineConfig({
     },
 
     sidebar: {
-      "/novinky/": posts
+      "/novinky/": posts,
+
+      "/novinky/": [
+      { text: "Guide", items: ["/1-Guide/README.md", "/1-Guide/Getting Started.md"],},],
+    "/2-Account/": [
+      { text: "Account", items: ["/2-Account/01 Sign Up.md", "/2-Account/02 Sign In.md"],},],
     },
 
     socialLinks: [
