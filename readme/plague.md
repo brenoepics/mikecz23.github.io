@@ -50,6 +50,10 @@ Na překladu se podílejí následující lidé:
 <PTeamMembers :members="people.support" />
 
 <PTeamMembers :members="people.partners" />
+---
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SsTbQcXs7E_c1tyn&amp;list=PLDyEBUIwzAFAYZXa2alKi_ArKGt2HVuw1" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Ke stažení
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
