@@ -50,7 +50,7 @@ Na překladu se podílejí následující lidé:
 <PTeamMembers :members="people.partners" />
 
 ## Hlášení:
-**CHYBY V PŘEKLADU NAHLAŠUJTE NA JEHO DISCORDU V [TÉTO ROOMCE](https://discord.com/channels/512287844258021376/1213827086708379688) VE FORMĚ SCREENU, A JÁ TI TO DO DRUHÉHO DNE POŠLU**
+**CHYBY V PŘEKLADU NAHLAŠUJTE NA JEHO DISCORDU V [TÉTO ROOMCE](https://discord.com/channels/512287844258021376/1213827086708379688) VE FORMĚ SCREENU, A JÁ DO DRUHÉHO DNE VYDÁM UPDATE**
 
 ---
 ### Instalace:
