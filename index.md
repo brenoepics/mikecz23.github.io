@@ -10,7 +10,7 @@ hero:
   text: Vítej na profilu fanouškovských překladů her.
   tagline:
   image:
-    src: ./public/logo.png
+    src: logo.png
     alt: logo
 ---
 
