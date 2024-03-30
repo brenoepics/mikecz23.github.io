@@ -29,7 +29,7 @@ export default defineConfig({
     // ['meta', { property: 'og:title', content: 'MikeCZ - Češtiny' }],
     // ['meta', { property: 'og:description', content: 'Stránka fanouškovského překladu hry.' }],
     // ['meta', { property: 'og:image', content: 'https://brenoepics.github.io/vitepress-carbon/site-card.jpg' }],  // Obrázek v odkazu
-    ['meta', { property:'theme-color', name: 'theme-color', content: '#41ad4f' }], // barva odkazu
+    ['meta', { property:'theme-color', name: 'theme-color', content: '#ff6767' }], // barva odkazu
     ['meta', { property:'twitter:card', name: 'twitter:card', content: 'summary_large_image' }],
   ],
   themeConfig: {
