@@ -39,7 +39,7 @@ export default defineConfig({
     },
 
     logo: {
-      src: './public/logo.png'
+      src: 'logo.png'
     },
 
    // lastUpdated: {
