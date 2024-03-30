@@ -9,9 +9,9 @@ hero:
   name: MikeCZ - Češtiny
   text: Vítej na profilu fanouškovských překladů her.
   tagline:
-  # image:
-  #   src:
-  #   alt:
+   image:
+    src: /public/logo.png
+    alt: logo
 ---
 
 <div class="status">
