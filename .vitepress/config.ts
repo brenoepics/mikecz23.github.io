@@ -30,6 +30,10 @@ export default defineConfig({
       next: 'Následující stránka'
     },
 
+  logo: {
+      src: './public/.jpg'
+    },
+
    // lastUpdated: {
    //   text: 'Updated at',
    //   formatOptions: {
