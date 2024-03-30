@@ -38,7 +38,7 @@ export default defineConfig({
       next: 'Následující stránka'
     },
 
-  logo: {
+    logo: {
       src: './public/logo.png'
     },
 
