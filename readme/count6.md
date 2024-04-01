@@ -12,7 +12,7 @@ const people = {
     { name: "Pertim", role: "Korektura"},
   ],
   support: [
-    { name: "savlozubaveverka / Tom Bombadil", role: "Technika, fonty"},
+    { name: "Tom Bombadil", role: "Technika, fonty"},
   ]
 };
 </script>
