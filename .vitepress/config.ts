@@ -87,7 +87,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/MikeCZ23/test" },
-      { icon: "discord", link: "https://www.youtube.com/watch?v=ebYN0chFJp8" }
+      { icon: "discord", link: "https://discord.gg/XJC2Y39" }
     ]
   }
 });
