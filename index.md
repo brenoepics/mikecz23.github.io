@@ -12,6 +12,7 @@ hero:
   image:
     src: logo.png
     alt: logo
+footer: MIT Licensed | Copyright © 2019-present Evan You
 ---
 
 <div class="status">
