@@ -44,6 +44,10 @@ img{
       #003cff)
 } 
 
+.name{
+    text-shadow: 5px 5px 20px #000;
+}
+
 :root { /* hyper-barva */
     --vp-c-brand-1: #ff6767;
     --vp-c-brand-2: #c52121;
