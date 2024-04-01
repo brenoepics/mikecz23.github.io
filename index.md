@@ -12,7 +12,7 @@ hero:
   image:
     src: logo.png
     alt: logo
-footer: MIT Licensed | Copyright © 2019-present Evan You
+footer: MIT Licensed | Copyright © 2024-present MikeCZ
 ---
 
 <div class="status">
