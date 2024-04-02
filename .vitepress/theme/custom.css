@@ -17,16 +17,24 @@
     height: 80%;
 }
 
-img{
-    display: inline-block;
-    margin-right: 5px;
+.status p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.status a {
+  display: block;
+  width: calc(25% - 6px);
+}
+.status img {
+  display: block;
+  width: 100%;
 }
 
-.status img{
-    display: inline-block;
-    margin-right: 5px;
-    background: green;
-    width: 24%;
+@media (max-width: 600px) {
+  .status a {
+    width: calc(50% - 4px);
+  }
 }
 
 .last-updated{
