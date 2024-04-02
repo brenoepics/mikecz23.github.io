@@ -17,6 +17,10 @@
     height: 80%;
 }
 
+img{
+    display: inline-block;
+}
+
 .status p {
   display: flex;
   flex-wrap: wrap;
