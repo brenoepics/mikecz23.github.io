@@ -14,6 +14,7 @@ hero:
     alt: logo
 footer: MIT Licensed | Copyright © 2024-present MikeCZ
 ---
+<meta name="google-site-verification" content="DmFx_aqenbpJTLNw4Pl_iK2Au3N_lEnhdDz0xreDVwA" />
 
 <div class="status">
 
