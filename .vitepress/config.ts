@@ -22,6 +22,7 @@ export default defineConfig({
   description: "Stránka fanouškovského překladu hry.",
   base: "/test/",
   head: [
+    <meta name="google-site-verification" content="DmFx_aqenbpJTLNw4Pl_iK2Au3N_lEnhdDz0xreDVwA" />
     ["link", { rel: "icon", href: "/test/favicon1.ico" }],
    // ['meta', { name: 'description', content: 'Stránka fansouškovského překladu hry' }],
     ['meta', { property: 'og:url', content: 'https://github.com/MikeCZ23/test' }],
