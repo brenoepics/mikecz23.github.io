@@ -13,7 +13,7 @@ RTHWLDN hrál hru s mou češtinou
 Sleduj [hlavní stránku](/) projektu.
 :::
 
-<PBlogFigure src="https://pbs.twimg.com/media/GJbxXpkXgAAkMnO?format=jpg" title="Voices" />
+<!-- <PBlogFigure src="https://pbs.twimg.com/media/GJbxXpkXgAAkMnO?format=jpg" title="Voices" /> -->
 
 <div style="display: flex; justify-content: space-around;">
  <iframe
