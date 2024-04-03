@@ -31,7 +31,7 @@ export default defineConfig({
     ['meta', { property: 'og:image', content: 'https://mikecz23.github.io/test/icon.png' }],  // Obrázek v odkazu
     ['meta', { property:'theme-color', name: 'theme-color', content: '#ff6767' }], // barva odkazu
     ['meta', { property:'twitter:card', name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name="google-site-verification", content="DmFx_aqenbpJTLNw4Pl_iK2Au3N_lEnhdDz0xreDVwA" }],
+    ['meta', { name: 'google-site-verification', content: 'DmFx_aqenbpJTLNw4Pl_iK2Au3N_lEnhdDz0xreDVwA' }],
   ],
   themeConfig: {
     docFooter: {
