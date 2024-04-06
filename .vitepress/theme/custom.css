@@ -85,5 +85,5 @@ input.task-list-item-checkbox:checked {
     -webkit-appearance: none;
     padding: 0.1rem;
     border: 0.25rem solid green;
-    border-radius: 0.5rem;
+    border-radius: 0rem;
 }
