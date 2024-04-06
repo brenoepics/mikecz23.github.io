@@ -17,7 +17,7 @@ const { frontmatter, title } = useData()
     <component
       :is="'script'"
       src="https://giscus.app/client.js"
-      data-repo="MikeCZ23//mikecz23.github.io"
+      data-repo="MikeCZ23/mikecz23.github.io"
       data-repo-id="R_kgDOLf7Wgg"
       data-category="General"
       data-category-id="DIC_kwDOLf7Wgs4CeLpZ"
