@@ -3,12 +3,6 @@ import { useData } from 'vitepress'
 
 const { frontmatter, title } = useData()
 </script>
-<script src="https://giscus.app/client.js"
-        data-repo="giscus/giscus"
-        ...
-        data-theme="https://raw.githubusercontent.com/MikeCZ23/mikecz23.github.io/main/.vitepress/theme/custom.css"
-        ...>
-</script>
 
 <template>
   <!--
@@ -20,6 +14,7 @@ const { frontmatter, title } = useData()
       It doesn't make sense to use `v-if` to unmount `script` here,
       what needs to be uninstalled is the giscus comment section that has been inserted into the DOM.
     -->
+<!-- data-theme="dark" -->
     <component
       :is="'script'"
       src="https://giscus.app/client.js"
@@ -33,7 +28,7 @@ const { frontmatter, title } = useData()
       data-emit-metadata="0"
       data-input-position="top"
       data-lang="en"
-      data-theme="dark"
+      data-theme="https://raw.githubusercontent.com/MikeCZ23/mikecz23.github.io/main/.vitepress/theme/custom.css"
       data-loading="lazy"
       async
     />
