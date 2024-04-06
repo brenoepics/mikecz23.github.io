@@ -81,6 +81,7 @@ h1{
   }
 
 input:disabled,
+input[type="checkbox"]:disabled,
 input[type="checkbox" i]:disabled {
   appearance: none;
   -webkit-appearance: none;
