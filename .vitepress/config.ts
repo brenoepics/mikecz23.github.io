@@ -20,7 +20,7 @@ export default defineConfig({
   
   title: "MikeCZ - Češtiny",
   description: "Stránka fanouškovského překladu hry.",
-  base: "/test/",
+  base: "/",
   head: [
     ["link", { rel: "icon", href: "/test/favicon1.ico" }],
    // ['meta', { name: 'description', content: 'Stránka fansouškovského překladu hry' }],
