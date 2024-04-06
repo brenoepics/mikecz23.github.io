@@ -81,7 +81,7 @@ h1{
   }
 
 li.task-list-item,
-input[type="checkbox"]:checked {
+input[type="checkbox" i]:checked {
   appearance: none;
   -webkit-appearance: none;
   padding: 0.1rem;
