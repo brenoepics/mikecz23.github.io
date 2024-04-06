@@ -24,11 +24,11 @@ export default defineConfig({
   head: [
     ["link", { rel: "icon", href: "/favicon1.ico" }],
    // ['meta', { name: 'description', content: 'Stránka fansouškovského překladu hry' }],
-    ['meta', { property: 'og:url', content: 'https://github.com/MikeCZ23/test' }],
+    ['meta', { property: 'og:url', content: 'https://github.com/MikeCZ23' }],
     ['meta', { property: 'og:type', content: 'website' }],
     // ['meta', { property: 'og:title', content: 'MikeCZ - Češtiny' }],
     // ['meta', { property: 'og:description', content: 'Stránka fanouškovského překladu hry.' }],
-    ['meta', { property: 'og:image', content: 'https://mikecz23.github.io/test/icon.png' }],  // Obrázek v odkazu
+    ['meta', { property: 'og:image', content: 'https://mikecz23.github.io/icon.png' }],  // Obrázek v odkazu
     ['meta', { property:'theme-color', name: 'theme-color', content: '#ff6767' }], // barva odkazu
     ['meta', { property:'twitter:card', name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'google-site-verification', content: 'DmFx_aqenbpJTLNw4Pl_iK2Au3N_lEnhdDz0xreDVwA' }],
