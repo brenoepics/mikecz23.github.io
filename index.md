@@ -24,7 +24,7 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 [![Foo](./public/progress.jpg)](readme/progressbar95.md)
 [![Foo](./public/voice.png)](readme/VotV.md)
 [![Foo](https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/library_600x900_2x.jpg
-)]()
+)](readme/silksong.md)
 </div>
 
 ## Pertim
