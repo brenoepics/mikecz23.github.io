@@ -80,8 +80,8 @@ h1{
     --vp-c-divider: #2e2e32;
   }
 
-
-input:checked {
+li.task-list-item,
+input[type="checkbox"]:checked {
   appearance: none;
   -webkit-appearance: none;
   padding: 0.1rem;
