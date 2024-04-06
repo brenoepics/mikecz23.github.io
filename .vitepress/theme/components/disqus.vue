@@ -3,6 +3,12 @@ import { useData } from 'vitepress'
 
 const { frontmatter, title } = useData()
 </script>
+<script src="https://giscus.app/client.js"
+        data-repo="giscus/giscus"
+        ...
+        data-theme="https://raw.githubusercontent.com/MikeCZ23/mikecz23.github.io/main/.vitepress/theme/custom.css"
+        ...>
+</script>
 
 <template>
   <!--
