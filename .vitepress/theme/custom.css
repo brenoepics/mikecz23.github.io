@@ -87,3 +87,10 @@ input.task-list-item-checkbox:checked {
     border: 0.25rem solid green;
     border-radius: 0rem;
 }
+.task-list-item-checkbox:checked {
+    appearance: none;
+    -webkit-appearance: none;
+    padding: 0.1rem;
+    border: 0.25rem solid green;
+    border-radius: 0rem;
+}
