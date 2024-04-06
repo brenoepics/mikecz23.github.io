@@ -80,7 +80,7 @@ h1{
     --vp-c-divider: #2e2e32;
   }
 
-.gsc-comment,
+.task-list-item,
 input[type=checkbox]:checked {
 
   appearance: none;
