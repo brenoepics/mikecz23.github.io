@@ -80,14 +80,7 @@ h1{
     --vp-c-divider: #2e2e32;
   }
 
-.task-list-item-checkbox:checked,
-input.task-list-item-checkbox:checked {
-    appearance: none;
-    -webkit-appearance: none;
-    padding: 0.1rem;
-    border: 0.25rem solid green;
-    border-radius: 0rem;
-}
+input,
 .task-list-item-checkbox:checked {
     appearance: none;
     -webkit-appearance: none;
