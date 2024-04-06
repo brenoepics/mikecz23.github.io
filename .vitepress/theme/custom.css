@@ -79,3 +79,11 @@ h1{
 .dark { /* <hr> barva */
     --vp-c-divider: #2e2e32;
   }
+
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  padding: 0.1rem;
+  border: 0.25rem solid green;
+  border-radius: 0.5rem;
+}
