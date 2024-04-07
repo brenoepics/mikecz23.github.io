@@ -28,8 +28,8 @@ export default defineConfig({
       priority: 0.8
     })
     return items
-    }
-  },  */
+    } */
+  },
   
   title: "MikeCZ - Češtiny",
   description: "Stránka fanouškovského překladu hry.",
