@@ -19,7 +19,7 @@ export default defineConfig({
  // lastUpdated: true,
    sitemap: {
     hostname: 'https://mikecz23.github.io/',
-    lastmodDateOnly: false,
+    lastmodDateOnly: true, // false
     transformItems: (items) => {
       // add new items or modify/filter existing items
     items.push({
