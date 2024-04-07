@@ -18,7 +18,8 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 export default defineConfig({
  // lastUpdated: true,
    sitemap: {
-    hostname: 'https://mikecz23.github.io/'
+    hostname: 'https://mikecz23.github.io/',
+    lastmodDateOnly: false
   },
   
   title: "MikeCZ - Češtiny",
