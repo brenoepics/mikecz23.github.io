@@ -89,7 +89,7 @@ input.task-list-item-checkbox:checked {
     padding: 0.1rem;
     border: 0.25rem solid green;
     border-radius: 0rem;
-
+    background: green;
 }
 
 .task-list-item-checkbox:checked {
@@ -98,4 +98,5 @@ input.task-list-item-checkbox:checked {
     padding: 0.1rem;
     border: 0.25rem solid green;
     border-radius: 0rem;
+    background: green;
 }
