@@ -14,7 +14,7 @@ const { frontmatter, title } = useData()
       It doesn't make sense to use `v-if` to unmount `script` here,
       what needs to be uninstalled is the giscus comment section that has been inserted into the DOM.
     -->
-<!-- data-theme="https://raw.githubusercontent.com/MikeCZ23/mikecz23.github.io/main/.vitepress/theme/giscus.css" -->
+<!-- data-theme="dark" -->
     <component
       :is="'script'"
       src="https://giscus.app/client.js"
@@ -28,7 +28,7 @@ const { frontmatter, title } = useData()
       data-emit-metadata="0"
       data-input-position="top"
       data-lang="en"
-      data-theme="dark"
+      data-theme="https://cdn.jsdelivr.net/gh/MikeCZ23/mikecz23.github.io@main/.vitepress/theme/giscus.css"
       data-loading="lazy"
       async
     />
