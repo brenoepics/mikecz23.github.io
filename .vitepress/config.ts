@@ -19,7 +19,17 @@ export default defineConfig({
  // lastUpdated: true,
    sitemap: {
     hostname: 'https://mikecz23.github.io/',
-    lastmodDateOnly: false
+    lastmodDateOnly: false,
+    transformItems: (items) => {
+      // add new items or modify/filter existing items
+    items.push({
+      url: '/readme/',
+      changefreq: 'monthly',
+      priority: 0.8
+    })
+    return items
+    }
+     
   },
   
   title: "MikeCZ - Češtiny",
