@@ -1,6 +1,7 @@
 import type { Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme"
 import './custom.css';
+import './giscus.css';
 import PBlogFigure from "./components/PBlogFigure.vue";
 import PBlogHeader from "./components/PBlogHeader.vue";
 import PBlogListing from "./components/PBlogListing.vue";
