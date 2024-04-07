@@ -29,6 +29,7 @@ const { frontmatter, title } = useData()
       data-input-position="top"
       data-lang="en"
       data-theme="dark"
+      data-theme="https://raw.githubusercontent.com/MikeCZ23/mikecz23.github.io/main/.vitepress/theme/giscus.css"
       data-loading="lazy"
       async
     />
