@@ -2,7 +2,7 @@
  * Copyright (c) 2018 GitHub Inc.
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
-.task-list-item-checkbox:checked {
+main .task-list-item-checkbox:checked {
 appearance: none;
 -webkit-appearance: none;
 padding: 0.1rem;
