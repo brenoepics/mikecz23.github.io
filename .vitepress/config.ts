@@ -17,10 +17,10 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
  // lastUpdated: true,
-/*   sitemap: {
+    sitemap: {
     hostname: 'https://mikecz23.github.io/',
-    lastmodDateOnly: true, // false
-    transformItems: (items) => {
+    lastmodDateOnly: false,
+ /*   transformItems: (items) => {
       // add new items or modify/filter existing items
     items.push({
       url: '/readme/',
@@ -29,7 +29,7 @@ export default defineConfig({
     })
     return items
     }
-  }, */
+  },  */
   
   title: "MikeCZ - Češtiny",
   description: "Stránka fanouškovského překladu hry.",
