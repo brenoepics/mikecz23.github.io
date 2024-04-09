@@ -19,7 +19,8 @@ input.task-list-item-checkbox {
     height: 13px;
 }
     
-main{--color-prettylights-syntax-comment:#8b949e;
+main {
+  --color-prettylights-syntax-comment:#8b949e;
   --color-prettylights-syntax-constant:#79c0ff;
   --color-prettylights-syntax-entity:#d2a8ff;
   --color-prettylights-syntax-storage-modifier-import:#c9d1d9;
