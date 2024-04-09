@@ -2,6 +2,11 @@
  * Copyright (c) 2018 GitHub Inc.
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
+input.task-list-item-checkbox {
+    width: 13px;
+    height: 13px;
+}
+
  main .task-list-item-checkbox:checked {
     appearance: none;
     -webkit-appearance: none;
