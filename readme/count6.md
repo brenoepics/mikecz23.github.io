@@ -1,6 +1,7 @@
 ---
 title: Im counting to 6 - čeština
 sidebar: false
+editLink: false
 ---
 <script setup lang="ts">
 const people = {
