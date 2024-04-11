@@ -1,6 +1,7 @@
 ---
 title: Alone in the Dark Prologue-Grace - čeština
 sidebar: false
+editLink: false
 ---
 <script setup lang="ts">
 const people = {
