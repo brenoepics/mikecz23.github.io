@@ -1,6 +1,7 @@
 ---
 title: Silver Chains - čeština
 sidebar: false
+editLink: false
 ---
 <script setup lang="ts">
 const people = {
