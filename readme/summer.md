@@ -1,6 +1,7 @@
 ---
 title: Summer of ´58 - čeština
 sidebar: false
+editLink: false
 ---
 <script setup lang="ts">
 const people = {
