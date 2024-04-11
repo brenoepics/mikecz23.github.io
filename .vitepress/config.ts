@@ -16,7 +16,8 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
- // lastUpdated: true,
+    lastUpdated: true,
+  
     sitemap: {
     hostname: 'https://mikecz23.github.io/',
     lastmodDateOnly: false,
