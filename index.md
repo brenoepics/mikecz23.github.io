@@ -3,6 +3,7 @@ title: Češtiny
 sidebar: false
 comments: false
 lastUpdated: false
+editLink: false
 
 layout: home
 hero:
