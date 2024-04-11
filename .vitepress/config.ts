@@ -54,7 +54,7 @@ export default defineConfig({
     },
 
      editLink: {
-      pattern: 'https://github.com/mikecz23/mikecz23.github.io/edit/main/readme/silksong.md/:path',
+      pattern: 'https://github.com/mikecz23/mikecz23.github.io/edit/main/readme/:path',
       text: 'Edit this page on GitHub'
     },
 
