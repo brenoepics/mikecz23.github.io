@@ -52,6 +52,11 @@ export default defineConfig({
       next: 'Následující stránka'
     },
 
+     editLink: {
+      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    }
+
     logo: {
       src: 'icon.png'
     },
