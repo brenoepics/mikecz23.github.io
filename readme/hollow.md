@@ -1,6 +1,7 @@
 ---
 title: Hollow Knight – Čeština
 sidebar: false
+editLink: false
 ---
 <script setup lang="ts">
 const people = {
