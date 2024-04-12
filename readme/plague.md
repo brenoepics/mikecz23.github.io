@@ -1,6 +1,7 @@
 ---
 title: Plague Inc – Čeština
 sidebar: false
+lastUpdated: false
 editLink: false
 ---
 <script setup lang="ts">
