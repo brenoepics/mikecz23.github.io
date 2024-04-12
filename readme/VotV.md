@@ -1,6 +1,7 @@
 ---
 title: Voices of the Void - čeština
 sidebar: false
+lastUpdated: false
 editLink: false
 ---
 <script setup lang="ts">
