@@ -17,6 +17,11 @@
     height: 80%;
 }
 
+.last-updated{
+    position: absolute;
+    right: 40px;
+}
+
 img{
     display: inline-block;
     margin-right: 5px;
