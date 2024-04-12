@@ -22,6 +22,12 @@
     right: 40px;
 }
 
+@media (max-width: 600px) {
+  .last-updated {
+    right: 0;
+  }
+}
+
 img{
     display: inline-block;
     margin-right: 5px;
