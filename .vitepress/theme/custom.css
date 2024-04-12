@@ -19,7 +19,7 @@
 
 .last-updated{
     position: absolute;
-    right: 40px;
+    right: 32px;
 }
 
 @media (max-width: 600px) {
