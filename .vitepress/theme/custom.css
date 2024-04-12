@@ -22,7 +22,7 @@
     right: 32px;
 }
 
-@media (max-width: 630px) {
+@media (max-width: 930px) {
   .last-updated {
     right: 0;
   }
