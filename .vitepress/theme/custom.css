@@ -24,7 +24,8 @@
 
 @media (max-width: 930px) {
   .last-updated {
-    right: 0;
+      position: absolute;
+      right: 0;
   }
 }
 
