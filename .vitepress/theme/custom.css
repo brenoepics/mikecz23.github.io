@@ -46,11 +46,6 @@ img{
   opacity: 0.3;
 }
 
-.last-updated{
-    position: absolute;
-    right: 0;
-}
-
 :root{ /* home H1 text a obrázek */
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(
