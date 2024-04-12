@@ -1,6 +1,7 @@
 ---
 title: Hollow Knight – Čeština
 sidebar: false
+lastUpdated: false
 editLink: false
 ---
 <script setup lang="ts">
