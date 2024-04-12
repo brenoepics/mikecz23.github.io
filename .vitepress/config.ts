@@ -55,7 +55,7 @@ export default defineConfig({
 
      editLink: {
       pattern: 'https://github.com/mikecz23/mikecz23.github.io/edit/main/:path',
-      text: 'Edit this page on GitHub'
+      text: 'Edit this page'
     },
 
     logo: {
