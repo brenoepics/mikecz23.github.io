@@ -3,6 +3,12 @@ title: Voices of the Void - čeština
 sidebar: false
 lastUpdated: false
 editLink: false
+author: MikeCZ
+tags:
+  - VotV
+  - Voices of the Void
+  - Čeština
+category: Češtiny
 ---
 <script setup lang="ts">
 const people = {
