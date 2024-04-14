@@ -50,6 +50,10 @@ img{
   width: 100%;
 }
 
+status a:hover {
+    border: 3px solid transparent;
+}
+
 @media (max-width: 600px) {
   .status a {
     width: calc(50% - 4px);
