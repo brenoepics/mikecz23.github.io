@@ -3,6 +3,11 @@ title: Plague Inc – Čeština
 sidebar: false
 lastUpdated: false
 editLink: false
+author: MikeCZ
+tags:
+  - Plague Inc
+  - Čeština
+category: Češtiny
 ---
 <script setup lang="ts">
 const people = {
