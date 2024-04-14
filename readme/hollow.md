@@ -3,6 +3,9 @@ title: Hollow Knight – Čeština
 sidebar: false
 lastUpdated: false
 editLink: false
+tags:
+- HollowKnight
+category: Czech
 ---
 <script setup lang="ts">
 const people = {
