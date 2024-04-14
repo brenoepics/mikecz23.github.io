@@ -60,7 +60,8 @@ cesta: ..\VotV\Content\Paks <br />
 nahradí to Češtinu
 
 ## Ke stažení
-fix [2024/03/18] [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
+[Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0) <br />
+18. brezen 2024 - oprava několika řádků
 
 ---
 
