@@ -47,6 +47,7 @@ Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružstv�
 [Scarab](https://github.com/fifty-six/Scarab/releases)`github` <br />
 - Po prvnim spuštění se tě to zeptá kde máš hru nainstalovanou. <br />
 - V horní části appky je vyhledávání. Najdi a zapni **SFCore** a **Vasi**. <br />
+
 [LangSupport](https://github.com/SFGrenade/LanguageSupport)`github` <br />
 - pozorně si přečti readme tohoto módu. Vpravo je sekce Releases a zajímá tě .zip (SourceCode ne!) <br />
 - vložit sem: *\hollow_knight_Data\Managed\Mods <br />
