@@ -3,6 +3,11 @@ title: Hollow Knight – Čeština
 sidebar: false
 lastUpdated: false
 editLink: false
+author: MikeCZ
+tags:
+  - Hollow Knight
+  - Čeština
+category: Češtiny
 ---
 <script setup lang="ts">
 const people = {
