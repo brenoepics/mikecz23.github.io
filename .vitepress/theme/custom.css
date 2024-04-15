@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Space+Mono:regular,italic,700,700italic);
+
 
 .video-container {
     position: relative;
@@ -93,6 +93,5 @@ h1{
 
 :root{
     --vp-font-family-base: ;
-    --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+    --vp-font-family-mono: ;
 }
