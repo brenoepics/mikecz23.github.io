@@ -91,9 +91,8 @@ h1{
     --vp-c-divider: #2e2e32;
   }
 
-/* font */
-/*
+/* font
 :root{
-    --vp-font-family-base: ;
-    --vp-font-family-mono: ;
+    --vp-font-family-base: ; /* hlavní
+    --vp-font-family-mono: ; /* code
 } */
