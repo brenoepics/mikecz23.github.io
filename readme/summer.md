@@ -6,7 +6,7 @@ editLink: false
 <script setup lang="ts">
 const people = {
   lead: [
-    { name: "Pertim", role: "Vedení projektu", sponsor: "https://google.com"}
+    { name: "Pertim", role: "Vedení projektu"}
   ],
   l10n: [
     { name: "Pertim", role: "Překlad"},
