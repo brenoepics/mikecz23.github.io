@@ -48,6 +48,9 @@ Plague Inc: Evolved je jedinečná kombinace vysoké strategie a děsivě realis
 <br><br>
 Plague Inc: The Cure byla vytvořena za pomoci světových odborníků na zdraví a infekční choroby z celého světa, včetně Koalice pro připravenost na epidemii (CEPI), Světové zdravotnické organizace (WHO) a Globální sítě pro vypuknutí a reakci na ohniska (GOARN). Vaším úkolem je vyvážit sociální, ekonomické a globální zdravotní faktory s cílem udržet nemoc pod kontrolou a zároveň zachovat důvěru veřejnosti.
 
+## Známé chyby
+- Něco může být nepřeložené <br />
+
 
 ## Členové týmu
 
