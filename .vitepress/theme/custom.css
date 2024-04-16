@@ -3,7 +3,7 @@
 .video-container {
     position: relative;
     padding-bottom: 56%;
-    padding-top: 35px;
+    padding-top: 0px;
     height: 0;
     overflow: hidden;
     display: flex;
