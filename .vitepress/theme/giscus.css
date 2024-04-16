@@ -18,6 +18,12 @@ input.task-list-item-checkbox {
     width: 13px;
     height: 13px;
 }
+
+/*
+img {
+    display: none;
+}
+*/
     
 main {
   --color-prettylights-syntax-comment:#8b949e;
