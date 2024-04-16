@@ -54,6 +54,8 @@ export default defineConfig({
       next: 'Následující stránka'
     },
 
+    appearance: 'dark',
+
      editLink: {
       pattern: 'https://github.com/mikecz23/mikecz23.github.io/edit/main/:path',
       text: 'Edit this page'
