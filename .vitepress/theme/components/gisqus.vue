@@ -42,7 +42,7 @@ if (typeof modeToggle !== "undefined") {
       data-emit-metadata="0"
       data-input-position="top"
       data-lang="en"
-      data-theme="changeGiscusTheme ()" 
+      data-theme="https://cdn.jsdelivr.net/gh/MikeCZ23/mikecz23.github.io@latest/.vitepress/theme/giscus.css" 
       data-loading="lazy"
       async
     />
