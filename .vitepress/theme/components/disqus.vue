@@ -14,7 +14,7 @@ const { frontmatter, title } = useData()
       It doesn't make sense to use `v-if` to unmount `script` here,
       what needs to be uninstalled is the giscus comment section that has been inserted into the DOM.
     -->
-<!-- data-theme="dark" -->
+    
     <component
       :is="'script'"
       src="https://giscus.app/client.js"
