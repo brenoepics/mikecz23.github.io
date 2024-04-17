@@ -60,5 +60,3 @@ editLink: false
     toggle.addEventListener('click', setGiscusTheme);
   }
 </script>
-
-<noscript>Please enable JavaScript to view the comments</noscript>
