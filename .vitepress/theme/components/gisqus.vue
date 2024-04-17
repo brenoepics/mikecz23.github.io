@@ -2,29 +2,6 @@
 import { useData } from 'vitepress'
 
 const { frontmatter, title } = useData()
-
-
-function changeGiscusTheme () {
-  let modeToggle = new ModeToggle();
-  const theme = modeToggle.mode === 'dark' ?  'dark' : 'light'
-  function sendMessage(message) {
-    let iframe = document.querySelector('iframe.giscus-frame') as HTMLIFrameElement;
-    if (iframe && iframe.contentWindow) {
-      iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-    }
-  }
-  sendMessage({
-    setConfig: {
-      theme: theme
-    }
-  });
-}
-
-const modeToggle = document.getElementsByClassName("mode-toggle")[0];
-
-if (typeof modeToggle !== "undefined") {
-  modeToggle.addEventListener('click', changeGiscusTheme);
-}
 </script>
 
 <template>
