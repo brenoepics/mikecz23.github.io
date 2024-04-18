@@ -16,7 +16,7 @@ const { Layout } = DefaultTheme
   </Layout>
 </template>
 
-<script>
+<script lang="ts">
 import { watch } from 'vue'
 import { useRoute, useData } from 'vitepress'
 
