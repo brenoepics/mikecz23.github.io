@@ -8,9 +8,7 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #doc-after>
-      <div class="giscus">
-        <Comments />
-      </div>
+      <Comments />
     </template>
   </Layout>
 </template>
