@@ -1,6 +1,5 @@
 <script setup>
 import DefaultTheme from "vitepress/theme"
-import Giscus from '@giscus/vue'
 
 const { Layout } = DefaultTheme
 </script>
