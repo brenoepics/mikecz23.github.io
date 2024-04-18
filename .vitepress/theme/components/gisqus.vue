@@ -4,6 +4,7 @@ import { useData } from 'vitepress'
 const { frontmatter, title } = useData()
 </script>
 
+<!-- https://cdn.jsdelivr.net/gh/MikeCZ23/mikecz23.github.io@main/.vitepress/theme/giscus.css -->
 <template>
   <div v-if="frontmatter.comments !== false" :key="title" class="giscus">
     <component
@@ -19,7 +20,7 @@ const { frontmatter, title } = useData()
       data-emit-metadata="0"
       data-input-position="top"
       data-lang="en"
-      data-theme="https://cdn.jsdelivr.net/gh/MikeCZ23/mikecz23.github.io@main/.vitepress/theme/giscus.css" 
+      data-theme="isDark ? 'dark' : 'light'" 
       data-loading="lazy"
       async
     />
