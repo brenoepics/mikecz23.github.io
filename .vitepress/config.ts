@@ -34,7 +34,7 @@ export default defineConfig({
   },
   
   title: "MikeCZ - Češtiny",
-  cleanUrls: true,
+  // cleanUrls: true,
   description: "Stránka fanouškovského překladu hry.",
   base: "/",
   head: [
