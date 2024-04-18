@@ -5,6 +5,7 @@ import Giscus from '@giscus/vue'
 const { frontmatter, title } = useData()
 </script>
 
+<!-- I MUST F5 IF I CHANGE THEME -->
 <!-- https://cdn.jsdelivr.net/gh/MikeCZ23/mikecz23.github.io@main/.vitepress/theme/giscus.css -->
 <template>
   <div v-if="frontmatter.comments !== false" :key="title" class="giscus">
