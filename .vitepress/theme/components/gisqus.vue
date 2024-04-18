@@ -2,7 +2,6 @@
 import { useData } from 'vitepress'
 import Giscus from '@giscus/vue'
 
-const { Layout } = DefaultTheme
 const { frontmatter, title } = useData()
 </script>
 
