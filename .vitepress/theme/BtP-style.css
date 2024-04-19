@@ -11,6 +11,8 @@
     position:fixed;
     bottom:2rem;
     right:2.5rem
+    transition: 0.2s ease-out;
+    -webkit-transition: 0.2s ease-out;
 }
 .go-to-top[data-v-09295527]:hover{
     background-color:var(--vp-c-brand-2);
