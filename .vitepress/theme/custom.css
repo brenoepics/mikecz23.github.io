@@ -96,15 +96,3 @@ h1{
     --vp-font-family-base: ; /* hlavní
     --vp-font-family-mono: ; /* code
 } */
-
-.VPMenu {
-  max-height: calc(100vh - var(--vp-nav-height-desktop));
-  overflow-y: auto;
-  border-radius: 12px;
-  padding: 12px;
-  min-width: 768px;
-  border: 1px solid var(--vp-c-divider-light);
-  background-color: var(--vp-c-bg);
-  box-shadow: var(--vp-shadow-3);
-  transition: background-color 0.5s;
-}
