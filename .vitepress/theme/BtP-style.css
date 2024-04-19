@@ -14,7 +14,9 @@
 }
 .go-to-top[data-v-09295527]:hover{
     background-color:var(--vp-c-brand-2);
-    transform: translateY(-5px);
+   /* transform: translateY(-5px); */
+    transform: translate3d(0, -5px, 0);
+    -webkit-transform: translate3d(0, -5px, 0);
     transition: 0.5s;
 }
 .go-to-top .icon-top[data-v-09295527]{
