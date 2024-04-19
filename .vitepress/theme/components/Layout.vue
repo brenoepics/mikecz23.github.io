@@ -64,7 +64,7 @@ input.task-list-item-checkbox {
     height: 13px;
 }
 
- main .task-list-item-checkbox:checked {
+ input.task-list-item-checkbox:checked {
     appearance: none;
     -webkit-appearance: none;
     /*padding: 0.1rem;*/
