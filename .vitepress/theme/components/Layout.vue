@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
-// import Comments from './disqus.vue'
+import Comments from './disqus.vue'
 import Giscus from '@giscus/vue'
 
 const { Layout } = DefaultTheme
