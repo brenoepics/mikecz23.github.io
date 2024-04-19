@@ -4,7 +4,8 @@
   "description": "Stránka fanouškovského překladu hry.",
   "type": "module",
   "devDependencies": {
-    "@types/node": "^20.11.25",
+    "@giscus/vue": "^2.4.0",
+    "@types/node": "^20.11.30",
     "fast-glob": "^3.3.2",
     "gray-matter": "^4.0.3",
     "typescript": "^5.4.2",
@@ -15,5 +16,15 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "author": "MikeCZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeCZ23/mikecz23.github.io/issues"
+  },
+  "dependencies": {
+    "@giscus/react": "^3.0.0",
+    "@giscus/solid": "^3.0.0",
+    "@giscus/svelte": "^3.0.0"
   }
 }
