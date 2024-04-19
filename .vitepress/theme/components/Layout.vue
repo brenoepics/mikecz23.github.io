@@ -59,12 +59,12 @@ export default {
 </script>
 
 <style>
-input.task-list-item-checkbox {
+  .task-list-item-checkbox {
     width: 13px;
     height: 13px;
 }
 
- main .task-list-item-checkbox:checked {
+  .task-list-item-checkbox:checked {
     appearance: none;
     -webkit-appearance: none;
     /*padding: 0.1rem;*/
