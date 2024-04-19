@@ -104,7 +104,7 @@ h1{
  / ** +++ **/
   border-radius: 12px;
   padding: 12px;
-  min-width: 128px;
+  min-width: 768px;
   border: 1px solid var(--vp-c-divider-light);
   background-color: var(--vp-c-bg);
   box-shadow: var(--vp-shadow-3);
