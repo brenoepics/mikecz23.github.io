@@ -59,5 +59,19 @@ export default {
 </script>
 
 <style>
+input.task-list-item-checkbox {
+    width: 13px;
+    height: 13px;
+}
 
+ main .task-list-item-checkbox:checked {
+    appearance: none;
+    -webkit-appearance: none;
+    /*padding: 0.1rem;*/
+    border: 0.15rem solid green;
+    border-radius: 2px;
+    background: green;
+    content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="white" viewBox="0 0 24 24"><path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>');
+    width: 13px;
+    height: 13px;
 </style>
