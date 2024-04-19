@@ -26,6 +26,7 @@
   "dependencies": {
     "@giscus/react": "^3.0.0",
     "@giscus/solid": "^3.0.0",
-    "@giscus/svelte": "^3.0.0"
+    "@giscus/svelte": "^3.0.0",
+    "vitepress-plugin-back-to-top": "^1.0.1"
   }
 }
