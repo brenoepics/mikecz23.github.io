@@ -15,6 +15,7 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
+    "docs:serve": "vitepress serve",
     "docs:preview": "vitepress preview"
   },
   "author": "MikeCZ",
