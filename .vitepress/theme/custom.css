@@ -96,3 +96,10 @@ h1{
     --vp-font-family-base: ; /* hlavní
     --vp-font-family-mono: ; /* code
 } */
+
+:root .VPNav {
+    background: rgba(255, 255, 255, .7);
+}
+:root.dark .VPNav {
+    background-color: #242424b3;
+}
