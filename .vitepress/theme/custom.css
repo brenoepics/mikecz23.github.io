@@ -53,7 +53,7 @@ img{
 }
 
 .status a:hover {
-    border: 3px solid transparent;
+    transform: scale(0.96);
 }
 
 @media (max-width: 600px) {
