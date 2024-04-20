@@ -3,6 +3,7 @@ import FastGlob from "fast-glob";
 import grayMatter from "gray-matter";
 import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
+import { URL, fileURLToPath } from 'node:url';
 
 const posts: any[] = [];
 for (const source of await FastGlob("novinky/*-*.md")) {
