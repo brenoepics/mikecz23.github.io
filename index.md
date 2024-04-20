@@ -39,5 +39,5 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 
 ---
 
-[TOPlist<noscript>![TOPlist](https://toplist.cz/count.asp?id=1836145&logo=btn&njs=1)</noscript>](https://www.toplist.cz/stat/1836145/)
+[![TOPlist](https://toplist.cz/count.asp?id=1836145&logo=btn&njs=1)](https://www.toplist.cz/stat/1836145/)
 
