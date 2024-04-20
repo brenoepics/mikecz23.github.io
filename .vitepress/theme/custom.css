@@ -96,3 +96,30 @@ h1{
     --vp-font-family-base: ; /* hlavní
     --vp-font-family-mono: ; /* code
 } */
+
+
+
+
+
+html:not(.dark) img[data-mode="darkmode-only"] {
+  display: none !important;
+}
+html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
+  display: none !important;
+}
+.dark img[data-mode="lightmode-only"] {
+  display: none !important;
+}
+.dark img[data-mode="lightmode-only"] + figcaption {
+  display: none !important;
+}
+.menu + .appearance::before {
+  margin-right: 8px !important;
+}
+.appearance + .social-links::before {
+  margin-left: 8px !important;
+}
+.VPMenu .CustomSwitchAppearance {
+  margin-right: -8px;
+}
+
