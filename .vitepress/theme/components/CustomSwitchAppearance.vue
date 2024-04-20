@@ -38,37 +38,30 @@ onMounted(() => {
   </button>
 </template>
 
-<style lang="stylus" scoped>
+<style scoped>
 .CustomSwitchAppearance {
-  display: flex
-  justify-content: center
-  align-items: center
-  width: 36px
-  height: 36px
-  color: var(--vp-c-text-2)
-  transition: color 0.5s
-
-  &:hover {
-    color: var(--vp-c-text-1)
-    transition: color 0.25s
-  }
-
-  & > :deep(svg) {
-    width: 20px
-    height: 20px
-    fill: currentColor
-  }
-
-  &[data-view-transition="false"] {
-    .fade-enter-active,
-    .fade-leave-active {
-      transition: opacity 0.1s ease
-    }
-
-    .fade-enter-from,
-    .fade-leave-to {
-      opacity: 0
-    }
-  }
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 width: 36px;
+	 height: 36px;
+	 color: var(--vp-c-text-2);
+	 transition: color 0.5s;
 }
+ .CustomSwitchAppearance:hover {
+	 color: var(--vp-c-text-1);
+	 transition: color 0.25s;
+}
+ .CustomSwitchAppearance > :deep(svg) {
+	 width: 20px;
+	 height: 20px;
+	 fill: currentColor;
+}
+ .CustomSwitchAppearance[data-view-transition="false"] .fade-enter-active, .CustomSwitchAppearance[data-view-transition="false"] .fade-leave-active {
+	 transition: opacity 0.1s ease;
+}
+ .CustomSwitchAppearance[data-view-transition="false"] .fade-enter-from, .CustomSwitchAppearance[data-view-transition="false"] .fade-leave-to {
+	 opacity: 0;
+}
+ 
 </style>
