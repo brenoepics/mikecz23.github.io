@@ -89,7 +89,7 @@ export default defineConfig({
   //  },
     
     footer: {
-    message: '<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <br> <a href="https://www.toplist.cz/stat/1836145/"><img src="https://toplist.cz/count.asp?id=1836145&logo=btn&njs=1" border="0" alt="TOPlist" width="80" height="15" /></a>',
+    message: '<a href="https://www.toplist.cz/stat/1836145/"><img src="https://toplist.cz/count.asp?id=1836145&logo=btn&njs=1" border="0" alt="TOPlist" width="80" height="15" /></a>',
     copyright: 'Copyright © 2024-present'
     },
     
