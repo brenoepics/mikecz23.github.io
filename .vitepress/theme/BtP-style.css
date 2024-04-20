@@ -33,7 +33,7 @@
     -webkit-transition: 0.2s ease-out;
 }
 .go-to-top[data-v-09295527]:hover{
-    background-color:var(--vp-c-brand-2);
+    background-color:var(--btn-hover-color);
     transform: translateY(-5px); 
     -webkit-transform: translateY(-5px); 
     transition: 0.2s ease-out;
