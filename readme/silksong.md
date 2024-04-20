@@ -11,5 +11,3 @@ Nezavazuju se k překladu hry. Jen o ní uvažuji. Jestli jí chceš udělat, po
 :::
 
 ---
-
-<nav to="advanced">
