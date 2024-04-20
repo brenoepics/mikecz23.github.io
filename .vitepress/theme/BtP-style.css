@@ -22,9 +22,9 @@
     text-align:center;
     border-radius:50%;
     border: 1px solid var(--btn-backtotop-border-color); /*var(--vp-c-brand-2); */
-    background-color:var(--button-bg); /* var(--vp-c-brand-1); */
+    background-color: var(--button-bg); /* var(--vp-c-brand-1); */
     color: var(--btn-backtotop-color);
-    box-shadow:0 2px 12px #0000001a;
+    box-shadow: 0 2px 12px #0000001a;
     cursor:pointer;
     position:fixed;
     bottom:2rem;
