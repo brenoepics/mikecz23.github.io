@@ -23,7 +23,7 @@ onMounted(() => {
   <button
     type="button"
     role="switch"
-    title="Toggle dark mode"
+    title="Přepnout motiv"
     class="CustomSwitchAppearance"
     :aria-checked="isDark"
     :data-view-transition="supportsViewTransition"
