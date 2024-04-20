@@ -2,12 +2,14 @@
     --button-bg: #fff;
     --btn-backtotop-color: #686868;
     --btn-backtotop-border-color: #f1f1f1;
+    --btn-hover-color: rgb(235, 235, 235);
 }
 
 .dark {
     --button-bg: rgb(39, 40, 43);
     --btn-backtotop-color: rgb(175, 176, 177);
     --btn-backtotop-border-color: rgb(63, 65, 68);
+    --btn-hover-color: rgb(34, 34, 36);
 }
 
 
