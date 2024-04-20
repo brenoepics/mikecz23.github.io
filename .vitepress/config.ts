@@ -18,7 +18,20 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 export default defineConfig({
     lastUpdated: true,
     appearance: 'dark',
-  
+
+    vite: {
+      resolve: {
+        alias: [
+          {
+          find: /^.*VPSwitchAppearance\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/CustomSwitchAppearance.vue', import.meta.url),
+          ),
+        },
+        ],
+      },
+    },
+    
     sitemap: {
     hostname: 'https://mikecz23.github.io/',
     lastmodDateOnly: false,
