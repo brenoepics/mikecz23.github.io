@@ -18,6 +18,7 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     lastUpdated: true,
+  
     appearance: 'dark',
 
     vite: {
@@ -68,8 +69,6 @@ export default defineConfig({
       prev: 'Předchozí stránka',
       next: 'Následující stránka'
     },
-
-    appearance: 'dark',
 
      editLink: {
       pattern: 'https://github.com/mikecz23/mikecz23.github.io/edit/main/:path',
