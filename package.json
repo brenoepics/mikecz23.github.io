@@ -12,6 +12,7 @@
     "gray-matter": "^4.0.3",
     "typescript": "^5.4.2",
     "vitepress": "^1.0.0-rc.44",
+    "vitepress-plugin-tabs": "^0.5.0",
     "vue": "^3.4.21"
   },
   "scripts": {
