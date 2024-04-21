@@ -12,6 +12,7 @@ import PTeamMembers from "./components/PTeamMembers.vue";
 import Layout from "./components/Layout.vue";
 import vitepressBackToTop from 'vitepress-plugin-back-to-top'
 import './BtP-style.css'
+import '../../readme/components/theme.css'
 
 export default {
   Layout,
