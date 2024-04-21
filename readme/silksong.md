@@ -4,34 +4,6 @@ sidebar: false
 author: MikeCZ
 ---
 
-<script setup>
-import { onMounted } from 'vue'
-import './components/index.css'
-  onMounted(() => {
-    import('./components/icon/')
-    import('./components/button/')
-    import('./components/checkbox/')
-    import('./components/dialog/').then((res)=> {
-        window.dialog = res.default
-    })
-    import('./components/message/').then((res)=> {
-        window.message = res.default
-    })
-  })
-</script>
-
-<script type="module">
-  
-    import dialog from './components/xy-dialog.js';
-  
-    dialog.info('Nevím co zde hledáš když hra ještě nevyšla.');
-  
-</script>
-
-<xy-dialog open>
-    <div>dialog</div>
-</xy-dialog>
-
 # Hollow Knight: Silksong
 
 ::: warning UPOZORNĚNÍ
