@@ -21,9 +21,13 @@ import './components/index.css'
 </script>
 
 <script type="module">
+  
     import dialog from './components/xy-dialog.js';
+  
     dialog.info('Nevím co zde hledáš když hra ještě nevyšla.');
+  
 </script>
+
 <xy-dialog open>
     <div>dialog</div>
 </xy-dialog>
