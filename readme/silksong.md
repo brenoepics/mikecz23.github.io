@@ -27,11 +27,3 @@ Nezavazuju se k překladu hry. Jen o ní uvažuji. Jestli jí chceš udělat, po
 :::
 
 ---
-
-<script type="module">
-    import dialog from './components/dialog/index.js';
-    dialog.info('Nevím co zde hledáš když hra ještě nevyšla.');
-</script>
-<xy-dialog open>
-    <div>dialog</div>
-</xy-dialog>
