@@ -18,6 +18,20 @@ hero:
 footer: MIT Licensed | Copyright © 2024-present MikeCZ
 ---
 
+<style>
+:root{ /* home H1 text a obrázek */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(
+      190deg,
+      #f00, 
+      #ffe2e2,
+      #e3deff, 
+      #00f);
+   /* --vp-home-hero-image-background-image: linear-gradient(-45deg,  #910000 50%, #02008d 50%);
+    --vp-home-hero-image-filter: blur(44px); */
+} 
+</style>
+
 <div class="status">
 <div class="mikecz">
 
