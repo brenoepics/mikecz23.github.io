@@ -1,14 +1,14 @@
 :root {
     --button-bg: #fff;
     --btn-backtotop-color: #686868;
-    --btn-backtotop-border-color: #ececec;
+    --btn-border-color: #ececec;
     --btn-hover-color: rgb(235, 235, 235);
 }
 
 .dark {
     --button-bg: rgb(39, 40, 43);
     --btn-backtotop-color: rgb(175, 176, 177);
-    --btn-backtotop-border-color: rgb(63, 65, 68);
+    --btn-border-color: rgb(63, 65, 68);
     --btn-hover-color: rgb(34, 34, 36);
 }
 
@@ -21,7 +21,7 @@
     padding:0;
     text-align:center;
     border-radius:50%;
-    border: 1px solid var(--btn-backtotop-border-color); /*var(--vp-c-brand-2); */
+    border: 1px solid var(--btn-border-color); /*var(--vp-c-brand-2); */
     background-color: var(--button-bg); /* var(--vp-c-brand-1); */
     color: var(--btn-backtotop-color);
     box-shadow: 0 2px 12px #0000001a;
