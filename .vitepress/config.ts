@@ -5,7 +5,10 @@ import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
 import { URL, fileURLToPath } from 'node:url';
 
-const posts: any[] = [];
+import fs from 'fs'
+import path from 'path'
+
+/*const posts: any[] = [];
 for (const source of await FastGlob("novinky/*-*.md")) {
   const content = await readFile(source, "utf-8");
   const matter = grayMatter(content);
@@ -13,7 +16,7 @@ for (const source of await FastGlob("novinky/*-*.md")) {
     text: matter.data.title,
     link: `/novinky/${basename(source, ".md")}.html`
   });
-}
+}*/
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -118,8 +121,12 @@ export default defineConfig({
       label: "Obsah"
     },
 
+//    sidebar: {
+//      "/novinky/": posts
+//    },
+
     sidebar: {
-      "/novinky/": posts
+      "/novinky/": sidebarWeekly(),
     },
 
     socialLinks: [
@@ -129,3 +136,40 @@ export default defineConfig({
     ]
   }
 });
+
+
+function _convertParseWeeklyReadme() {
+  const content = fs.readFileSync('./readme/test/scripts/weekly.json', 'utf8').toString()
+  const tree = JSON.parse(content)
+  const config = [];
+  for (let year in tree) {
+    const monthItems = [];
+    for (let month in tree[year]) {
+      const items = [];
+      for (let issue of tree[year][month]) {
+        items.push({
+          text: issue[1].split('-')[1] + 'm | ' + issue[0],
+          link: `/novinky/${issue[1]}`
+        });
+      }
+      monthItems.push({
+        text: month,
+        collapsed: true,
+        items: items
+      });
+    }
+    config.push({
+      text: year,
+      collapsed: true,
+      items: monthItems
+    });
+  }
+  config.reverse();
+  config[0].collapsed = false;
+  config[0].items[0].collapsed = false;
+  return config
+}
+
+function sidebarWeekly() {
+  return _convertParseWeeklyReadme();
+}
