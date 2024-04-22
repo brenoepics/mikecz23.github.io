@@ -139,7 +139,7 @@ export default defineConfig({
 
 
 function _convertParseWeeklyReadme() {
-  const content = fs.readFileSync('./readme/test/scripts/weekly.json', 'utf8').toString()
+  const content = fs.readFileSync('./readme/scripts/weekly.json', 'utf8').toString()
   const tree = JSON.parse(content)
   const config = [];
   for (let year in tree) {
