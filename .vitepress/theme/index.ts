@@ -19,7 +19,7 @@ const playlist = [
   {
     name: 'Hollow Knight',
     author: 'TyKim',
-    file: 'https://jmp.sh/s/fjK3KoUDXpJx2vCFDhBu',
+    file: 'https://od.lk/s/MTBfMjQ5NTEzODE4Xw/hollowknight.mp3',
   }
 ]
 
