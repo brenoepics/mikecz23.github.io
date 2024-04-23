@@ -12,6 +12,16 @@ import PTeamMembers from "./components/PTeamMembers.vue";
 import Layout from "./components/Layout.vue";
 import vitepressBackToTop from 'vitepress-plugin-back-to-top'
 import './BtP-style.css'
+import vitepressMusic from 'vitepress-plugin-music'
+import 'vitepress-plugin-music/lib/css/index.css'
+
+const playlist = [
+  {
+    name: 'Hollow Knight',
+    author: 'TyKim',
+    file: '/docs/hollowknight.mp3',
+  }
+]
 
 export default {
   Layout,
@@ -23,6 +33,8 @@ export default {
     app.component("PBlogVideo", PBlogVideo);
     app.component("PDateString", PDateString);
     app.component("PTeamMembers", PTeamMembers);
+
+    vitepressMusic(playlist);
 
     vitepressBackToTop({
       // default
