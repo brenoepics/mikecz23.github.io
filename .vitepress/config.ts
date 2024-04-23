@@ -49,8 +49,9 @@ export default defineConfig({
   },
   
   title: "MikeCZ - Češtiny",
-  // cleanUrls: true,
+  cleanUrls: true,
   description: "Stránka fanouškovského překladu hry.",
+  outDir: '',
   base: "/",
   head: [
     ["link", { rel: "icon", href: "/favicon1.ico" }],
