@@ -51,7 +51,9 @@ export default defineConfig({
   title: "MikeCZ - Češtiny",
   cleanUrls: true,
   description: "Stránka fanouškovského překladu hry.",
+  cacheDir: './.vitepress/cache',
   outDir: '',
+  srcDir: '',
   base: "/",
   head: [
     ["link", { rel: "icon", href: "/favicon1.ico" }],
