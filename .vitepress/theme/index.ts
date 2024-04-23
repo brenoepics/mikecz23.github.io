@@ -20,6 +20,11 @@ const playlist = [
     name: 'Hollow Knight',
     author: 'TyKim',
     file: 'https://od.lk/s/MTBfMjQ5NTEzODE4Xw/hollowknight.mp3',
+  },
+  {
+    name: 'Hollow Knight (2)',
+    author: 'Man on the Internet',
+    file: 'https://od.lk/s/MTBfMjQ5NTE1MzQ2Xw/hollowknight2.mp3',
   }
 ]
 
