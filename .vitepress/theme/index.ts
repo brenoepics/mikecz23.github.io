@@ -11,7 +11,7 @@ import PDateString from "./components/PDateString.vue";
 import PTeamMembers from "./components/PTeamMembers.vue";
 import Layout from "./components/Layout.vue";
 import vitepressBackToTop from 'vitepress-plugin-back-to-top'
-import 'vitepress-plugin-back-to-top/dist/style.css'
+import './BtP-style.css'
 //import vitepressBackToTop from '../../plugins/vitepress-plugin-back-to-top'
 //import '../../plugins/vitepress-plugin-back-to-top/dist/style.css'
 import vitepressMusic from 'vitepress-plugin-music'
