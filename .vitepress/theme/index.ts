@@ -11,11 +11,13 @@ import PDateString from "./components/PDateString.vue";
 import PTeamMembers from "./components/PTeamMembers.vue";
 import Layout from "./components/Layout.vue";
 import vitepressBackToTop from 'vitepress-plugin-back-to-top'
+import 'vitepress-plugin-back-to-top/dist/style.css'
 //import vitepressBackToTop from '../../plugins/vitepress-plugin-back-to-top'
-import '../../plugins/vitepress-plugin-back-to-top/dist/style.css'
+//import '../../plugins/vitepress-plugin-back-to-top/dist/style.css'
 import vitepressMusic from 'vitepress-plugin-music'
+import 'vitepress-plugin-music/lib/css/index.css'
 //import vitepressMusic from '../../plugins/vitepress-plugin-music'
-import '../../plugins/vitepress-plugin-music/lib/css/index.css'
+//import '../../plugins/vitepress-plugin-music/lib/css/index.css'
 
 const playlist = [
   {
