@@ -2,7 +2,7 @@ import { defineComponent as _, ref as m, computed as h, onMounted as f, openBloc
 const E = (e) => (b("data-v-09295527"), e = e(), x(), e), I = /* @__PURE__ */ E(() => /* @__PURE__ */ a("svg", {
   class: "icon-top",
   viewBox: "0 0 24 24",
-  fill: "none",
+  fill: "currentColor",
   xmlns: "http://www.w3.org/2000/svg",
   stroke: "currentColor",
   "stroke-width": "2",
