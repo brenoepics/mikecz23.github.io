@@ -5,7 +5,7 @@ const E = (e) => (b("data-v-09295527"), e = e(), x(), e), I = /* @__PURE__ */ E(
   fill: "none",
   xmlns: "http://www.w3.org/2000/svg",
   stroke: "currentColor",
-  "stroke-width": "1",
+  "stroke-width": "2",
   "stroke-linecap": "butt",
   "stroke-linejoin": "miter"
 }, [
