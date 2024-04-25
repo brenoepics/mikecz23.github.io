@@ -34,9 +34,9 @@
     justify-content: center;
     display: flex;
     align-items: center;
-    /* border: 2px solid rgb(0, 0, 108); */
+    /* border: 2px solid rgb(0, 0, 108); 
     outline: 5px solid var(--vp-c-brand-1);
-    outline-offset: 0px;
+    outline-offset: 0px; */
 }
 .go-to-top[data-v-09295527]:hover{
     background-color:var(--btn-hover-color);
@@ -44,8 +44,8 @@
     -webkit-transform: translateY(-5px); 
     transition: 0.2s ease-out;
     -webkit-transition: 0.2s ease-out;
-    outline: 5px solid var(--vp-c-brand-2);
-    outline-offset: 0px;
+  /*  outline: 5px solid var(--vp-c-brand-2);
+    outline-offset: 0px; */
 }
 /* .go-to-top[data-v-09295527] > svg{
     vertical-align: middle;
