@@ -31,9 +31,9 @@
     right:2.5rem;
     transition: 0.2s ease-out;
     -webkit-transition: 0.2s ease-out;
- /* justify-content: center;
+    justify-content: center;
     display: flex;
-    align-items: center; */
+    align-items: center;
 }
 .go-to-top[data-v-09295527]:hover{
     background-color:var(--btn-hover-color);
@@ -42,10 +42,10 @@
     transition: 0.2s ease-out;
     -webkit-transition: 0.2s ease-out;
 }
-.go-to-top[data-v-09295527] > svg{
+/*.go-to-top[data-v-09295527] > svg{
     vertical-align: middle;
     margin-top: -5px;
-}
+} */
 .go-to-top .icon-top[data-v-09295527]{
     width:1em;
     height:1em;
