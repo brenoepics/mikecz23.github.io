@@ -107,7 +107,7 @@ h1{
 html:not(.dark) img[data-mode="darkmode-only"] {
 	 display: none !important;
 }
- html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
+html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 	 display: none !important;
 }
 .dark img[data-mode="lightmode-only"] {
