@@ -41,11 +41,11 @@ img{
 .status p {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px; /* 8 */
 }
 .status a {
   display: block;
-  width: calc(25% - 6px);
+  width: calc(20% - 8px); /* 25 - 6 */
 }
 .status img {
   display: block;
@@ -58,7 +58,7 @@ img{
 
 @media (max-width: 600px) {
   .status a {
-    width: calc(50% - 4px);
+    width: calc(50% - 5px); /* 50 - 4*/
   }
 }
 
