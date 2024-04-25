@@ -38,32 +38,49 @@ img{
     margin-right: 5px;
 }
 
-.status p {
+.status .mikecz p {
   display: flex;
   flex-wrap: wrap;
   gap: 10px; /* 8 */
 }
-.status a {
+.status .mikecz a {
   display: block;
   width: calc(20% - 8px); /* 25 - 6 */
 }
-.status img {
+.status .mikecz img {
+  display: block;
+  width: 100%;
+}
+.status a:hover {
+    transform: scale(0.96);
+}
+@media (max-width: 600px) {
+  .status .mikecz a {
+    width: calc(50% - 5px); /* 50 - 4*/
+  }
+}
+.status .mikecz a:nth-child(5){
+  opacity: 0.1;
+}
+
+.status .pertim p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.status .pertim a {
+  display: block;
+  width: calc(25% - 6px);
+}
+.status .pertim img {
   display: block;
   width: 100%;
 }
 
-.status a:hover {
-    transform: scale(0.96);
-}
-
 @media (max-width: 600px) {
-  .status a {
-    width: calc(50% - 5px); /* 50 - 4*/
+  .status .pertim a {
+    width: calc(50% - 4px);
   }
-}
-
-.status .mikecz a:nth-child(5){
-  opacity: 0.1;
 }
 
 h1{
