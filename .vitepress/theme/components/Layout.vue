@@ -26,6 +26,7 @@ const { frontmatter, title } = useData()
           reactions-enabled="1"
           input-position="top"
           strict="0"
+          term="Welcome to giscus!"
           mapping="pathname"
           crossorigin="anonymous"
         />
