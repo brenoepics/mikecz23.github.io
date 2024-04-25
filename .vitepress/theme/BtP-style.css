@@ -42,15 +42,17 @@
     transition: 0.2s ease-out;
     -webkit-transition: 0.2s ease-out;
 }
-/*.go-to-top[data-v-09295527] > svg{
+/* .go-to-top[data-v-09295527] > svg{
     vertical-align: middle;
     margin-top: -5px;
 } */
 .go-to-top .icon-top[data-v-09295527]{
-    width:1em;
-    height:1em;
+    width: 1em;
+    height: 1em;
     font-size:19px;
-    display:inline-block
+    display:inline-block;
+    stroke: currentColor;
+    stroke-width: 0;
 }
 @media (max-width: 959px){
     .go-to-top[data-v-09295527]{
