@@ -52,11 +52,13 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 [![Foo](https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/library_600x900_2x.jpg
 )](readme/silksong.md)
 </div>
+<div class="pertim">
 
 ## Pertim
 [![Foo](./public/summer.jpg)](readme/summer.md)
 [![Foo](./public/silver.jpg)](readme/silcha.md)
 [![Foo](./public/count.jpg)](readme/count6.md)
 [![Foo](./public/alone.jpg)](readme/alodar.md)
+</div>
 </div>
 
