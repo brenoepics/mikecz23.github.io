@@ -13,7 +13,7 @@ import Layout from "./components/Layout.vue";
 import vitepressBackToTop from '../../plugins/vitepress-plugin-back-to-top/';
 import './BtP-style.css'
 import vitepressMusic from 'vitepress-plugin-music'
-import '../../docs/plugins/vitepress-plugin-music/dist/index.css'
+import '../../plugins/vitepress-plugin-music/dist/index.css'
 
 const playlist = [
   {
