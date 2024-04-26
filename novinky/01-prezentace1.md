@@ -1,5 +1,5 @@
 ---
-title: 01. Další prezentace CZ do VotV
+title: 01. Další patch CZ do VotV
 date: 2024-03-16
 comments: false
 lastUpdated: false
