@@ -61,7 +61,7 @@
 }
 @media (max-width: 959px){
     .go-to-top[data-v-09295527]{
-        display:none
+       /* display:none */
     }}
     .fade-enter-active[data-v-09295527],
     .fade-leave-active[data-v-09295527]{
