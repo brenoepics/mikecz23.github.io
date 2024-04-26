@@ -102,6 +102,9 @@ h1{
     --vp-font-family-mono: ; /* code
 } */
 
+.banner{
+	width: 100%;
+}
 
 
 html:not(.dark) img[data-mode="darkmode-only"] {
