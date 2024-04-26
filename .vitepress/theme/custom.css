@@ -106,6 +106,15 @@ h1{
 	width: 100%;
 }
 
+.VPFooter {
+  .divider {
+    color: var(--vp-c-divider)
+  }
+}
+.VPFooter[data-v-5bdef7ba] {
+  padding: 10px;
+}
+
 
 html:not(.dark) img[data-mode="darkmode-only"] {
 	 display: none !important;
