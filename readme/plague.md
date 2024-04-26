@@ -32,7 +32,7 @@ const people = {
 </script>
 
 <div class="banner" style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
-  <img src="https://i.imgur.com/edFfmj3.jpg">
+  <img src="https://i.imgur.com/BlpSGnq.jpg">
 </div>
 
 # Plague Inc – Čeština <Badge type="warning" text="early access" />
