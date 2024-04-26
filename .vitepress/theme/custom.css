@@ -107,11 +107,11 @@ h1{
 }
 
 .VPFooter {
-  .divider {
+	.divider {
     color: var(--vp-c-divider)
   }
 }
-.VPFooter[data-v-5bdef7ba] {
+.VPFooter[data-v-566314d4] {
   padding: 10px;
 }
 
