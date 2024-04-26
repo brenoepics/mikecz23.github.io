@@ -34,6 +34,7 @@
     justify-content: center;
     display: flex;
     align-items: center;
+    z-index: 10000;
     /* border: 2px solid rgb(0, 0, 108); 
     outline: 5px solid var(--vp-c-brand-1);
     outline-offset: 0px; */
@@ -60,7 +61,7 @@
 }
 @media (max-width: 959px){
     .go-to-top[data-v-09295527]{
-      /*  display:none  */
+        display:none
     }}
     .fade-enter-active[data-v-09295527],
     .fade-leave-active[data-v-09295527]{
