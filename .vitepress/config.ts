@@ -117,6 +117,11 @@ export default defineConfig({
         ]},
     ],
 
+    footer: { /* <span class="divider">|</span> */
+      message: '<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" style="display: inline-block">',
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="">MikeCZ</a>`,
+    },
+
     outline: {
       label: "Obsah"
     },
