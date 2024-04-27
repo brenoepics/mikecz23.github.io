@@ -81,7 +81,7 @@ Na překladu se podílejí následující lidé:
 
 ---
 ### Instalace
-exáč se o vše postará
+Exáč se o vše postará. Hlavně splň <a href="#pozadavky">požadavky</a>
 
 ## Ke stažení
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
