@@ -4,7 +4,7 @@
 .icon-changpianji:before{content:"\e616"}
 .icon-shangyishou:before{content:"\e718"}
 .icon-xiayishou:before{content:"\e719"}@keyframes rotate{0%{transform:rotate(0)}50%{transform:rotate(180deg)}to{transform:rotate(360deg)}}@keyframes fade-in{0%{transform:translateY(100%);opacity:0}to{transform:translateY(0);opacity:.9}}
-.vitepress-music{position:fixed;bottom:645px;right:0;z-index:100}
+.vitepress-music{position:fixed;bottom:500px;right:0;z-index:100}
 .vitepress-music__trigger{width:120px;height:30px;border-radius:15px 0 0 15px;cursor:pointer;background-color:var(--vp-c-bg-alt);box-shadow:0 1px 8px #0000001a,0 3px 4px #00000012,0 3px 3px -2px #0000000f;transform:translate(90px);transition:.2s transform;display:flex;align-items:center;justify-content:space-around;color:#8a8a8a}
 .vitepress-music__trigger:hover{transform:translate(0)}
 .vitepress-music__trigger span{transition:.5s;font-size:20px}
