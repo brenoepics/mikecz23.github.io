@@ -66,6 +66,8 @@ export default defineConfig({
     ['meta', { property:'theme-color', name: 'theme-color', content: '#ff6767' }], // barva odkazu
     ['meta', { property:'twitter:card', name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'google-site-verification', content: 'DmFx_aqenbpJTLNw4Pl_iK2Au3N_lEnhdDz0xreDVwA' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-TWEJW6NL8T' }],
+    ['script', {}, `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TWEJW6NL8T');`],
   ],
   themeConfig: {
     docFooter: {
