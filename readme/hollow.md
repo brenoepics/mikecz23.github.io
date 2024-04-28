@@ -36,7 +36,7 @@ const people = {
 </script>
 
 <div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
-  <img src="https://i.imgur.com/k3FwNSO.jpg">
+  <img src="https://cdn2.steamgriddb.com/hero/8a1854f491c11482630ebb4135df2d2b.jpg">
 </div>
 
 # Hollow Knight – Čeština <Badge type="info" text="Mods" />
