@@ -45,7 +45,7 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 <div class="mikecz">
 
 ## MikeCZ
-[![Foo](https://cdn2.steamgriddb.com/grid/2cffdc4195ce6adf0a57062e4318662e.webp)](readme/hollow.md)
+[![Foo](./public/hollow.jpg)](readme/hollow.md)
 [![Foo](https://repacklab.com/wp-content/uploads/2021/02/Plague-Inc-Evolved-Free-Download-Repacklab-5.jpg)](readme/plague.md)
 [![Foo](./public/progress.jpg)](readme/progressbar95.md)
 [![Foo](./public/voice.png)](readme/VotV.md)
