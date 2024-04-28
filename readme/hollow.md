@@ -80,7 +80,7 @@ Na překladu se podílejí následující lidé:
 </div>
 
 ---
-### Instalace
+### Instalace {#ke-stazeni}
 Exáč se o vše postará. Hlavně splň <a href="#pozadavky">požadavky</a>
 
 ## Ke stažení
