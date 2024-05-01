@@ -29,7 +29,7 @@ const people = {
     { name: "Bendalf21", role: "Korektura"},
   ],
   support: [
-    { name: "", role: "Technika, fonty"},
+    { name: " ", role: "Technika, fonty"},
   ],
   partners: [
     { name: "HaiseT", role: "Promo"},
