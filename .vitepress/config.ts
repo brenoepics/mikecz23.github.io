@@ -81,7 +81,7 @@ export default defineConfig({
     },
 
     logo: {
-      src: 'icon.png'
+      src: 'or_icon.png'
     },
 
    // lastUpdated: {
