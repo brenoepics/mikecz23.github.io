@@ -28,6 +28,9 @@ const people = {
     { name: "SeymoreClavage", role: "Korektura"},
     { name: "Bendalf21", role: "Korektura"},
   ],
+  support: [
+    { name: "", role: "Technika, fonty"},
+  ],
   partners: [
     { name: "HaiseT", role: "Promo"},
     { name: "PatrikTuri", role: "Mediální partner"}
