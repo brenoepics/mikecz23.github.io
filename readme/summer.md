@@ -46,6 +46,8 @@ Na překladu se podílejí následující lidé:
 
 <PTeamMembers :members="people.partners" />
 
+---
+
 ### Instalace:
 cesta: rozbalte a nakopírujte do složky nainstalované hry <br />
 nahradí to Angličtinu
