@@ -86,6 +86,7 @@ Na překladu se podílejí následující lidé:
 Exáč se o vše postará. Hlavně splň <a href="#pozadavky">požadavky</a>
 
 ## Ke stažení
-[Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)
+[Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0)<br />
+4. květen 2024 - oprava několika řádků
 
 ---
