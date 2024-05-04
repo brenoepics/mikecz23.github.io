@@ -1,6 +1,6 @@
 ---
 title: 03. Patch do Hollow Knight
-date: 2024-05-14
+date: 2024-05-04
 comments: false
 lastUpdated: false
 editLink: false
