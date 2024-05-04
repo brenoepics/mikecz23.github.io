@@ -1,5 +1,5 @@
 ---
-title: 01. patch do VotV
+title: 01. Patch do VotV
 date: 2024-03-16
 comments: false
 lastUpdated: false
