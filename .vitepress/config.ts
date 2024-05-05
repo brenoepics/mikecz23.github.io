@@ -4,6 +4,14 @@ import grayMatter from "gray-matter";
 import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
 import { URL, fileURLToPath } from 'node:url';
+import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
+
+const baseUrl = 'https://mikecz23.github.io'
+const RSS: RSSOptions = {
+  title: 'RSS Test',
+  baseUrl,
+  copyright: 'Copyright (c) 2018-present, RSS Test',
+}
 
 const posts: any[] = [];
 for (const source of await FastGlob("novinky/*-*.md")) {
@@ -22,6 +30,7 @@ export default defineConfig({
     appearance: 'dark',
 
     vite: {
+      plugins: [RssPlugin(RSS)],
       resolve: {
         alias: [
           {
