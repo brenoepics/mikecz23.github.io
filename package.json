@@ -34,6 +34,7 @@
     "@giscus/react": "^3.0.0",
     "@giscus/solid": "^3.0.0",
     "@giscus/svelte": "^3.0.0",
+    "vitepress-plugin-rss": "^0.2.3",
     "vitepress-plugin-auto-sidebar": "^1.2.0",
     "vitepress-plugin-back-to-top": "^1.0.1"
   }
