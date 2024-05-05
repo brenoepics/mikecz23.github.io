@@ -10,19 +10,16 @@ const baseUrl = 'https://mikecz23.github.io/novinky'
 const RSS: RSSOptions = {
   title: 'RSS Test',
   baseUrl,
-  copyright: 'Copyright (c) 2018-present, RSS Test',
+  copyright: 'Copyright (c) 2024-present, RSS Test',
   description: 'Testovani',
   author: {
     name: 'MikeCZ',
-    email: 'c@test.cz',
+    email: '',
   },
   icon: true,
   filename: 'feed.rss',
   log: true,
   ignoreHome: true,
-  filter: (post, idx) => {
-    return true
-  }
 }
 
 const posts: any[] = [];
