@@ -11,6 +11,12 @@ const RSS: RSSOptions = {
   title: 'RSS Test',
   baseUrl,
   copyright: 'Copyright (c) 2018-present, RSS Test',
+  description: 'Testovani',
+  author: {
+    name: '粥里有勺糖',
+    email: 'engineerzjl@foxmail.com',
+  },
+  icon: true,
 }
 
 const posts: any[] = [];
