@@ -6,7 +6,6 @@ sidebar: false
 lastUpdated: false
 editLink: false
 next: false
-footer: false
 ---
 
 ::: details Q:
