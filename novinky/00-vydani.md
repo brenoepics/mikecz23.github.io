@@ -1,7 +1,6 @@
 ---
 title: 00. Vydání CZ do VotV
 date: 2024-03-14
-author: MikeCZ
 comments: false
 lastUpdated: false
 editLink: false
