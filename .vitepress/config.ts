@@ -17,6 +17,9 @@ const RSS: RSSOptions = {
     email: 'engineerzjl@foxmail.com',
   },
   icon: true,
+  filename: 'feed.rss',
+  log: true,
+  ignoreHome: true,
 }
 
 const posts: any[] = [];
