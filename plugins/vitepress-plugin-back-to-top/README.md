@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 # vitepress-plugin-back-to-top
 
 > Back-to-top plugin for VitePress
