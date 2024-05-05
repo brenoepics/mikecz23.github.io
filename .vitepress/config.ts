@@ -10,7 +10,7 @@ const baseUrl = 'https://mikecz23.github.io'
 const RSS: RSSOptions = {
   title: 'MikeCZ - Češtiny',
   baseUrl,
-  copyright: 'Copyright (c) 2024-present, RSS Test',
+  copyright: 'Copyright (c) 2024-present',
   description: 'Testovani',
   author: {
     name: 'MikeCZ',
