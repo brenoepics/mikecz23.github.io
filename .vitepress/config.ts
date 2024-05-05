@@ -20,6 +20,7 @@ const RSS: RSSOptions = {
   filename: 'feed.rss',
   log: true,
   ignoreHome: true,
+  ignorePublish: true,
 }
 
 const posts: any[] = [];
