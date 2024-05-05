@@ -15,7 +15,8 @@ const RSS: RSSOptions = {
   language: 'cs',
   author: {
     name: 'MikeCZ',
-    email: '',
+    email: 'MikeCZ1@protonmail.com',
+    link: 'https://mikecz23.github.io'
   },
   icon: true,
   authors: [
