@@ -12,6 +12,7 @@ const RSS: RSSOptions = {
   baseUrl,
   copyright: 'Copyright (c) 2024-present',
   description: 'Testovani',
+  language: 'cs',
   author: {
     name: 'MikeCZ',
     email: '',
