@@ -17,6 +17,18 @@ const RSS: RSSOptions = {
     email: '',
   },
   icon: true,
+  authors: [
+    {
+      name: 'cocoa',
+      email: '',
+      link: ''
+    },
+    {
+      name: 'sugar',
+      email: '',
+      link: ''
+    }
+  ],
   filename: 'feed.rss',
   log: true,
   ignoreHome: true,
