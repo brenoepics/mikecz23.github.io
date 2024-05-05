@@ -13,8 +13,8 @@ const RSS: RSSOptions = {
   copyright: 'Copyright (c) 2018-present, RSS Test',
   description: 'Testovani',
   author: {
-    name: '粥里有勺糖',
-    email: 'engineerzjl@foxmail.com',
+    name: 'MikeCZ',
+    email: 'c@test.cz',
   },
   icon: true,
   filename: 'feed.rss',
