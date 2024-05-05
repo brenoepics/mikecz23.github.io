@@ -5,7 +5,6 @@ interface Post {
   title: string;
   url: string;
   date: string;
-  author: string;
 }
 
 declare const data: Post[];
