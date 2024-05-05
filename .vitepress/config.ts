@@ -8,7 +8,7 @@ import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
 
 const baseUrl = 'https://mikecz23.github.io'
 const RSS: RSSOptions = {
-  title: 'RSS Test',
+  title: 'MikeCZ - Češtiny',
   baseUrl,
   copyright: 'Copyright (c) 2024-present, RSS Test',
   description: 'Testovani',
