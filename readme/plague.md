@@ -8,6 +8,7 @@ tags:
   - Plague Inc
   - Čeština
 category: Češtiny
+publish: false
 ---
 <script setup lang="ts">
 const people = {
