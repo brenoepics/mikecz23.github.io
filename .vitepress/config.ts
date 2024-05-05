@@ -6,7 +6,7 @@ import { basename } from "node:path";
 import { URL, fileURLToPath } from 'node:url';
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
 
-const baseUrl = 'https://mikecz23.github.io/novinky'
+const baseUrl = 'https://mikecz23.github.io'
 const RSS: RSSOptions = {
   title: 'RSS Test',
   baseUrl,
