@@ -144,6 +144,7 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   margin: 2em 0;
   background: var(--vp-c-bg-soft);
   border: 1px solid var(--vp-c-border);
+/*  border-radius: ; */
 }
 .custom-block.details summary {
   font-size: 1.3em;
