@@ -19,18 +19,6 @@ const RSS: RSSOptions = {
     link: 'https://mikecz23.github.io'
   },
   icon: true,
-  authors: [
-    {
-      name: 'cocoa',
-      email: '',
-      link: ''
-    },
-    {
-      name: 'sugar',
-      email: '',
-      link: ''
-    }
-  ],
   filename: 'feed.rss',
   log: true,
   ignoreHome: true,
