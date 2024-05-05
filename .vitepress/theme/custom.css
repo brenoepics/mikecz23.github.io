@@ -115,7 +115,7 @@ h1{
   padding: 15px;
 }
 
-
+/* Theme Switcher */
 html:not(.dark) img[data-mode="darkmode-only"] {
 	 display: none !important;
 }
@@ -137,5 +137,68 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 }
  .VPMenu .CustomSwitchAppearance {
 	 margin-right: -8px;
+}
+
+/* FAQ */
+.custom-block.details {
+  margin: 2em 0;
+}
+.custom-block.details summary {
+  font-size: 1.3em;
+  padding-right: 24px;
+  width: 100%;
+  position: relative;
+  cursor: pointer;
+  list-style: none;
+  outline: 0;
+  margin-right: 1em;
+}
+.custom-block.details summary::-webkit-details-marker {
+  display: none;
+}
+.custom-block.details summary:after {
+  content: "+";
+  color: var(--vp-custom-block-details-text);
+  position: absolute;
+  font-size: 2rem;
+  line-height: 0;
+  top: 50%;
+  right: 0;
+  font-weight: 200;
+  transform-origin: center;
+  transition: 300ms linear;
+}
+.custom-block.details[open] p {
+  font-size: 1.2em;
+  line-height: 1.6em;
+  margin: 1.2em 0;
+}
+.custom-block.details[open] summary {
+  margin-bottom: 1.3em;
+}
+.custom-block.details[open] summary:after {
+  transform: rotate(45deg);
+  right: -2px;
+  top: calc(50% + 1px);
+}
+.custom-block.details[open] summary ~ * {
+  opacity: 1;
+  animation: open 0.3s ease-in-out;
+}
+.custom-block.details[open] ul, .custom-block.details[open] ol, .custom-block.details[open] blockquote p, .custom-block.details[open] pre code {
+  font-size: 1.1em;
+}
+@media (max-width: 768px) {
+  .custom-block.details[open] p {
+    font-size: 1.1em;
+ }
+}
+@keyframes open {
+  0% {
+    opacity: 0;
+ }
+  100% {
+    opacity: 1;
+ }
 }
  
