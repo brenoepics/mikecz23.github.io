@@ -6,6 +6,7 @@ sidebar: false
 comments: false
 lastUpdated: false
 editLink: false
+publish: false
 
 hero:
   name: MikeCZ - Češtiny
