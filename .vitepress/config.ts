@@ -21,6 +21,9 @@ const RSS: RSSOptions = {
   log: true,
   ignoreHome: true,
   ignorePublish: true,
+  filter: (post, idx) => {
+    return true
+  }
 }
 
 const posts: any[] = [];
