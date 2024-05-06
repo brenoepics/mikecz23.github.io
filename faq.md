@@ -9,8 +9,8 @@ next: false
 publish: false
 ---
 
-::: details Q:
-A:
+::: details Jak tě můžu podpořit?
+Zatím nijak, ale díky :)
 :::
 
 ::: details Q:
