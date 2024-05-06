@@ -11,7 +11,6 @@ publish: false
 
 ::: details Jak tě můžu podpořit?
 Zatím nijak, ale díky :blush:
-
 :::
 
 ::: details Q:
