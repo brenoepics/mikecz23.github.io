@@ -141,10 +141,10 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 
 /* FAQ */
 .custom-block.details {
-  margin: 2em 0;
+  margin: 0.2em 0;
   background: var(--vp-c-bg-soft);
   border: 1px solid var(--vp-c-border);
-/*  border-radius: ; */
+  border-radius: 0;
 }
 .custom-block.details summary {
   font-size: 1.3em;
