@@ -10,7 +10,8 @@ publish: false
 ---
 
 ::: details Jak tě můžu podpořit?
-Zatím nijak, ale díky :slight_smile:
+Zatím nijak, ale díky :blush:
+
 :::
 
 ::: details Q:
