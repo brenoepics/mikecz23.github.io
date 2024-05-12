@@ -108,6 +108,10 @@ export default defineConfig({
   srcDir: '',
   base: "/",
   head: [
+    ['link', { rel: 'stylesheet', href: '//cdn.jsdelivr.net/npm/element-plus/dist/index.css' }],
+    ['script', { async: '', src: '//cdn.jsdelivr.net/npm/@element-plus/icons-vue' }],
+    ['script', { async: '', src: '//cdn.jsdelivr.net/npm/vue@3' }],
+    ['script', { async: '', src: '//cdn.jsdelivr.net/npm/element-plus' }],
     ["link", { rel: "icon", href: "/favicon1.ico" }],
     // ['meta', { name: 'description', content: 'Stránka fansouškovského překladu hry' }],
     ['meta', { property: 'og:url', content: 'https://github.com/MikeCZ23' }],
