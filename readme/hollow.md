@@ -44,7 +44,6 @@ const people = {
 </div>
 
 # Hollow Knight – Čeština 
-<el-tag type="info" effect="dark" round>Mods</el-tag>
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) 
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
