@@ -7,8 +7,6 @@ editLink: false
 publish: false
 ---
 
-# Novinky a oznámení <el-tag type="info" effect="dark" round>Mods</el-tag>
+# Novinky a oznámení
 
 <PBlogListing />
-
-<el-tag type="info" effect="dark" round>Mods</el-tag>
