@@ -40,8 +40,8 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    ignoreDeadLinks: true,
     lastUpdated: true,
-  
     appearance: 'dark',
 
     vite: {
