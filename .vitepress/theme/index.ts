@@ -14,7 +14,6 @@ import vitepressBackToTop from '../../plugins/vitepress-plugin-back-to-top/';
 import './BtP-style.css'
 import vitepressMusic from 'vitepress-plugin-music'
 import '../../plugins/vitepress-plugin-music/dist/index.css'
-/*ElementPlus */
 import 'element-plus/dist/index.css'
 import 'element-plus/theme-chalk/dark/css-vars.css'
 import 'element-plus/theme-chalk/index.css';
