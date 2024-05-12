@@ -5,6 +5,10 @@ import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
 import { URL, fileURLToPath } from 'node:url';
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
+/****/
+import AutoImport from 'unplugin-auto-import/vite'
+import Components from 'unplugin-vue-components/vite'
+import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 
 const baseUrl = 'https://mikecz23.github.io'
 const RSS: RSSOptions = {
@@ -41,7 +45,35 @@ export default defineConfig({
     appearance: 'dark',
 
     vite: {
-      plugins: [RssPlugin(RSS)],
+      plugins: [
+    AutoImport({
+      include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
+      resolvers: [ElementPlusResolver()],
+    }),    
+    Components({
+      // dirs: ['components'],
+      include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
+      resolvers: [ElementPlusResolver()]
+    }),
+    RssPlugin(RSS),
+  ],
+  ssr: { noExternal: ['element-plus'] },
+  css: {
+    postcss: {
+      plugins: [
+        {
+          postcssPlugin: 'internal:charset-removal',
+          AtRule: {
+            charset: (atRule) => {
+              if (atRule.name === 'charset') {
+                atRule.remove();
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
       resolve: {
         alias: [
           {
