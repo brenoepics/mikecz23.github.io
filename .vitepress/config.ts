@@ -5,7 +5,7 @@ import { readFile } from "node:fs/promises";
 import { basename } from "node:path";
 import { URL, fileURLToPath } from 'node:url';
 import { RSSOptions, RssPlugin } from 'vitepress-plugin-rss'
-/****/
+
 import AutoImport from 'unplugin-auto-import/vite'
 import Components from 'unplugin-vue-components/vite'
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
