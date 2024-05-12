@@ -24,5 +24,3 @@ A:
 ::: details Q:
 A:
 :::
-
-<el-tag type="primary" effect="dark" round>Demo</el-tag>
