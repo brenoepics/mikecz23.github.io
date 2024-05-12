@@ -79,3 +79,4 @@ Na překladu se podílejí následující lidé:
 
 
 ---
+<el-tag type="info" effect="dark" round>Test</el-tag>
