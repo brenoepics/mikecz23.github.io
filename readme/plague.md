@@ -79,4 +79,3 @@ Na překladu se podílejí následující lidé:
 
 
 ---
-<el-tag type="warning" effect="dark" round>ea</el-tag>
