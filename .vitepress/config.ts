@@ -45,7 +45,7 @@ export default defineConfig({
     appearance: 'dark',
 
     vite: {
-      plugins: [
+    plugins: [
     AutoImport({
       include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
       resolvers: [ElementPlusResolver()],
@@ -74,17 +74,17 @@ export default defineConfig({
       ]
     }
   },
-      resolve: {
-        alias: [
-          {
-          find: /^.*VPSwitchAppearance\.vue$/,
-          replacement: fileURLToPath(
-            new URL('./theme/components/CustomSwitchAppearance.vue', import.meta.url),
-          ),
-        },
-        ],
+    resolve: {
+      alias: [
+        {
+        find: /^.*VPSwitchAppearance\.vue$/,
+        replacement: fileURLToPath(
+          new URL('./theme/components/CustomSwitchAppearance.vue', import.meta.url),
+        ),
       },
+      ],
     },
+  },
     
     sitemap: {
     hostname: 'https://mikecz23.github.io/',
