@@ -56,6 +56,6 @@ nahradí to Angličtinu
 
 
 
-
+<el-tag type="info" effect="dark" round>Test</el-tag>
 
 
