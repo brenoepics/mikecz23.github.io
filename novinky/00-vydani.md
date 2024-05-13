@@ -27,5 +27,3 @@ Sleduj [hlavní stránku](/) projektu.
   </iframe>
 </div>
 
-<el-tag type="info" effect="dark" round>Test</el-tag>
-
