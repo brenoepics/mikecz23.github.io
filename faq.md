@@ -25,4 +25,3 @@ A:
 A:
 :::
 
-<el-tag type="info" effect="dark" round>Test</el-tag>
