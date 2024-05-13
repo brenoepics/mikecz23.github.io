@@ -109,8 +109,6 @@ export default defineConfig({
   base: "/",
   head: [
     ['link', { rel: 'stylesheet', href: '//cdn.jsdelivr.net/npm/element-plus/dist/index.css' }],
-    ['link', { rel: 'stylesheet', href: 'https://unpkg.com/element-ui/lib/theme-chalk/index.css' }],
-    ['script', { async: '', src: 'https://unpkg.com/element-ui/lib/index.js' }],
     ['script', { async: '', src: '//cdn.jsdelivr.net/npm/@element-plus/icons-vue' }],
     ['script', { async: '', src: '//cdn.jsdelivr.net/npm/vue@3' }],
     ['script', { async: '', src: '//cdn.jsdelivr.net/npm/element-plus' }],
