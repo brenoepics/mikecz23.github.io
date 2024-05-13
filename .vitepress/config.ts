@@ -131,14 +131,22 @@ export default defineConfig({
       next: 'Následující stránka'
     },
 
-     editLink: {
+  notFound: {
+      title: 'VYPADÁ TO ŽE JSI SE ZTRATIL',
+      quote: "Stránka, na kterou se snažíte jít, není k dispozici!", // set to '' to hide
+      linkLabel: 'go to home', // aria-label
+      linkText: 'Vezmi mě domů',
+      code: '404',
+  },
+
+  editLink: {
       pattern: 'https://github.com/mikecz23/mikecz23.github.io/edit/main/:path',
       text: 'Edit this page'
-    },
+  },
 
-    logo: {
+  logo: {
       src: 'or_icon.png'
-    },
+  },
 
    // lastUpdated: {
    //   text: 'Updated at',
