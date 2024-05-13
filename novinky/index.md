@@ -7,6 +7,6 @@ editLink: false
 publish: false
 ---
 
-# Novinky a oznámení <el-tag type="info" effect="dark" round>Test</el-tag>
+# Novinky a oznámení
 
 <PBlogListing />
