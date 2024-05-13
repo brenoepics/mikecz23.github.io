@@ -132,7 +132,7 @@ export default defineConfig({
     },
 
   notFound: {
-      title: 'VYPADÁ TO ŽE JSI SE ZTRATIL',
+      title: 'VYPADÁ TO, ŽE JSI SE ZTRATIL',
       quote: "Stránka, na kterou se snažíte jít, není k dispozici!", // set to '' to hide
       linkLabel: 'go to home', // aria-label
       linkText: 'Vezmi mě domů',
