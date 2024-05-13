@@ -1,4 +1,5 @@
 import type { Theme } from "vitepress";
+import { h } from 'vue'
 import DefaultTheme from "vitepress/theme"
 import './custom.css';
 import './giscus-dark.css';
