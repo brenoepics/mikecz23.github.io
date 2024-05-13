@@ -54,8 +54,3 @@ nahradí to Angličtinu
 [Stáhnout](https://fastshare.live/28409100/alone-in-the-dark-prologue-grace-cz.rar)
 
 
-
-
-<el-tag type="info" effect="dark" round>Test</el-tag>
-
-
