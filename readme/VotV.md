@@ -57,6 +57,10 @@ Na překladu se podílejí následující lidé:
 <PTeamMembers :members="people.support" />
 
 <PTeamMembers :members="people.partners" />
+---
+<div class="video-container">
+<iframe width="560" height="315" src="" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Hlášení
 **CHYBY V PŘEKLADU NAHLAŠUJTE NA JEHO DISCORDU V [TÉTO ROOMCE](https://discord.com/channels/512287844258021376/1213827086708379688) VE FORMĚ SCREENU, A JÁ DO DRUHÉHO DNE VYDÁM UPDATE**
