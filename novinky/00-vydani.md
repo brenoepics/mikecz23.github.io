@@ -26,3 +26,6 @@ Sleduj [hlavní stránku](/) projektu.
     allowfullscreen>
   </iframe>
 </div>
+
+<el-tag type="info" effect="dark" round>Test</el-tag>
+
