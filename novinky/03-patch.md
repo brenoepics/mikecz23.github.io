@@ -11,4 +11,5 @@ Patch na Hollow Knighta
 </PBlogHeader>
 
 
-Fixnuly jsme překlad u několika řádků.
+Fixnuly jsme překlad u několika řádků. <br />
+Zavedl jsem RSS
