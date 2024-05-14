@@ -59,7 +59,7 @@ Na překladu se podílejí následující lidé:
 <PTeamMembers :members="people.partners" />
 ---
 <div class="video-container">
-<iframe width="560" height="315" src="" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=63Jv5EeacLCH1Y1J&amp;list=PLDyEBUIwzAFAVOYZCfhwj9IQhT1xPI_0T" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Hlášení
