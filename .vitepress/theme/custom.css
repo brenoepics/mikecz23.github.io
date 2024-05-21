@@ -210,10 +210,3 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 	border-left: 5px solid;
  	max-width: 1920px;
 }
-
-.el-alert {
-  margin: 20px 0 0;
-}
-.el-alert:first-child {
-  margin: 0;
-}
