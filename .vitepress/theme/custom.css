@@ -84,8 +84,8 @@ img{
   }
 }
 
-h1{
-  filter: drop-shadow(rgba(0, 0, 0, 0.5) 4px 4px 2px);
+h1.name{
+  filter: drop-shadow(rgba(0, 0, 0, 0.5) 2px 2px 3px);
 }
 
 :root { /* hyper-barva */
