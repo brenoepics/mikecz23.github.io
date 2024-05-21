@@ -214,3 +214,7 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 .el-alert[data-v-64f71f9e] {
 	margin: 20px 0 0;
 }
+
+.el-alert[data-v-64f71f9e]:first-child {
+	margin: 0;
+}
