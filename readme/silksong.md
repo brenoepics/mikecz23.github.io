@@ -7,7 +7,7 @@ publish: false
 
 # Hollow Knight: Silksong
 <br />
-  <div style="max-width: 600px">
+  <div style="max-width: 1920px"> <!-- DEFAULT 600 --> 
     <el-alert
       title="UPOZORNĚNÍ"
       type="warning"
