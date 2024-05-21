@@ -15,6 +15,7 @@ import vitepressBackToTop from '../../plugins/vitepress-plugin-back-to-top/';
 import './BtP-style.css'
 import vitepressMusic from 'vitepress-plugin-music'
 import '../../plugins/vitepress-plugin-music/dist/index.css'
+import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 import 'element-plus/theme-chalk/dark/css-vars.css'
 import 'element-plus/theme-chalk/index.css';
@@ -33,7 +34,7 @@ const playlist = [
 ]
 
 export default {
-  Layout,
+  Layout: () => h(Layout),
   extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component("PBlogFigure", PBlogFigure);
@@ -42,6 +43,9 @@ export default {
     app.component("PBlogVideo", PBlogVideo);
     app.component("PDateString", PDateString);
     app.component("PTeamMembers", PTeamMembers);
+
+    app.use(ElementPlus)
+    CustomComponents.forEach(component => app.component(component.name, component))
 
     vitepressMusic(playlist);
 
