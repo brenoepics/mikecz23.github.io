@@ -205,3 +205,8 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
     opacity: 1;
  }
 }
+
+.el-alert.el-alert--warning.is-light {
+	border-left: 5px solid;
+  max-width: 1920px;
+}
