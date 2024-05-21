@@ -3,6 +3,7 @@ title: Hollow Knight Silksong – Čeština
 sidebar: false
 author: MikeCZ
 publish: false
+editLink: false
 ---
 
 # Hollow Knight: Silksong
