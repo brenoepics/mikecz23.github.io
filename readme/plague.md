@@ -77,5 +77,4 @@ Na překladu se podílejí následující lidé:
 [Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0) <br />
 15. Prosinec 2023
 
-
----
+<el-divider />
