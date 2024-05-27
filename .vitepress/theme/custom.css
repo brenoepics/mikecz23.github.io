@@ -214,3 +214,9 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 .el-alert.el-alert--warning.is-light:first-child {
 	margin: 0;
 }
+
+.svglink{
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
