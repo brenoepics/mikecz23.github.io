@@ -13,8 +13,8 @@ publish: false
 Zatím nijak, ale díky :blush:
 :::
 
-::: details Q:
-A:
+::: details Mám problém u Hollow Knighta - nejde mi čeština co s tím?
+Módy zajišťuje Scarab. Pokud nemáš v hlavním menu hry vlevo nahoře log, nefunfuje. zkus přeinstalovat Scaraba.
 :::
 
 ::: details Q:
