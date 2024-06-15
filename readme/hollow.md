@@ -34,6 +34,7 @@ const people = {
   ],
   partners: [
     { name: "HaiseT", role: "Promo"},
+    { name: "CzechCloud", role: "Promo"},
     { name: "PatrikTuri", role: "Mediální partner"}
   ]
 };
