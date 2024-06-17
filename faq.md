@@ -17,8 +17,8 @@ Zatím nijak, ale díky :blush:
 Módy zajišťuje Scarab. Pokud nemáš v hlavním menu hry vlevo nahoře log, nefunfuje. zkus přeinstalovat Scaraba.
 :::
 
-::: details Q:
-A:
+::: details Nešlo by dát češtinu přímo do Scaraba?
+Ano šlo, ale fonty ne.
 :::
 
 ::: details Q:
