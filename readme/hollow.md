@@ -76,7 +76,7 @@ Na překladu se podílejí následující lidé:
 <PTeamMembers :members="people.partners" />
 ---
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZUCBOlzML0?si=uJNMdXRVA_lG3lMY" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=IQe0R4bIUonT-6Ib&amp;list=PLDyEBUIwzAFA-v9MwBdW6ZmZ_TzCNCLNp" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Instalace
