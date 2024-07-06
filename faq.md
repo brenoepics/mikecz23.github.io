@@ -21,7 +21,3 @@ Módy zajišťuje Scarab. Pokud nemáš v hlavním menu hry vlevo nahoře log, n
 Ano šlo, ale fonty ne.
 :::
 
-::: details Q:
-A:
-:::
-
