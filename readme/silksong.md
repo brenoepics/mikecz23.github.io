@@ -12,7 +12,7 @@ editLink: false
     <el-alert
       title="UPOZORNĚNÍ"
       type="warning"
-      description="Nezavazuju se k překladu hry. Jen o ní uvažuji. Jestli jí chceš udělat, posluž si ale dej mi to prosím vědět dolů do komentářů. V komentářích je i moje aktuální stanovisko."
+      description="Nezavazuju se k překladu hry. Jen o ní uvažuji. Jestli jí chceš udělat, posluž si ale dej mi to prosím vědět dolů do komentářů."
       :closable="false"
       show-icon
     />
