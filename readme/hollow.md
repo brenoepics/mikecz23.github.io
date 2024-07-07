@@ -83,7 +83,9 @@ Na překladu se podílejí následující lidé:
 Exáč se o vše postará. Hlavně splň <a href="#pozadavky">požadavky</a>
 
 ## Ke stažení
-[Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0) `3000`<br /> 
+<el-badge :value="200" :max="3000" class="item">
+  <a href="https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0">Stáhnout</a>
+</el-badge>
 4. květen 2024 - oprava několika řádků
 
 ---
