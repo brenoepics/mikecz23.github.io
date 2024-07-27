@@ -60,6 +60,7 @@ Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružstv�
 <img src="https://i.imgur.com/uAUAHpw.png"  width="55%" height="50%"> <br />
 
 ## Známé chyby
+- ❗Na Xbox GamePassu nejede❗
 - Skloňování může být trochu nesmyslné <br />
 - Hra si nepamatuje zvolený jazyk. Při každém spuštění hry budete muset jazyk znovu zvolit <br />
 
