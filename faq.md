@@ -8,6 +8,7 @@ editLink: false
 next: false
 publish: false
 ---
+<h1>FAQ</h1>
 
 ::: details Jak tě můžu podpořit?
 Zatím nijak, ale díky :blush:
