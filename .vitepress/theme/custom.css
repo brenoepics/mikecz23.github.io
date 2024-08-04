@@ -220,3 +220,7 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   justify-content: center;
   align-items: center;
 }
+
+details summary {
+	background: black;
+}
