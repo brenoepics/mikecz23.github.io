@@ -221,6 +221,6 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   align-items: center;
 }
 
-details summary {
+summary {
 	background: black;
 }
