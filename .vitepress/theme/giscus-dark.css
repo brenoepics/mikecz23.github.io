@@ -19,7 +19,7 @@ main input.task-list-item-checkbox:checked {
     height: 13px;
 }
 
-.markdown.gsc-reply-content summary{
+.markdown.gsc-reply-content details summary{
     background: black;
 }
 
