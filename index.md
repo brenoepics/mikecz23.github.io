@@ -52,7 +52,7 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 [![Foo](./public/voice.png)](readme/VotV.md)
 [![Foo](https://cdn2.steamgriddb.com/grid/7282feea57f0e6cd89092df704f8e039.webp)](readme/silksong.md)
 </div>
-<div class="pertim">
+<!-- <div class="pertim">
 
 ## Pertim
 [![Foo](./public/summer.jpg)](readme/summer.md)
@@ -60,5 +60,4 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 [![Foo](./public/count.jpg)](readme/count6.md)
 [![Foo](./public/alone.jpg)](readme/alodar.md)
 </div>
-</div>
-
+</div> -->
