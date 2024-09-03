@@ -59,5 +59,5 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 [![Foo](./public/silver.jpg)](readme/silcha.md)
 [![Foo](./public/count.jpg)](readme/count6.md)
 [![Foo](./public/alone.jpg)](readme/alodar.md)
-</div>
 </div> -->
+</div> 
