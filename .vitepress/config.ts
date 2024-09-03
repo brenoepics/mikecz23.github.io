@@ -165,7 +165,7 @@ export default defineConfig({
       { text: "📰 Novinky", link: "/novinky/", activeMatch: "/novinky/"},
       // dropdown
       { text: '🇨🇿 Češtiny', items: [
-        { text: 'MikeCZ', items: [
+ //       { text: 'MikeCZ', items: [
           { text: "Hollow Knight", link: "/readme/hollow", activeMatch: "/hollow/"},
           { text: "Plague Inc", link: "/readme/plague", activeMatch: "/plague/" },
           { text: 'Voices of the Void', link: '/readme/VotV', activeMatch: "/VotV/"},
@@ -175,7 +175,7 @@ export default defineConfig({
  //         { text: "Silver Chains", link: "/readme/silcha", activeMatch: "/silcha/" },
  //         { text: 'Im counting to 6', link: '/readme/count6', activeMatch: "/count6/"},
  //         { text: 'Alone in the Dark Prologue', link: '/readme/alodar', activeMatch: "/alodar/"}]}
-        ]},
+ //       ]},
     ],
 
     footer: { /* <span class="divider">|</span> */
