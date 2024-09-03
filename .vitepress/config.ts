@@ -164,7 +164,7 @@ export default defineConfig({
       { text: "🏠 Úvod", link: "/" },
       { text: "📰 Novinky", link: "/novinky/", activeMatch: "/novinky/"},
       // dropdown
-      { text: '🇨🇿 Češtiny', items: [
+      { text: '<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" width="15px" height="15px"> Češtiny', items: [
  //       { text: 'MikeCZ', items: [
           { text: "Hollow Knight", link: "/readme/hollow", activeMatch: "/hollow/"},
           { text: "Plague Inc", link: "/readme/plague", activeMatch: "/plague/" },
