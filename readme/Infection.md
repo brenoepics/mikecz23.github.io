@@ -44,7 +44,7 @@ const people = {
 ![](https://img.shields.io/badge/verze%20překladu-WIP-red?style=for-the-badge&labelColor=red)
 
 ------------
-Progressbar95 je jedinečná indie hra se silnou nostalgickou atmosférou. Promění vintage prvky GUI, jako jsou panely, tlačítka a ikony, na herní prvky! Jednoduchá a návyková hra založená na desítkách mini-her a hádanek. Hra vás rozesměje!
+Vyberte si libovolný skutečný region na světě. Zvolte si základnu a poté přestavte a přizpůsobte budovy v okolí, abyste vytvořili soběstačnou osadu. Převezměte vedení skupiny přeživších z vašeho města. A když padne noc - braňte zónu před nakaženými!
 
 ## Členové týmu
 
