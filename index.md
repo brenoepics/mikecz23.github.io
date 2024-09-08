@@ -52,7 +52,7 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 [![Foo](https://repacklab.com/wp-content/uploads/2021/02/Plague-Inc-Evolved-Free-Download-Repacklab-5.jpg)](readme/plague.md)
 [![Foo](./public/progress.jpg)](readme/progressbar95.md)
 [![Foo](./public/voice.png)](readme/VotV.md)
-[![Foo](https://cdn2.steamgriddb.com/grid/7282feea57f0e6cd89092df704f8e039.webp)](readme/silksong.md)
+[![Foo](https://cdn2.steamgriddb.com/thumb/ba579f96314e513bc3e04daf60a234d6.jpg)](readme/silksong.md)
 [![Foo](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1465460/library_600x900_2x.jpg?t=1721928496)](#)
 </div>
 <!-- <div class="pertim">
