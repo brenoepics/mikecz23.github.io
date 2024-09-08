@@ -48,6 +48,7 @@ Pracujete jako vědec v izolované výzkumné laboratoři ve Švýcarských hor�
 
 ## Známé chyby
 - Skloňování muže být nesmyslné
+- Něco je nepřeložené 
 
 ## Členové týmu
 
