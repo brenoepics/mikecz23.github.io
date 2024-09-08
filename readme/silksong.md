@@ -4,6 +4,7 @@ sidebar: false
 author: MikeCZ
 publish: false
 editLink: false
+lastUpdated: false
 ---
 
 # Hollow Knight: Silksong
