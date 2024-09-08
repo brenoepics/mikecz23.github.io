@@ -39,6 +39,7 @@ Na překladu se podílejí následující lidé:
 
 <PTeamMembers :members="people.partners" />
 
+<hr>
 ### Instalace:
 cesta: Progressbar95\Resources\international\en <br />
 
