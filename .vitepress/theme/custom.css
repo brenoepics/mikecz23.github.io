@@ -60,8 +60,9 @@ img{
     width: calc(50% - 5px); /* 50 - 4*/
   }
 }
-.status .mikecz a:nth-child(5){
-  opacity: 0.1;
+.status .mikecz a:nth-child(5),
+.status .mikecz a:nth-child(6){
+  opacity: 0.05;
 }
 
 .status .pertim p {
