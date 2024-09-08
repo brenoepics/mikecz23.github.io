@@ -221,3 +221,50 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   justify-content: center;
   align-items: center;
 }
+
+.prog-custom .el-progress.is-success .el-progress-bar__inner{
+  background-color: var(--el-color-custom-success);
+}
+.prog-custom .el-progress.is-warning .el-progress-bar__inner{
+  background-color: var(--el-color-custom-warning);
+}
+.prog-custom .el-progress.is-primary .el-progress-bar__inner{
+  background-color: var(--el-color-custom-primary);
+}
+.stavpr{
+  margin-bottom: 5px;
+}
+.infopr{
+  max-width: 5px;
+}
+.progpr{
+  max-width: 5000px;
+  margin-left: 7em;
+}
+/*********************************************/
+.dark{
+  color-scheme:dark;
+  --el-color-custom: #42a1ff;
+  --el-color-custom-light-3: #3375b9;
+  --el-color-custom-light-5: #2a598a;
+  --el-color-custom-light-7: #213d5b;
+  --el-color-custom-light-8: #1d3043;
+  --el-color-custom-light-9: #18222c;
+  --el-color-warning-dark-2: #66b1ff;
+  --el-color-success: #518235;
+  --el-color-warning: #a18320;
+}
+:root{
+  color-scheme:light;
+  --el-color-custom: #42a1ff;
+  --el-color-custom-light-3: #79bbff;
+  --el-color-custom-light-5: #a0cfff;
+  --el-color-custom-light-7: #c6e2ff;
+  --el-color-custom-light-8: #d9ecff;
+  --el-color-custom-light-9: #ecf5ff;
+  --el-color-warning-dark-2: #337ecc;
+  --el-color-custom-success: #518235;
+  --el-color-custom-warning: #a18320;
+  --el-color-custom-primary: #2d69a7;
+}
+/************************************************/
