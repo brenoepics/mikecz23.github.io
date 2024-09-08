@@ -10,7 +10,7 @@ publish: false
 <script setup lang="ts">
 const people = {
   lead: [
-    { name: "MikeCZ", role: "Vedení projektu"}
+    { name: "MikeCZ", role: "Vedení projektu, Překlad"}
   ],
   l10n: [
     { name: "Starsoul", role: "Překlad"},
