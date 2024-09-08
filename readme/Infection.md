@@ -60,10 +60,10 @@ Na překladu se podílejí následující lidé:
 
 <hr>
 
-### Instalace:
+### Instalace
 cesta: WIP <br />
 
-## Ke stažení:
+## Ke stažení
 [Stáhnout](#)
 
 
