@@ -89,4 +89,4 @@ Exáč se o vše postará. Hlavně splň <a href="#pozadavky">požadavky</a>
 </el-badge> <br>
 4. květen 2024 - oprava několika řádků
 
----
+<el-divider />
