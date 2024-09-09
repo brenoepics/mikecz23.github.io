@@ -232,7 +232,7 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   background-color: var(--el-color-custom-primary);
 }
 .stavpr{
-  margin-top: 5px;
+  margin-top: 10px;
   margin-bottom: 5px;
 }
 .infopr{
