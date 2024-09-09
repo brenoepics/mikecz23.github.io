@@ -53,7 +53,7 @@ footer: MIT Licensed | Copyright © 2024-present MikeCZ
 [![Foo](./public/progress.jpg)](readme/progressbar95.md)
 [![Foo](./public/voice.png)](readme/VotV.md)
 [![Foo](https://cdn2.steamgriddb.com/thumb/ba579f96314e513bc3e04daf60a234d6.jpg)](readme/silksong.md)
-[![Foo](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1465460/library_600x900_2x.jpg?t=1721928496)](#)
+[![Foo](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1465460/library_600x900_2x.jpg?t=1721928496)](readme/Infection.md)
 </div>
 <!-- <div class="pertim">
 
