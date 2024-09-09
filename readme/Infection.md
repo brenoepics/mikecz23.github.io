@@ -63,7 +63,7 @@ Na překladu se podílejí následující lidé:
 <hr>
 
 ### Instalace
-cesta: WIP <br />
+cesta: ..\Infection Free Zone_Data\StreamingAssets\Languages <br />
 
 ## Ke stažení
 [Stáhnout](#)
