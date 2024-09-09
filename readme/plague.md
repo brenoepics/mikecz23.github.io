@@ -36,7 +36,8 @@ const people = {
   <img src="https://i.imgur.com/BlpSGnq.jpg">
 </div>
 
-# Plague Inc – Čeština <el-tag type="warning" effect="light">#EarlyAccess</el-tag>
+# Plague Inc – Čeština 
+<el-tag type="warning" effect="light">#EarlyAccess</el-tag>
 
 ![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 ![Stav překladu](https://img.shields.io/badge/korektura-1%25-gold?style=for-the-badge)<br>
