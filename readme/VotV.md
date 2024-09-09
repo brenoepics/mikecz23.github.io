@@ -31,7 +31,7 @@ const people = {
 </script>
 
 <div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
-  <img src="https://cdn2.steamgriddb.com/hero_thumb/78b4b455fbf8e8e1c74cfd42fa78c0e4.jpg">
+  <img src="https://cdn2.steamgriddb.com/hero_thumb/217831965d021a41b6d1c8525748d334.jpg">
 </div> 
 
 # Voices of the Void – Čeština <el-tag type="warning" effect="light">#Official</el-tag> <el-tag type="info" effect="light">#Demo</el-tag> <el-tag type="primary" effect="light">#Alpha</el-tag>
