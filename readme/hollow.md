@@ -44,7 +44,8 @@ const people = {
   <img src="https://cdn2.steamgriddb.com/hero/8a1854f491c11482630ebb4135df2d2b.jpg">
 </div>
 
-# Hollow Knight – Čeština <el-tag type="info" effect="light">#mods</el-tag>
+# Hollow Knight – Čeština 
+<el-tag type="info" effect="light">#mods</el-tag>
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) 
 <!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
