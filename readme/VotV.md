@@ -34,7 +34,8 @@ const people = {
   <img src="https://cdn2.steamgriddb.com/hero_thumb/217831965d021a41b6d1c8525748d334.jpg">
 </div> 
 
-# Voices of the Void – Čeština <el-tag type="warning" effect="light">#Official</el-tag> <el-tag type="info" effect="light">#Demo</el-tag> <el-tag type="primary" effect="light">#Alpha</el-tag>
+# Voices of the Void – Čeština 
+<el-tag type="warning" effect="light">#Official</el-tag> <el-tag type="info" effect="light">#Demo</el-tag> <el-tag type="primary" effect="light">#Alpha</el-tag>
 
 ![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/korektura-90%25-gold?style=for-the-badge)
