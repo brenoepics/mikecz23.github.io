@@ -25,7 +25,7 @@ const people = {
 
 # Infection Free Zone - Čeština 
 <el-tag type="danger" effect="light">#WIP</el-tag>
-<br><br>
+<br /><br />
 
 <div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
   <div class="infopr">Preklad:</div>
