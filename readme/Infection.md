@@ -23,7 +23,8 @@ const people = {
   <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1465460/library_hero.jpg?t=1644920770">
 </div>
 
-# Infection Free Zone - Čeština <el-tag type="danger" effect="light">#WIP</el-tag>
+# Infection Free Zone - Čeština 
+<el-tag type="danger" effect="light">#WIP</el-tag>
 <br>
 
 <div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
