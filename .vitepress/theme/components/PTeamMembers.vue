@@ -57,6 +57,7 @@ defineProps<{
 
 .icon {
     margin-left: 2px; /* Mezery mezi textem a ikonou */
+    position: relative;
     top: 5px;
     width: 16px; /* Šířka ikony */
     height: 16px; /* Výška ikony */
