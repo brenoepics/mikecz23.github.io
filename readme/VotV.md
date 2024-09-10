@@ -25,7 +25,7 @@ const people = {
   ],
   partners: [
     { name: "RTHWLDN", role: "Mediální partner"},
-    { name: "Sterakdary", role: "Promo", url: "https://www.youtube.com/@TenSterakdary"}
+    { name: "Sterakdary", role: "Promo", url: "https://sterakdary.cz"}
   ]
 };
 </script>
