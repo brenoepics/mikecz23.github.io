@@ -67,6 +67,7 @@ cesta: ..\Infection Free Zone_Data\StreamingAssets\Languages <br />
 
 ## Ke stažení
 <a href="">Stáhnout</a>
+WIP
 
 <el-divider />
 
