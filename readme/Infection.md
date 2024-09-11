@@ -65,8 +65,8 @@ Na překladu se podílejí následující lidé:
 ### Instalace
 cesta: ..\Infection Free Zone_Data\StreamingAssets\Languages <br />
 
-## Ke stažení (WIP)
-[Stáhnout](#)
+## Ke stažení
+<!-- [Stáhnout](#) -->
 
 <el-divider />
 
