@@ -69,6 +69,8 @@ Na překladu se podílejí následující lidé:
 
 ## Hlášení
 **CHYBY V PŘEKLADU NAHLAŠUJTE NA JEHO DISCORDU V [TÉTO ROOMCE](https://discord.com/channels/512287844258021376/1213827086708379688) VE FORMĚ SCREENU, A JÁ DO DRUHÉHO DNE VYDÁM UPDATE**
+<br><br>
+Češtinu má hra officiálně, ale toto slouží jen jako opravy řádků. Do další verze hry se toto propíše přímo do hry
 
 ---
 ### Instalace
