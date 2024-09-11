@@ -169,7 +169,8 @@ export default defineConfig({
           { text: "Hollow Knight", link: "/readme/hollow", activeMatch: "/hollow/"},
           { text: "Plague Inc", link: "/readme/plague", activeMatch: "/plague/" },
           { text: 'Voices of the Void', link: '/readme/VotV', activeMatch: "/VotV/"},
-          { text: 'Progressbar95', link: '/readme/progressbar95', activeMatch: "/progressbar95/"}]},
+          { text: 'Progressbar95', link: '/readme/progressbar95', activeMatch: "/progressbar95/"},
+          { text: 'Infection Free Zone', link: '/readme/Infection', activeMatch: "/Infection/"}]},
  //       { text: 'Pertim', items: [
  //         { text: "Summer of 58", link: "/readme/summer", activeMatch: "/summer/"},
  //         { text: "Silver Chains", link: "/readme/silcha", activeMatch: "/silcha/" },
