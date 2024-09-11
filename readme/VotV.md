@@ -24,7 +24,7 @@ const people = {
     { name: "termit", role: "Technika, fonty"},
   ],
   partners: [
-    { name: "RTHWLDN", role: "Mediální partner"},
+    { name: "RTHWLDN", role: "Mediální partner", url: "https://rothwellden.art"},
     { name: "Sterakdary", role: "Promo", url: "https://sterakdary.cz"}
   ]
 };
