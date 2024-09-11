@@ -66,7 +66,7 @@ Na překladu se podílejí následující lidé:
 cesta: ..\Infection Free Zone_Data\StreamingAssets\Languages <br />
 
 ## Ke stažení
-<a href="">Stáhnout</a>
+<a href="">Stáhnout</a> <br>
 WIP
 
 <el-divider />
