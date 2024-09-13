@@ -36,10 +36,22 @@ const people = {
 
 # Voices of the Void – Čeština 
 <el-tag type="warning" effect="light">#Official</el-tag> <el-tag type="info" effect="light">#Demo</el-tag> <el-tag type="primary" effect="light">#Alpha</el-tag>
+<br>
+<br>
 
-![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
-![](https://img.shields.io/badge/korektura-90%25-gold?style=for-the-badge)
-![](https://img.shields.io/badge/testování-90%25-blue?style=for-the-badge)<br>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Preklad:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="100" :stroke-width="18" :text-inside="true" status="success" striped /></div>
+</div>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Korektura:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="90" :stroke-width="18" :text-inside="true" status="warning" striped /></div>
+</div>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Testovani:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="90" :stroke-width="18" :text-inside="true" status="primary" striped /></div>
+</div>
+    
 ![](https://img.shields.io/badge/herní%20klient-itch.io-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20hry-0.8-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20překladu-0.7-red?style=for-the-badge&labelColor=red)
