@@ -38,14 +38,27 @@ const people = {
 
 # Plague Inc – Čeština 
 <el-tag type="warning" effect="light">#EarlyAccess</el-tag>
+<br>
+<br>
 
-![Stav překladu](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge)
-![Stav překladu](https://img.shields.io/badge/korektura-1%25-gold?style=for-the-badge)<br>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Preklad:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="100" :stroke-width="18" :text-inside="true" status="success" striped /></div>
+</div>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Korektura:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="80" :stroke-width="18" :text-inside="true" status="warning" striped /></div>
+</div>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Testovani:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="80" :stroke-width="18" :text-inside="true" status="primary" striped /></div>
+</div>
+    
 ![](https://img.shields.io/badge/herní%20klient-Steam-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20hry-1.19.1.0-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20překladu-0.7.2-grey?style=for-the-badge)
-<!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
 
+------------
 Plague Inc: Evolved je jedinečná kombinace vysoké strategie a děsivě realistické simulace. Váš patogen právě nakazil „Patient Zero“ - nyní musíte dosáhnout konce lidské historie vyvinutím smrtícího, globálního moru a zároveň se přizpůsobit všem, co lidstvo může udělat, aby se bránilo.
 <br><br>
 Plague Inc: The Cure byla vytvořena za pomoci světových odborníků na zdraví a infekční choroby z celého světa, včetně Koalice pro připravenost na epidemii (CEPI), Světové zdravotnické organizace (WHO) a Globální sítě pro vypuknutí a reakci na ohniska (GOARN). Vaším úkolem je vyvážit sociální, ekonomické a globální zdravotní faktory s cílem udržet nemoc pod kontrolou a zároveň zachovat důvěru veřejnosti.
