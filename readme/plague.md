@@ -42,7 +42,7 @@ const people = {
 <br>
 
 <div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
-  <div class="infopr">Preklad:</div>
+  <div class="infopr">Překlad:</div>
   <div class="progpr" style="flex: 1"><el-progress :percentage="100" :stroke-width="18" :text-inside="true" status="success" striped /></div>
 </div>
 <div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
