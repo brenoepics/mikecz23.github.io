@@ -32,8 +32,6 @@ export default {
 
     app.use(ElementPlus)
 
-    vitepressMusic(playlist);
-
     vitepressBackToTop({
       // default
       threshold:300
