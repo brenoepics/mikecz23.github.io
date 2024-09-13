@@ -46,11 +46,21 @@ const people = {
 
 # Hollow Knight – Čeština 
 <el-tag type="info" effect="light">#mods</el-tag>
+<br>
+<br>
 
-![](https://img.shields.io/badge/přeloženo-100%25-darkgreen?style=for-the-badge) 
-<!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
-<!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
-<!-- <img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu"> -->
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Preklad:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="100" :stroke-width="18" :text-inside="true" status="success" striped /></div>
+</div>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Korektura:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="100" :stroke-width="18" :text-inside="true" status="warning" striped /></div>
+</div>
+<div class="stavpr prog-custom" style="display: flex; align-items: center; column-gap: 12px">
+  <div class="infopr">Testovani:</div>
+  <div class="progpr" style="flex: 1"><el-progress :percentage="100" :stroke-width="18" :text-inside="true" status="primary" striped /></div>
+</div>
 
 Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružství v rozlehlém zničeném království hmyzu a hrdinů. Prozkoumejte kroutící se jeskyně, bojujte s poskvrněnými tvory a spřátelte se s bizarními brouky, to vše v klasickém, ručně kresleném 2D stylu.
 
