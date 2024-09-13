@@ -62,6 +62,7 @@ const people = {
   <div class="progpr" style="flex: 1"><el-progress :percentage="100" :stroke-width="18" :text-inside="true" status="primary" striped /></div>
 </div>
 
+------------
 Vytvořte si svou vlastní cestu v Hollow Knight! Epické akční dobrodružství v rozlehlém zničeném království hmyzu a hrdinů. Prozkoumejte kroutící se jeskyně, bojujte s poskvrněnými tvory a spřátelte se s bizarními brouky, to vše v klasickém, ručně kresleném 2D stylu.
 
 ## Požadavky
