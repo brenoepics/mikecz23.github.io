@@ -90,7 +90,7 @@ cesta: ..\VotV\Content\Paks <br />
 nahradí to Češtinu
 
 ## Ke stažení
-[Stáhnout](https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0) <br />
+<a href="https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0" target="_blank">Stáhnout</a> <br>
 21. srpen 2024 - oprava několika řádků
 
 <el-divider />
