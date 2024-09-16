@@ -24,7 +24,7 @@ const people = {
 </div>
 
 # Infection Free Zone - Čeština 
-<el-tag type="danger" effect="light">#WIP</el-tag>
+<el-tag type="warning" effect="light">#EarlyAccess</el-tag>
 <br>
 <br>
 
@@ -43,7 +43,7 @@ const people = {
 
 ![](https://img.shields.io/badge/herní%20klient-Steam-grey?style=for-the-badge) 
 ![](https://img.shields.io/badge/verze%20hry-aktuální-grey?style=for-the-badge) 
-![](https://img.shields.io/badge/verze%20překladu-WIP-red?style=for-the-badge&labelColor=red)
+![](https://img.shields.io/badge/verze%20překladu-0.8-grey?style=for-the-badge)
 
 ------------
 Vyberte si libovolný skutečný region na světě. Zvolte si základnu a poté přestavte a přizpůsobte budovy v okolí, abyste vytvořili soběstačnou osadu. Převezměte vedení skupiny přeživších z vašeho města. A když padne noc - braňte zónu před nakaženými!
@@ -66,8 +66,7 @@ Na překladu se podílejí následující lidé:
 cesta: ..\Infection Free Zone_Data\StreamingAssets\Languages <br />
 
 ## Ke stažení
-<a href="">Stáhnout</a> <br>
-WIP
+<a href="https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0">Stáhnout</a> <br>
 
 <el-divider />
 
