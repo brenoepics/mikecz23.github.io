@@ -89,7 +89,7 @@ Na překladu se podílejí následující lidé:
 
 ## Ke stažení
 <el-badge :value="7100" :max="7000" class="item">
-  <a href="https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0">Stáhnout</a>
+  <a href="https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0" target="_blank">Stáhnout</a> <br>
 </el-badge> <br>
 15. Prosinec 2023
 
