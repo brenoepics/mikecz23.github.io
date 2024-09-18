@@ -1,5 +1,5 @@
 ---
-title: Infection Free Zone– Čeština
+title: Infection Free Zone – Čeština
 sidebar: false
 lastUpdated: false
 editLink: false
