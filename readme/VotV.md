@@ -1,5 +1,5 @@
 ---
-title: Voices of the Void - čeština
+title: Voices of the Void – čeština
 sidebar: false
 lastUpdated: false
 editLink: false
