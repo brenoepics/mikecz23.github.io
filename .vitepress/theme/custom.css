@@ -215,10 +215,9 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 	margin: 0;
 }
 
-.svglink{
+.svg{
   display: inline-block;
-  justify-content: center;
-  align-items: center;
+  vertical-align: top;
 }
 
 .prog-custom .el-progress.is-success .el-progress-bar__inner{
