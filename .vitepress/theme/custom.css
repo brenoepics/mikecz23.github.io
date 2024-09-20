@@ -215,8 +215,7 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
 	margin: 0;
 }
 
-.svg,
-.svg span{
+.svg {
   display: inline-block;
   vertical-align: top;
 }
