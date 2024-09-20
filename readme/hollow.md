@@ -93,7 +93,7 @@ Na překladu se podílejí následující lidé:
 </div>
 
 ## Instalace
-Exáč se o vše postará. Hlavně splň požadavky<a class="svg footnote" href="#pozadavky">↩</a>
+Exáč se o vše postará. Hlavně splň požadavky.<a class="svg footnote" href="#pozadavky">↩</a>
 
 ## Ke stažení
 <el-badge :value="3500" :max="3000" class="item">
