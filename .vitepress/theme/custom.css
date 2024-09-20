@@ -220,7 +220,7 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   vertical-align: top;
 }
 .svg.footnote{
-  scaleY(-1);
+  transform: scaleY(-1);
 }
 
 .prog-custom .el-progress.is-success .el-progress-bar__inner{
