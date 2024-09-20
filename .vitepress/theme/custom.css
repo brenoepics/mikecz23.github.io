@@ -219,9 +219,6 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   display: inline-block;
   vertical-align: top;
 }
-.svg.footnote{
-  transform: scaleY(-1);
-}
 
 .prog-custom .el-progress.is-success .el-progress-bar__inner{
   background-color: var(--el-color-custom-success);
