@@ -235,14 +235,26 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   background-color: var(--el-color-custom-primary);
 }
 .stavpr{
-  margin-bottom: 5px;
+  margin-bottom: 7.5px;
 }
 .infopr{
   max-width: 5px;
 }
-.progpr{
+.progpr .el-progress-bar{
   max-width: 5000px;
   margin-left: 7em;
+  border: 3px solid var(--el-border-color-lighter);
+  border-radius: 50px;
+  color:var(--vp-c-text-1);
+  /* box-shadow: rgba(213, 217, 217, 0.266) 0 2px 5px 0; */
+}
+.progpr .el-progress-bar__inner{
+  text-align: center;
+}
+.progpr .el-progress-bar__innerText{
+  /* color:var(--vp-c-text-1); */
+  font-weight: 500;
+  /* filter: drop-shadow(rgb(0, 0, 0) 1px 1px 1px); */
 }
 /*********************************************/
 .dark{
