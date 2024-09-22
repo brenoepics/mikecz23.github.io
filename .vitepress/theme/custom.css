@@ -241,15 +241,20 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   max-width: 5px;
 }
 .progpr .el-progress-bar{
+  position: relative;
   max-width: 5000px;
   margin-left: 7em;
-  border: 3px solid var(--el-border-color-lighter);
-  border-radius: 50px;
+  border: 3px solid var(--el-border-color-lighter); 
+  border-radius: var(--outer-radius);
+  --outer-radius: 50px; /* FOCUS SEM */
   color:var(--vp-c-text-1);
+  overflow: hidden;
   /* box-shadow: rgba(213, 217, 217, 0.266) 0 2px 5px 0; */
 }
-.progpr .el-progress-bar__inner{
+.progpr .el-progress-bar__inner,
+.progpr .el-progress-bar__outer{
   text-align: center;
+  border-radius: calc(var(--outer-radius) - 3px);
 }
 .progpr .el-progress-bar__innerText{
   /* color:var(--vp-c-text-1); */
