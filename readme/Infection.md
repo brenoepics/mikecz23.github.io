@@ -66,7 +66,7 @@ Na překladu se podílejí následující lidé:
 cesta: ..\Infection Free Zone_Data\StreamingAssets\Languages <br />
 
 ## Ke stažení
-<a href="https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0" target="_blank">Stáhnout</a> <br>
+<a href="https://www.dropbox.com/scl/fi/ndm9u6hfotj6vifcjrsg6/InfectionFreeZone_V08.rar?rlkey=z9f2hpe4l11v4syqqxaho4fd5&st=2sbzwmrm&dl=0" target="_blank">Stáhnout</a> <br>
 
 <el-divider />
 
