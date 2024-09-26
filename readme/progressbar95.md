@@ -45,7 +45,7 @@ Na překladu se podílejí následující lidé:
 cesta: Progressbar95\Resources\international\en <br />
 
 ## Ke stažení
-<a href="https://www.dropbox.com/scl/fi/wy3jpyxcydhk2s54lnav6/Progressbar95-Czech.7z?rlkey=6z5xn804mbv34d9twaybag005&st=2m6f12bj&dl=0" target="_blank">Stáhnout</a> <br>
+<a href="https://www.dropbox.com/scl/fi/wy3jpyxcydhk2s54lnav6/Progressbar95-Czech.7z?rlkey=6z5xn804mbv34d9twaybag005&st=2m6f12bj&dl=1" target="_blank">Stáhnout</a> <br>
 
 <el-divider />
 
