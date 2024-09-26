@@ -97,7 +97,7 @@ Exáč se o vše postará. Hlavně splň požadavky. <a href="#pozadavky"><svg c
 
 ## Ke stažení
 <el-badge :value="3500" :max="3000" class="item">
-  <a href="https://www.dropbox.com/scl/fi/5tpna05csgzojvlhsgcpv/HollowKnight-Czech.exe?rlkey=abj4xgakbxoh4sjdw4gyeq7vc&st=alhbd51o&dl=0" target="_blank">Stáhnout</a> <br>
+  <a href="https://www.dropbox.com/scl/fi/5tpna05csgzojvlhsgcpv/HollowKnight-Czech.exe?rlkey=abj4xgakbxoh4sjdw4gyeq7vc&st=alhbd51o&dl=1" target="_blank">Stáhnout</a> <br>
 </el-badge> <br>
 4. květen 2024 - oprava několika řádků
 
