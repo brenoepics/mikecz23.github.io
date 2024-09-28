@@ -12,10 +12,10 @@ import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 
 const baseUrl = 'https://mikecz23.github.io'
 const RSS: RSSOptions = {
-  title: 'MikeCZ - Češtiny',
+  title: 'Češtiny od MikeCZ',
   baseUrl,
   copyright: 'Copyright (c) 2024-present',
-  description: 'Testovani',
+  description: 'Fan Češtiny',
   language: 'cs',
   author: {
     name: 'MikeCZ',
