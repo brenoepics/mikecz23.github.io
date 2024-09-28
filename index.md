@@ -9,7 +9,7 @@ editLink: false
 publish: false
 
 hero:
-  name: MikeCZ - Češtiny
+  name: Češtiny od MikeCZ
   text: Vítej na profilu fanouškovských překladů her.
   tagline:
   image:
