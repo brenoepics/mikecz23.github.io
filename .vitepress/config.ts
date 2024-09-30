@@ -151,7 +151,7 @@ export default defineConfig({
    // lastUpdated: {
    //   text: 'Updated at',
    //   formatOptions: {
-   //     dateStyle: 'short'
+   //     dateStyle: 'short',
        // timeStyle: 'none'
   //    }
   //  },
