@@ -42,7 +42,7 @@ for (const source of await FastGlob("novinky/*-*.md")) {
 export default defineConfig({
     ignoreDeadLinks: true,
     lastUpdated: true,
-    appearance: 'dark',
+    appearance: 'dark', /* force-dark */
 
     vite: {
     plugins: [
