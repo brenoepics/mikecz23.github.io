@@ -1,4 +1,4 @@
-.dark{
+html.dark{
   color-scheme:dark;
 	--vp-c-divider: #2e2e32; /* <hr> barva */
   --vp-c-gutter: #2e2e32; /* horní <hr> */
