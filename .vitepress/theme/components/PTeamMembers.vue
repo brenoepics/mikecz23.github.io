@@ -62,8 +62,8 @@ defineProps<{
     margin-left: 2px; /* Mezery mezi textem a ikonou */
     width: 16px; /* Šířka ikony */
     height: 16px; /* Výška ikony */
-    color: var(--vp-c-text-2); /* Barva ikony */
-    bottom: 7px;
+    color: var(--vp-c-text-3); /* Barva ikony */
+    bottom: 6px;
     position: relative;
 }
 
