@@ -41,9 +41,6 @@ const people = {
 <a href="" class="red">
 <el-tag type="warning" effect="light">Official</el-tag>
 </a>
-<a href="" class="blue">
-<el-tag type="warning" effect="light">Alfa</el-tag>
-</a>
 <a href="" class="purple">
 <el-tag type="warning" effect="light">Demo</el-tag>
 </a></div></span> 
