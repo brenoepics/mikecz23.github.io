@@ -96,7 +96,7 @@ cesta: ..\VotV\Content\Paks <br />
 nahradí to Češtinu
 
 ## Ke stažení
-<a href="https://www.dropbox.com/sh/d26pxc72en77ipg/AAAV0iAZKVGZrmA9-wyyEaXKa?dl=0" target="_blank">Stáhnout</a> <br>
+<a href="https://www.dropbox.com/scl/fi/ktf9o7xv1obk74z3thyqo/VotV_Czech.7z?rlkey=qtgj5tggxnej92s8bgm5qxqms&st=ncz80j55&dl=1" target="_self">Stáhnout</a> <br>
 21. srpen 2024 - oprava několika řádků
 
 <el-divider />
