@@ -404,6 +404,9 @@ html:not(.dark) img[data-mode="darkmode-only"] + figcaption {
   height: 1em;
   margin-inline-end: .25em;
 }
+.page-tag-info{
+  margin-bottom: 20px;
+}
 .tag-custom.page-tag-item {
   position: relative;
   display: inline-block;
