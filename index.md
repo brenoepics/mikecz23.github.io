@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Úvod
+title: Češtiny od MikeCZ
 sidebar: false
 comments: false
 lastUpdated: false
