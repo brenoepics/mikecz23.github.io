@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Češtiny
+title: Úvod
 sidebar: false
 comments: false
 lastUpdated: false
