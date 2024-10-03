@@ -10,7 +10,7 @@ publish: false
 
 hero:
   name: Češtiny od MikeCZ
-  text: Vítej na profilu fanouškovských překladů her.
+  text: Vítej na profilu mých překladů her.
   tagline:
   image:
     light:
