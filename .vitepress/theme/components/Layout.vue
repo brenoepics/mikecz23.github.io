@@ -1,6 +1,6 @@
 <script setup lang="ts">
+import HomeHeroComponent from "./HomeHeroComponent.vue";
 import DefaultTheme from 'vitepress/theme'
-import Comments from './disqus.vue'
 import Giscus from '@giscus/vue'
 
 const { Layout } = DefaultTheme
@@ -9,6 +9,9 @@ const { frontmatter, title } = useData()
 
 <template>
   <Layout>
+    <template #home-hero-info>
+      <HomeHeroComponent/>
+    </template>
     <template #doc-after>
       <div v-if="frontmatter.comments !== false" :key="title" class="giscus">
         <Giscus
@@ -58,4 +61,3 @@ export default {
   }
 }
 </script>
-
