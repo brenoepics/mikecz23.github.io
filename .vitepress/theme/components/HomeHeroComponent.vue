@@ -17,7 +17,7 @@ const icon = {
   wrap: false
 };
 
-const colors = ['transparent', 'var(--vp-c-brand-1)', 'var(--vp-c-brand-3)'];
+const colors = ['transparent', '#1549e6', '#f00'];
 </script>
 <template>
   <div class="hero-container">
@@ -47,6 +47,7 @@ const colors = ['transparent', 'var(--vp-c-brand-1)', 'var(--vp-c-brand-3)'];
 
 .hero-container:hover .git-highlight ::v-deep(.glowing-icon-glow) {
   animation: glowing 2s infinite;
+  background: rgb(0, 115, 255);
 }
 
 @keyframes glowing {
