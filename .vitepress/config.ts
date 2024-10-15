@@ -57,7 +57,7 @@ export default defineConfig({
     }),
     RssPlugin(RSS),
   ],
-  ssr: { noExternal: ['element-plus', /\.css$/, /\.vue$/, /^vitepress-carbon/, /^vitepress/]
+  ssr: { noExternal: ['element-plus', /\.css$/, /\.vue$/, /^vitepress-carbon/, /^vitepress/, '@docsearch/css']
     },
   css: {
     postcss: {
